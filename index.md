@@ -27,6 +27,11 @@
 > "**Bipartite consensus on matrix-valued weighted networks**"   
 >  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
 
+
+>  Lulu Pan, **Haibin Shao**, Mehran Mesbahi.   
+>  "**Laplacian dynamics on signed networks**"   
+>  **55th Conference on Decision and Control (CDC)** (2016): 891-896.  
+
 > **Haibin Shao**, Mehran Mesbahi, Dewei Li, and Yugeng Xi.   
 > "**Inferring centrality from network snapshots**"   
 > **Scientific reports** 7, no. 1 (2017): 1-13.  
@@ -42,4 +47,4 @@ shore At sjtu Dot edu Dot cn
 ### WeChat
 <img src="./images/qr.png" width="100" height="100"/>
 
-<p><a href="http://www.clustrmaps.com/map/shaohaibin.github.io" title="Visit tracker for shaohaibin.github.io"><img src="//www.clustrmaps.com/map_v2.png?u=sqAQ&d=YVX7eO0QbalDRmfl_F8R4SEFkRAZsKu910jCDqUS9KE" /></a></p>
+<p><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bfh_d847zkv8wAbEuGugG_PCPgQI6FZhXr2FAruzDbI&cl=ffffff&w=a"></script></p>
