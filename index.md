@@ -47,4 +47,4 @@ shore At sjtu Dot edu Dot cn
 ### WeChat
 <img src="./images/qr.png" width="100" height="100"/>
 
-<p><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bfh_d847zkv8wAbEuGugG_PCPgQI6FZhXr2FAruzDbI&cl=ffffff&w=a"></script></p>
+<p><div style="width:200px;"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bfh_d847zkv8wAbEuGugG_PCPgQI6FZhXr2FAruzDbI&cl=ffffff&w=a"></script></div></p>
