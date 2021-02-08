@@ -6,7 +6,7 @@ layout: default
 
 [1] Chongzhi Wang, Lulu Pan, Dewei Li, Haibin Shao, and Yugeng Xi. Consensus of second-order matrix-weighted multi-agent networks. In 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), pages 590–595. IEEE, 2020.
 
-[2] Xiaoxing Ren, Dewei Li, Yugeng Xi, and Haibin Shao. Distributed subgradient algorithm for multi-agent optimization with uncoordinated dynamic stepsizes. In 2020 IEEE 16th Inter- national Conference on Control & Automation (ICCA), pages 199–204. IEEE, 2020.
+[2] Xiaoxing Ren, Dewei Li, Yugeng Xi, and Haibin Shao. Distributed subgradient algorithm for multi-agent optimization with uncoordinated dynamic stepsizes. In 2020 IEEE 16th International Conference on Control & Automation (ICCA), pages 199–204. IEEE, 2020.
 
 [3] Chongzhi Wang, Lulu Pan, Haibin Shao, Dewei Li, and Yugeng Xi. Characterizing bi- partite consensus with balancing set on signed matrix-weighted networks. arXiv preprint arXiv:2011.14105, 2020.
 
@@ -52,28 +52,14 @@ layout: default
 
 [24] Haibin Shao, Lulu Pan, and Mehran Mesbahi. A data-driven approach for influencing con- sensus networks. In 2015 American Control Conference (ACC), pages 347–352. IEEE, 2015.
 
-[25] Haibin Shao and Mehran Mesbahi. Degree of relative influence for consensus-type networks.
+[25] Haibin Shao and Mehran Mesbahi. Degree of relative influence for consensus-type networks. In 2014 American Control Conference, pages 2676–2681. IEEE, 2014.
 
-In 2014 American Control Conference, pages 2676–2681. IEEE, 2014.
+[26] Jidong Jin, Yufan Zheng, Haibin Shao, and Linglin Shu. Consensus problem of second-order multi-agent system in directed network: A matrix analysis approach. In 2010 Chinese Control and Decision Conference, pages 3970–3975. IEEE, 2010.
 
-[26] Jidong Jin, Yufan Zheng, Haibin Shao, and Linglin Shu. Consensus problem of second-order multi-agent system in directed network: A matrix analysis approach. In 2010 Chinese Control
+[27] Haibin Shao, Yufan Zheng, and Yugeng Xi. Consensus of second-order multi-agent systems under time-varying communication networks. In 2011 8th Asian Control Conference (ASCC), pages 101–106. IEEE, 2011.
 
-and Decision Conference, pages 3970–3975. IEEE, 2010.
+[28] Linglin Shu, Yufan Zheng, Haibin Shao, and Weiyun Pan. Aggregation stability of multiple agents with general nonlinear attraction and repulsion forces. In 2009 IEEE International Conference on Control and Automation, pages 303–308. IEEE, 2009.
 
-[27] Haibin Shao, Yufan Zheng, and Yugeng Xi. Consensus of second-order multi-agent systems
-
-under time-varying communication networks. In 2011 8th Asian Control Conference (ASCC),
-
-pages 101–106. IEEE, 2011.
-
-[28] Linglin Shu, Yufan Zheng, Haibin Shao, and Weiyun Pan. Aggregation stability of multiple
-
-agents with general nonlinear attraction and repulsion forces. In 2009 IEEE International
-
-Conference on Control and Automation, pages 303–308. IEEE, 2009.
-
-[29] Yufan Zheng, Haibin Shao, and Weiyun Pan. Consensus problem of double-integrator dy- namics system under time-varying networks. In 2009 7th Asian Control Conference, pages
-
-343–348. IEEE, 2009.
+[29] Yufan Zheng, Haibin Shao, and Weiyun Pan. Consensus problem of double-integrator dy- namics system under time-varying networks. In 2009 7th Asian Control Conference, pages 343–348. IEEE, 2009.
 
 [back](./)
