@@ -36,7 +36,7 @@
 > "**Inferring centrality from network snapshots**"   
 > **Scientific reports** 7, no. 1 (2017): 1-13.  
 
-[Full List](./publication-full.md).
+[Full List](./publication-full.md)
 
 <h2 id="Software">Software</h2>
 ### Neighbor selection
