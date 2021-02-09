@@ -19,6 +19,11 @@
 >  "**Consensus on Matrix-weighted Switching Networks**"   
 >  **IEEE Transactions on Automatic Control** (2021). (To appear)
 
+> Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.    
+>  "**Characterizing bi- partite consensus with balancing set on signed matrix-weighted networks**" 
+>  **Automatica** (2020). (under review)
+>  arXiv preprint arXiv:2011.14105, 2020.
+
 > **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, and Dewei Li.   
 >  "**Relative tempo of distributed averaging on networks**"   
 >  **Automatica** 105 (2019): 159-166.  
