@@ -27,14 +27,17 @@
 > "**Bipartite consensus on matrix-valued weighted networks**"   
 >  **IEEE Transactions on Circuits and Systems II: Express Briefs** 66, no. 8 (2018): 1441-1445.  
 
+> **Haibin Shao**, Mehran Mesbahi, Dewei Li, and Yugeng Xi.   
+> "**Inferring centrality from network snapshots**"   
+> **Scientific reports** 7, no. 1 (2017): 1-13.  
 
 >  Lulu Pan, **Haibin Shao**, Mehran Mesbahi.   
 >  "**Laplacian dynamics on signed networks**"   
 >  **55th Conference on Decision and Control (CDC)** (2016): 891-896.  
 
-> **Haibin Shao**, Mehran Mesbahi, Dewei Li, and Yugeng Xi.   
-> "**Inferring centrality from network snapshots**"   
-> **Scientific reports** 7, no. 1 (2017): 1-13.  
+>  **Haibin Shao**, Yugeng Xi, Mehran Mesbahi.   
+>  "**On the degree of synchrony**"   
+>  **54th Conference on Decision and Control (CDC)** (2015): 986–991.  
 
 [Full List](./publication-full.md)
 
