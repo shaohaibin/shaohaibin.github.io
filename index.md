@@ -9,6 +9,8 @@
 
 * **Social networks** 
 
+* **Laplacian**
+
 * **Fiedler vector**
 
 <h2 id="Publications">Publications</h2>
