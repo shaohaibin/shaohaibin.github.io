@@ -9,7 +9,7 @@
 
 * **Social networks** 
 
-* **Laplacian**
+* **Discrete Laplacian**
 
 * **Fiedler vector**
 
