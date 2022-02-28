@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
+<!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
+
+
+### Findings ###
+
+## Connectivity does NOT Translate into Consensus
+
+In this thread of works, we examine:
+
+***Collective behaviors of matrix-weight networks (MWNs), where matrix-valued edge weights are employed to characterize the inter-denpendency of high-dimensional states amongst neighboring agents***.
+
+We have established the following results:
+
+1. ***Cluster consensus and structural balance of MWNs***
+2. ***Cluster consensus on time-varying MWNs***
+3. ***Controllability of MWNs***
+4. ***Constraint-Aware Coordination on MWNs***
+
+#### Related Papers
+
+##### Collective behaviors
+
+1. Lulu Pan, Haibin Shao*, Mehran Mesbahi, Dewei Li, Yugeng Xi. **[Cluster Consensus on Matrix-weighted Switching Networks](https://arxiv.org/abs/2107.09292)**. **Automatica**, 2022. (To appear)
+2. Lulu Pan, Haibin Shao*, Mehran Mesbahi, Yugeng Xi and Dewei Li. **[Consensus on matrix-weighted switching networks](https://ieeexplore.ieee.org/document/9366828/)**. **IEEE Transactions on Automatic Control**, 2021, 66(12):5990-5996.
+3. Lulu Pan, Haibin Shao, Mehran Mesbahi, Yugeng Xi and Dewei Li. **[Bipartite consensus on matrix-valued weighted networks](https://ieeexplore.ieee.org/document/8556038)**. **IEEE Transactions on Circuits and Systems II: Express Briefs**, 2018, 66(8):1441-1445.
+4. Lulu Pan, Haibin Shao ,  Yugeng Xi, and Dewei Li . [Bipartite consensus problem on matrix- valued weighted directed networks](http://scis.scichina.com/en/2021/149204.pdf). **SCIENCE CHINA Information Sciences**, 2018. [Supplementary](http://scis.scichina.com/en/2021/149204-supplementary.pdf) 
+
+##### Controllability
+
+1. Lulu Pan, Haibin Shao*, Mehran Mesbahi, Yugeng Xi and Dewei Li. **[On the controllability of matrix-weighted networks](https://ieeexplore.ieee.org/abstract/document/9036925)**. **IEEE System Control Letter**, 2020, 3(4):572-577.
+
+##### Constraint-Aware Coordination
+
+1. Lulu Pan, Haibin Shao, Yuanlong Li, Dewei Li, and Yugeng Xi. "[Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation](https://arxiv.org/abs/2110.13356)." *arXiv preprint arXiv:2110.13356* (2021).
+2. Lulu Pan, Haibin Shao, Dewei Li, and Yugeng Xi. "[Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks](https://arxiv.org/abs/2106.06198)." *arXiv preprint arXiv:2106.06198* (2021).
+
