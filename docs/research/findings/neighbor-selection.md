@@ -21,6 +21,11 @@ We have established the following results:
 1. ***Global network connectivity via local neighbor selection.***
 2. ***Convergence rate of reduced network can be drammatically enhanced.*** 
 
+
+#### Magic Equations
+
+$$ \dot{\boldsymbol{x}}_{i}(t)=-\sum_{i=1}^{n}w_{ij}\left(\boldsymbol{x}_{i}(t)-\boldsymbol{x}_{j}(t)\right), i\in\mathcal{V}. $$
+
 #### Related Papers
 
 1. Haibin Shao, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li. **[Relative tempo of distributed averaging on networks](https://www.sciencedirect.com/science/article/abs/pii/S0005109819301256?via%3Dihub)**. **Automatica**, 2019, 105:159-166.
