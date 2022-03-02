@@ -4,7 +4,7 @@ title: Positions
 nav_order: 2
 ---
 
-### **Postdoctoral researchers** 
+### Postdoctoral researchers
 
 团队招收多自主体系统和预测控制方向博士后 2 名，欢迎具有扎实理论基础的优秀博士申报，博士后待遇优厚（包含学校基础待遇与团队奖励）。
 
