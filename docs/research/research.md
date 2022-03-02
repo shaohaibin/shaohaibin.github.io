@@ -20,3 +20,5 @@ In particular, **swarm intelligence**, **multi-agent networks**, and **cyber-phy
 **<span style="color:Green;">Multi-Party Computation:</span>**  privacy-preserving consensus.  
 **<span style="color:Green;">Swarm Robotics:</span>** multi-robot platform development, data link simulation.      
 **<span style="color:Green;">Data-driven Paradigm:</span>**  behavioral system theory, TDA, distributed predictive control.  
+
+$$ \dot{\boldsymbol{x}}_{i}(t)=-\sum_{i=1}^{n}w_{ij}\left(\boldsymbol{x}_{i}(t)-\boldsymbol{x}_{j}(t)\right), i\in\mathcal{V}. $$
