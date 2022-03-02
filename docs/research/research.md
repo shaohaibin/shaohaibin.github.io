@@ -5,9 +5,6 @@ nav_order: 3
 has_children: true
 permalink: docs/research
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
-
- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
  
 ### Research ###
 
