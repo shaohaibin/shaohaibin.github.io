@@ -28,7 +28,7 @@ We have established the following results:
 
 Consider the following ordinary differential equations on a simple graph $$\mathcal{G} = (\mathcal{V},\mathcal{E},A)$$, 
 
-$$ \dot{\boldsymbol{x}}_{i}(t)=-\sum_{i=1}^{|\mathcal{V}|}a_{ij}\left(\boldsymbol{x}_{i}(t)-\boldsymbol{x}_{j}(t)\right), i\in\mathcal{V},$$
+$$ \dot{\boldsymbol{x}}_{i}(t)=-\sum_{j=1}^{|\mathcal{V}|}a_{ij}\left(\boldsymbol{x}_{i}(t)-\boldsymbol{x}_{j}(t)\right), i\in\mathcal{V},$$
 
 where $$\mathcal{V}=\{1,2,\cdots,n\}$$, $$A=[a_{ij}] \in \mathbb{R}^{n \times n}$$ is the [adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix) of $$\mathcal{G}$$.
 
