@@ -14,14 +14,14 @@ nav_order: 2
 
 # Less connected, but more functional
 
-Global network reachability  from local neighbor selection. [Read more](./neighbor-selection)
+Global network reachability  from local neighbor selection. [Read more](./findings/neighbor-selection)
 
 ---
 ## Connectivity does NOT Translate into Consensus
 
-Clustering in temporal matrix-weighted networks. [Read more](./temporal-mwn)
+Clustering in temporal matrix-weighted networks. [Read more](./findings/temporal-mwn)
 
 ---
 ## Privacy-preserving Computation
 
-A elegant feature of matrix-weighted networks is employed for privacy-preserving consensus. [Read more](./mwn-privavcy)
+A elegant feature of matrix-weighted networks is employed for privacy-preserving consensus. [Read more](./findings/mwn-privavcy)
