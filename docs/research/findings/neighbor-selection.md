@@ -24,7 +24,7 @@ We have established the following results:
 
 #### Magic Mathematics
 
-<span style="color:red;"> Relative Tempo Theorem (Linking Local Relative State and Fiedler Vector)</span>
+<span style="color:red;"> Relative Tempo Theorem (Linking Local Relative State and Fiedler Vector, Ref.2)</span>
 
 Consider the following ordinary differential equations on a simple graph $$\mathcal{G} = (\mathcal{V},\mathcal{E},A)$$, 
 
