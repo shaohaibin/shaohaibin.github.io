@@ -30,7 +30,7 @@ permalink: /
 ## Research interest ##
 I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**.
 
-In particular, **swarm intelligence**, **multi-agent networks**, and **cyber-physical systems**. [more details](/docs/research)
+In particular, **swarm intelligence**, **multi-agent networks**, **cyber-physical systems** and **multi-robot systems**. [more details](/docs/research)
 
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
 
