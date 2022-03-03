@@ -5,7 +5,7 @@ parent: Research
 nav_order: 1
 ---
 
-[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Working](#Working)  -    [By Topics](../findings/)  
+[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Working](#Working)  -    [By Topics](/docs/research/findings)  
 
 <span id="Working" style="font-size: 110%; color:Grey;">Working Papers</span>
 
