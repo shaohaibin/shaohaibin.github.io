@@ -20,23 +20,13 @@ nav_order: 6
 
 <div id="2017">2017</div>
 
-##### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne), France, July 2017
-
-![Carcassonne-map](/photos/France17/Carcassonne/Carcassonne-google-map.png){:hight="40px"} 
-
-![Carcassonne1](/photos/France17/Carcassonne/Carcassonne1.jpg){:hight="200px"}*The fortified city of Carcassonne and the Pont Vieux crossing the Aude river* 
-
-![Carcassonne2](/photos/France17/Carcassonne/Carcassonne2.jpg){:hight="200px"}
-
-![Carcassonne3](/photos/France17/Carcassonne/Carcassonne3.jpg){:hight="200px"}
-
-![Carcassonne4](/photos/France17/Carcassonne/Carcassonne4.jpg){:hight="200px"}
+##### [Carcassonne](album/carcassonne), France, July 2017
 
 <div id="2016">2016</div>
 
 <div id="2015">2015</div>
 
-##### [Osaka](https://en.wikipedia.org/wiki/Osaka), Japan, December 2015
+##### [Osaka](album/osaka), Japan, December 2015
 
 <div id="2014">2014</div>
 
