@@ -8,7 +8,7 @@ permalink: /
 
 <div>
     <div> 
-        <img src= "./images/haibin.jpg" alt="Longtail boat in Thailand" width="250" align="left" hspace="10" vspace="0"> 
+        <img src= "./images/haibin.jpg" alt="Longtail boat in Thailand" width="240" align="left" hspace="10" vspace="0"> 
     </div>                    	
         <span style="color:Gray;font-size:17px;">Haibin Shao,  Ph.D.</span><br/>        
         <a href="mailto:shore@sjtu.edu.cn">shore@sjtu.edu.cn</a><br/>
