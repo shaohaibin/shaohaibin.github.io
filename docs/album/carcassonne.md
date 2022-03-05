@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Album
-nav_order: 6
+title: Carcassonne
+parent: Album
+nav_order: 7
 ---
 
 ##### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne), France, July 2017

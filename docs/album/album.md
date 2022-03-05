@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Album
+has_children: true
+permalink: docs/album
 nav_order: 6
 ---
 
