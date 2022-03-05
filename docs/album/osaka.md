@@ -7,6 +7,7 @@ nav_order: 7
 
 ##### [Osaka](https://en.wikipedia.org/wiki/Osaka), Japan, December 2015
 
+![osaka-map](/photos/Japan15/Osaka/osaka-map.png){:hight="200px"}
 
 ![osaka1-0](/photos/Japan15/Osaka/osaka1-0.JPG){:hight="200px"}
 
