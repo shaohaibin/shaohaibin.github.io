@@ -36,6 +36,8 @@ nav_order: 6
 
 <div id="2015">2015</div>
 
+##### [Osaka](https://en.wikipedia.org/wiki/Osaka), Japan, December 2015
+
 <div id="2014">2014</div>
 
 <div id="2013">2013</div>
