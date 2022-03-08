@@ -12,31 +12,7 @@ nav_order: 7
 ![kyoto0](/photos/Japan15/kyoto/kyoto0.JPG){:hight="200px"}
 
 
-![kyoto1-0](/photos/Japan15/kyoto/kyoto1-0.JPG){:hight="200px"}
-
 ![kyoto1-1](/photos/Japan15/kyoto/kyoto1-1.JPG){:hight="200px"}
-
-![kyoto1-2](/photos/Japan15/kyoto/kyoto1-2.JPG){:hight="200px"}
-
-![kyoto1-3](/photos/Japan15/kyoto/kyoto1-3.JPG){:hight="200px"}
-
-![kyoto1-4](/photos/Japan15/kyoto/kyoto1-4.JPG){:hight="200px"}
-
-![kyoto1-5](/photos/Japan15/kyoto/kyoto1-5.JPG){:hight="200px"}
-
-![kyoto1-6](/photos/Japan15/kyoto/kyoto1-6.JPG){:hight="200px"}
-
-![kyoto1-7](/photos/Japan15/kyoto/kyoto1-7.JPG){:hight="200px"}
-
-![kyoto1-8](/photos/Japan15/kyoto/kyoto1-8.JPG){:hight="200px"}
-
-![kyoto1-9](/photos/Japan15/kyoto/kyoto1-9.JPG){:hight="200px"}
-
-![kyoto1-10](/photos/Japan15/kyoto/kyoto1-10.JPG){:hight="200px"}
-
-![kyoto1-11](/photos/Japan15/kyoto/kyoto1-11.JPG){:hight="200px"}
-
-
 
 
 ![kyoto2-1](/photos/Japan15/kyoto/kyoto2-1.JPG){:hight="200px"}
@@ -53,14 +29,55 @@ nav_order: 7
 
 ![kyoto2-7](/photos/Japan15/kyoto/kyoto2-7.JPG){:hight="200px"}
 
-![kyoto2-8](/photos/Japan15/kyoto/kyoto2-8.JPG){:hight="200px"}
 
-![kyoto2-9](/photos/Japan15/kyoto/kyoto2-9.JPG){:hight="200px"}
+![kyoto3-1](/photos/Japan15/kyoto/kyoto3-1.JPG){:hight="200px"}
 
-![kyoto2-10](/photos/Japan15/kyoto/kyoto2-10.JPG){:hight="200px"}
+![kyoto3-2](/photos/Japan15/kyoto/kyoto3-2.JPG){:hight="200px"}
 
-![kyoto2-11](/photos/Japan15/kyoto/kyoto2-11.JPG){:hight="200px"}
+![kyoto3-3](/photos/Japan15/kyoto/kyoto3-3.JPG){:hight="200px"}
 
-![kyoto2-12](/photos/Japan15/kyoto/kyoto2-12.JPG){:hight="200px"}
+![kyoto3-4](/photos/Japan15/kyoto/kyoto3-4.JPG){:hight="200px"}
 
-![kyoto2-13](/photos/Japan15/kyoto/kyoto2-13.JPG){:hight="200px"}
+![kyoto3-5](/photos/Japan15/kyoto/kyoto3-5.JPG){:hight="200px"}
+
+![kyoto3-6](/photos/Japan15/kyoto/kyoto3-6.JPG){:hight="200px"}
+
+![kyoto3-7](/photos/Japan15/kyoto/kyoto3-7.JPG){:hight="200px"}
+
+![kyoto3-8](/photos/Japan15/kyoto/kyoto3-8.JPG){:hight="200px"}
+
+![kyoto3-9](/photos/Japan15/kyoto/kyoto3-9.JPG){:hight="200px"}
+
+![kyoto3-10](/photos/Japan15/kyoto/kyoto3-10.JPG){:hight="200px"}
+
+![kyoto3-11](/photos/Japan15/kyoto/kyoto3-11.JPG){:hight="200px"}
+
+![kyoto3-12](/photos/Japan15/kyoto/kyoto3-12.JPG){:hight="200px"}
+
+![kyoto3-13](/photos/Japan15/kyoto/kyoto3-13.JPG){:hight="200px"}
+
+
+![kyoto4-1](/photos/Japan15/kyoto/kyoto4-1.JPG){:hight="200px"}
+
+![kyoto4-2](/photos/Japan15/kyoto/kyoto4-2.JPG){:hight="200px"}
+
+![kyoto4-3](/photos/Japan15/kyoto/kyoto4-3.JPG){:hight="200px"}
+
+![kyoto4-4](/photos/Japan15/kyoto/kyoto4-4.JPG){:hight="200px"}
+
+![kyoto4-5](/photos/Japan15/kyoto/kyoto4-5.JPG){:hight="200px"}
+
+![kyoto4-6](/photos/Japan15/kyoto/kyoto4-6.JPG){:hight="200px"}
+
+![kyoto4-7](/photos/Japan15/kyoto/kyoto4-7.JPG){:hight="200px"}
+
+![kyoto4-8](/photos/Japan15/kyoto/kyoto4-8.JPG){:hight="200px"}
+
+![kyoto4-9](/photos/Japan15/kyoto/kyoto4-9.JPG){:hight="200px"}
+
+![kyoto4-10](/photos/Japan15/kyoto/kyoto4-10.JPG){:hight="200px"}
+
+![kyoto4-11](/photos/Japan15/kyoto/kyoto4-11.JPG){:hight="200px"}
+
+![kyoto4-12](/photos/Japan15/kyoto/kyoto4-12.JPG){:hight="200px"}
+
