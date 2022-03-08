@@ -7,19 +7,19 @@ nav_order: 3
 
 ### Co-authors
 
-##### [Lulu Pan](https://scholar.google.com/citations?user=rl0LZpkAAAAJ&hl=en) (Shanghai Jiao Tong University)
+##### [Lulu Pan（潘鹿鹿）](https://scholar.google.com/citations?user=rl0LZpkAAAAJ&hl=en) (Shanghai Jiao Tong University)
 
 ##### [Mehran Mesbahi](https://www.aa.washington.edu/facultyfinder/mehran-mesbahi) (University  of Washington)
 
-##### [Yugeng Xi](https://scholar.google.com/citations?user=JgHa2uYAAAAJ&hl=zh-CN) (Shanghai Jiao Tong University)
+##### [Yugeng Xi（席裕庚）](https://scholar.google.com/citations?user=JgHa2uYAAAAJ&hl=zh-CN) (Shanghai Jiao Tong University)
 
-##### [Yufan Zheng](https://findanexpert.unimelb.edu.au/profile/1300-yufan-zheng) (University  of Melbourne)
+##### [Yufan Zheng（郑毓蕃）](https://findanexpert.unimelb.edu.au/profile/1300-yufan-zheng) (University  of Melbourne)
 
-##### [Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en) (Shanghai Jiao Tong University)
+##### [Dewei Li（李德伟）](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en) (Shanghai Jiao Tong University)
 
-##### [Yuanlong Li](https://automation.sjtu.edu.cn/LYL) (Shanghai Jiao Tong University)
+##### [Yuanlong Li（李元龙）](https://automation.sjtu.edu.cn/LYL) (Shanghai Jiao Tong University)
 
-##### [Shu Lin](https://scholar.google.com/citations?user=rpLR2XsAAAAJ&hl=en) (University of Chinese Academy of Sciences)
+##### [Shu Lin（林姝）](https://scholar.google.com/citations?user=rpLR2XsAAAAJ&hl=en) (University of Chinese Academy of Sciences)
 
 ##### Xiaoxing Ren (Shanghai Jiao Tong University)
 
