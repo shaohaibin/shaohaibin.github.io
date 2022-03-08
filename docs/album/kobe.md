@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kobe
+title: Kobe'15
 parent: Album
 nav_order: 7
 ---

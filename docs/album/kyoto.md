@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kyoto
+title: Kyoto'15
 parent: Album
 nav_order: 7
 ---

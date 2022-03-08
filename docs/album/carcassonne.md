@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Carcassonne
+title: Carcassonne'17
 parent: Album
 nav_order: 7
 ---

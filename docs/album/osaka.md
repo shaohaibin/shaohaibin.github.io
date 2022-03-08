@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Osaka
+title: Osaka'15
 parent: Album
 nav_order: 7
 ---
