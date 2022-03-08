@@ -10,7 +10,7 @@ permalink: /
     <div> 
         <img src= "./images/haibin.jpg" alt="Longtail boat in Thailand" width="240" align="left" hspace="10" vspace="0"> 
     </div>                    	
-        <span style="color:Gray;font-size:17px;">Haibin Shao,  Ph.D.</span><br/>        
+        <span style="color:Gray;font-size:17px;">Haibin Shao（邵海滨）,  Ph.D.</span><br/>        
         <a href="mailto:shore@sjtu.edu.cn">shore@sjtu.edu.cn</a><br/>
      	Professor (Assistant) <br/>
         <a href="https://automation.sjtu.edu.cn/haibin">Deparment of Automation</a><br/>
