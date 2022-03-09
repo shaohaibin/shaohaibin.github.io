@@ -30,6 +30,10 @@ nav_order: 6
 
 ##### [Osaka](album/osaka), Japan, December 2015
 
+##### [Kyoto](album/kyoto), Japan, December 2015
+
+##### [Kobe](album/kobe), Japan, December 2015
+
 <div id="2014">2014</div>
 
 <div id="2013">2013</div>
