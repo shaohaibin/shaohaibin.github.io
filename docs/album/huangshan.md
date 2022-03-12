@@ -7,6 +7,8 @@ nav_order: 7
 
 ##### [Huangshan](https://en.wikipedia.org/wiki/Huangshan), China, April 2015
 
+#### Huangshan Mountain
+
 ![huangshan-map](/photos/China15/huangshan/huangshan-map.png){:hight="200px"}
 
 ![huangshan1-1](/photos/China15/huangshan/huangshan1-01.JPG){:hight="200px"}
@@ -53,6 +55,7 @@ nav_order: 7
 
 ![huangshan1-22](/photos/China15/huangshan/huangshan1-22.JPG){:hight="200px"}
 
+#### [Hongcun （宏村）](https://en.wikipedia.org/wiki/Hongcun)
 
 ![huangshan2-1](/photos/China15/huangshan/huangshan2-01.JPG){:hight="200px"}
 
