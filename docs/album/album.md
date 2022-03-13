@@ -36,9 +36,13 @@ nav_order: 6
 
 <div id="2016">2016</div>
 
+##### [Hengdian](album/hengdian), Hengdian, May 2016
+
 ------
 
 <div id="2015">2015</div>
+
+##### [Huangshan](album/huangshan), Huangshan, April 2015
 
 ##### [Osaka](album/osaka), Japan, December 2015
 
