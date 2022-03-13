@@ -2,9 +2,8 @@
 layout: default
 title: Interactive
 nav_order: 7
-date:   2017-01-02 15:00:00
-categories: [code]
-tags: [code, d3js]
+has_children: true
+permalink: docs/interactive
 ---
 
 I've used d3.select to target an element `<div id="example">` in this document:

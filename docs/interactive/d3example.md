@@ -1,8 +1,7 @@
 ---
-title:  "D3.js in Jekyll Markdown"
-date:   2017-01-02 15:00:00
-categories: [code]
-tags: [code, d3js]
+title:  "D3.js in Jekyll"
+parent: Interactive
+nav_order: 7
 ---
  I've used d3.select to target an element `<div id="example">` in this document:
 
@@ -50,7 +49,7 @@ var chart = d3.box()
     .width(width)
     .height(height);
 
-d3.csv("/morley.csv", function(error, csv) {
+d3.csv("./data/morley.csv", function(error, csv) {
   var data = [];
 
   csv.forEach(function(x) {
