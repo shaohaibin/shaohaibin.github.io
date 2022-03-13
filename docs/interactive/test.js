@@ -1,41 +1,3 @@
----
-layout: default
-title: Interactive
-nav_order: 7
-has_children: true
-permalink: docs/interactive
----
-
-Will use D3.js for interactive functions.
-
-
-<style>
-
-div.example {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-.box {
-  font: 10px sans-serif;
-}
-
-.box line,
-.box rect,
-.box circle {
-  fill: #fff;
-  stroke: #000;
-  stroke-width: 1.5px;
-}
-
-.box .center {
-  stroke-dasharray: 3,3;
-}
-
-.box .outlier {
-  fill: none;
-  stroke: #ccc;
-}
-
 </style>
 
 <script src="http://d3js.org/d3.v3.min.js">
@@ -118,14 +80,3 @@ function iqr(k) {
 }
 
 </script>
-
-<div id="example">
-  
-</div>
-
-Things to keep in mind:
-
-* Include morley.csv (Search local JavaScript for `./data/morley.csv`)
-* Include D3.js
-* Include box.js
-* Include the local CSS and JavaScript
