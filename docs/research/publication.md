@@ -7,6 +7,8 @@ nav_order: 1
 
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Working](#Working)  -    [By Topics](/docs/research/findings)  
 
+<!--
+	
 <span id="Working" style="font-size: 110%; color:Grey;">Working Papers</span>
 
 1. Lulu Pan, Yang Lu, **Haibin Shao**, Dewei Li, Yugeng Xi. *Secure and Privacy-Preserving Average Consensus for Matrix-weighted Networks*, 2022.
@@ -15,6 +17,7 @@ nav_order: 1
 4. Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi. *On the Convergence Rate of Matrix-weighted Networks*, 2022.
 5. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi. Distributed Neighbor Selection in Open Multi-agent Networks, 2022.
 
+-->
 <span id="Preprints" style="font-size: 110%; color:Grey;">Preprints</span>
 
 1. Lulu Pan, **Haibin Shao**, Yuanlong Li, Dewei Li, Yugeng Xi. *Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*. arXiv preprint arXiv:2110.13356. [PDF](https://arxiv.org/abs/2110.13356)
