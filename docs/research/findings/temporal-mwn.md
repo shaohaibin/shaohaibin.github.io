@@ -10,7 +10,7 @@ layout: default
 
 ### Findings ###
 
-## Connectivity does NOT Translate into Consensus
+## Matrix-weighted networks: Connectivity does NOT Translate into Consensus
 
 In this thread of works, we examine:
 
