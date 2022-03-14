@@ -31,7 +31,7 @@ We have established the following results:
 2. Lulu Pan, Haibin Shao*, Mehran Mesbahi, Yugeng Xi and Dewei Li. **[Consensus on matrix-weighted switching networks](https://ieeexplore.ieee.org/document/9366828/)**. **IEEE Transactions on Automatic Control**, 2021, 66(12):5990-5996.
 3. Lulu Pan, Haibin Shao, Mehran Mesbahi, Yugeng Xi and Dewei Li. **[Bipartite consensus on matrix-valued weighted networks](https://ieeexplore.ieee.org/document/8556038)**. **IEEE Transactions on Circuits and Systems II: Express Briefs**, 2018, 66(8):1441-1445.
 4. Lulu Pan, Haibin Shao ,  Yugeng Xi, and Dewei Li . [Bipartite consensus problem on matrix- valued weighted directed networks](http://scis.scichina.com/en/2021/149204.pdf). **SCIENCE CHINA Information Sciences**, 2018. [Supplementary](http://scis.scichina.com/en/2021/149204-supplementary.pdf) 
-5. Chongzhi Wang, Lulu Pan, **Haibin Shao***, Dewei Li, and Yugeng Xi. *Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*. **Automatica**, 2022. (To appear)
+5. Chongzhi Wang, Lulu Pan, Haibin Shao*, Dewei Li, and Yugeng Xi. *Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*. **Automatica**, 2022. (To appear)
 
 ##### Controllability
 
