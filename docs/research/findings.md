@@ -12,7 +12,7 @@ nav_order: 2
 
 ### Findings ###
 
-# Less connected, but more functional
+## Neighbor Selection: Less connected, but more functional
 
 Global network reachability  from local neighbor selection. [Read more](./findings/neighbor-selection)
 

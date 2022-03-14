@@ -10,7 +10,7 @@ layout: default
 
 ### Findings ###
 
-# Less connected, but more functional
+## Neighbor Selection: Less connected, but more functional
 
 In this thread of works, we ask:
 
