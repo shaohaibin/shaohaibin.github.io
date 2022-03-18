@@ -1,13 +1,5 @@
----
-layout: default
-title: Interactive
-nav_order: 7
-has_children: true
-permalink: docs/interactive
----
-
-I've used d3.select to target an element `<div id="example">` in this document:
-
+<html>
+<head>
 <style>
 
 div.example {
@@ -36,8 +28,12 @@ div.example {
 }
 
 </style>
-<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+  
+
 <script src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/box.js"></script>
+
 <script>
 
 var margin = {top: 10, right: 50, bottom: 20, left: 50},
@@ -52,7 +48,7 @@ var chart = d3.box()
     .width(width)
     .height(height);
 
-d3.csv("/morley.csv", function(error, csv) {
+d3.csv("morley.csv", function(error, csv) {
   var data = [];
 
   csv.forEach(function(x) {
@@ -111,13 +107,11 @@ function iqr(k) {
 
 </script>
 
-<div id="example"></div>
+</head>
+<body>
 
-Things to keep in mind:
-
-* Include morley.csv (Search local JavaScript for `./data/morley.csv`)
-* Include D3.js
-* Include box.js
-* Include the local CSS and JavaScript
-
-Check out [the code for this post on GitHub](https://raw.githubusercontent.com/dancole/dancole.github.io/master/_posts/2017-01-02-d3js-example.markdown).
+<div id="example">
+  
+</div>
+</body>
+</html>

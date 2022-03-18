@@ -12,12 +12,12 @@ nav_order: 2
 
 ### Findings ###
 
-# Less connected, but more functional
+## Neighbor Selection: Less connected, but more functional
 
 Global network reachability  from local neighbor selection. [Read more](./findings/neighbor-selection)
 
 ---
-## Connectivity does NOT Translate into Consensus
+## Matrix-weighted networks: Connectivity does NOT Translate into Consensus
 
 Clustering in temporal matrix-weighted networks. [Read more](./findings/temporal-mwn)
 
