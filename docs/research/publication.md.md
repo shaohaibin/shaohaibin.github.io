@@ -5,7 +5,7 @@ parent: Research
 nav_order: 1
 ---
 
-[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Working](#Working)  -    [By Topics](/docs/research/findings)  
+[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/findings)  
 
 <!--
 	
@@ -18,13 +18,17 @@ nav_order: 1
 5. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi. Distributed Neighbor Selection in Open Multi-agent Networks, 2022.
 
 -->
+
 <span id="Preprints" style="font-size: 110%; color:Grey;">Preprints</span>
+
+1. Chongzhi Wang, **Haibin Shao**, Dewei Li. *Independent dimensional phase transition on a two-dimensional Kuramoto model with matrix coupling*. arXiv preprint arXiv:2108.11652. [PDF](https://arxiv.org/abs/2108.11652)
+
+<span id="Under-Review" style="font-size: 110%; color:Grey;">Under Review</span>
 
 1. Lulu Pan, **Haibin Shao**, Yuanlong Li, Dewei Li, Yugeng Xi. *Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*. arXiv preprint arXiv:2110.13356. [PDF](https://arxiv.org/abs/2110.13356)
 2. **Haibin Shao**, Lulu Pan, Dewei Li, Yugeng Xi. *On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective*. arXiv preprint arXiv:2109.12555. [PDF](https://arxiv.org/abs/2109.12555)
-3. Chongzhi Wang, **Haibin Shao**, Dewei Li. *Independent dimensional phase transition on a two-dimensional Kuramoto model with matrix coupling*. arXiv preprint arXiv:2108.11652. [PDF](https://arxiv.org/abs/2108.11652)
-4. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li. *Distributed Neighbor Selection in Multi-agent Networks*. arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
-5. Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi. *Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*. arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)
+3. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li. *Distributed Neighbor Selection in Multi-agent Networks*. arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
+4. Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi. *Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*. arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
