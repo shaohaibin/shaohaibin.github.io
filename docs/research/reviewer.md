@@ -14,6 +14,7 @@ nav_order: 4
 - IEEE Transactions on Circuits and Systems II: Express Briefs
 - Asian Journal of Control
 - International Journal of Systems Science
+- IEEE Access
 - Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
 - Scientific Reports
 - Physica A: Statistical Mechanics and its Applications
