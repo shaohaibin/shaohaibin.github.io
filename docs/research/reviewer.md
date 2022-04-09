@@ -27,4 +27,5 @@ nav_order: 4
 - IFAC World Congress
 - Chinese Control Conference (CCC)
 - Europe Control Conference (ECC)
+- Intelligent Transportation Systems Conference (ITSC)
 - International Conference on Control and Automation (ICCA)
