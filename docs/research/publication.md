@@ -49,7 +49,7 @@ nav_order: 1
    **IEEE Transactions on Neural Networks and Learning Systems**, 2022. (To appear）[PDF](https://ieeexplore.ieee.org/document/9698837)
 2. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://arxiv.org/abs/2011.14105) 
-   **Automatica**, 2022. (To appear) [PDF](https://arxiv.org/abs/2011.14105)
+   **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1etay1AMv80ww)
 3. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://arxiv.org/abs/2107.09292)    
    **Automatica**, 2022. (To appear) [PDF](https://arxiv.org/abs/2107.09292)
