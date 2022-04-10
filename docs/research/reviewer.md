@@ -29,3 +29,4 @@ nav_order: 4
 - Europe Control Conference (ECC)
 - Intelligent Transportation Systems Conference (ITSC)
 - International Conference on Control and Automation (ICCA)
+- IEEE Intelligent Vehicles Symposium (IV)
