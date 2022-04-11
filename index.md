@@ -13,7 +13,7 @@ permalink: /
         <span style="color:Gray;font-size:17px;">Haibin Shao（邵海滨）,  Ph.D.</span><br/>        
         <a href="mailto:shore@sjtu.edu.cn">shore@sjtu.edu.cn</a><br/>
      	Professor (Assistant) <br/>
-        <a href="https://automation.sjtu.edu.cn/haibin">Deparment of Automation</a><br/>
+        <a href="https://automation.sjtu.edu.cn/haibin">Haibin@Automation</a><br/>
         Room 2-309, SEIEE Building<br/>
         <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>
         <a href="https://goo.gl/maps/G3qKUAcdX1tqdVFLA">Minhang, Shanghai, China</a><br/>           
