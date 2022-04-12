@@ -18,23 +18,16 @@ permalink: /
         <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>
         <a href="https://goo.gl/maps/G3qKUAcdX1tqdVFLA">Minhang, Shanghai, China</a><br/>           
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >Google Scholar</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >ResearchGate</a>	<a href="http://csc-lab.com/index">CSC Lab</a> 
-
         <br/>
-        <br/> 
 </div>
 
-
 ## Opening ##
-
 <span style="color:red;">I am looking for Postdoc researchers and Ph.D. students. </span> [more details](/docs/opening)
 
-
 ## Research interest ##
-I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**.
-
-In particular, **swarm intelligence**, **multi-agent systems**, **complex networks**, **cyber-physical systems** and **autonomous unmanned systems**. [more details](/docs/research)
-
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
+
+Generally, I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. In particular, **swarm intelligence**, **multi-agent systems**, **complex networks**, **cyber-physical systems** and **autonomous unmanned systems**. [more details](/docs/research)
 
 <p><div style="width:150px;"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bfh_d847zkv8wAbEuGugG_PCPgQI6FZhXr2FAruzDbI&cl=ffffff&w=a"></script></div></p>
 
