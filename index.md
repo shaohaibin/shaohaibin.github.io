@@ -30,4 +30,3 @@ permalink: /
 Generally, I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. In particular, **swarm intelligence**, **multi-agent systems**, **complex networks**, **cyber-physical systems** and **autonomous unmanned systems**. [more details](/docs/research)
 
 <p><div style="width:150px;"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qibxuIgajyF4nPWLrgu8bXeBOCIc9V_830nNux3l7LI"></script></div></p>
-
