@@ -22,7 +22,7 @@ We have established the following results:
 2. ***Convergence rate of reduced network can be drammatically enhanced.*** 
 
 
-#### Magic Mathematics
+#### Magic Eigenvector
 
 <span style="color:red;"> Relative Tempo Theorem (Linking Local Relative State and Fiedler Vector, Ref.2)</span>
 
