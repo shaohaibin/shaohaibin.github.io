@@ -11,3 +11,12 @@ Shanghai Jiao Tong University \n
 ~~~
 
 
+You can also align equations using LaTeX's +aligned+ block:
+\(
+\begin{aligned}
+\nabla \cdot \mathbf{D} &= \rho_f\\
+\nabla \cdot \mathbf{B} &= 0\\
+\nabla \times \mathbf{E} &= -\frac{\partial\mathbf{B}}{\partial t}\\
+\nabla \times \mathbf{H} &= \mathbf{J}_f - \frac{\partial\mathbf{D}}{\partial t}.
+\end{aligned}
+\)
