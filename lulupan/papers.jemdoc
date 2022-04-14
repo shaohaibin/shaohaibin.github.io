@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Papers 
+
+=== Journal
+
+- [https://ieeexplore.ieee.org/document/9366828/ Consensus on Matrix-weighted Switching Networks]  \n  
+  *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Yugeng Xi and Dewei Li.    \n
+  *IEEE Transactions on Automatic Control*, 2021, 66(12):5990-5996. [https://ieeexplore.ieee.org/document/9366828/ PDF]
+
+ - [https://arxiv.org/abs/2107.09292 Cluster Consensus on Matrix-weighted Switching Networks]  \n
+   *Lulu Pan*, Haibin Shao, Mehran Mesbahi, Dewei Li, Yugeng Xi.   \n 
+   *Automatica*, 2022. (To appear) [https://arxiv.org/abs/2107.09292 PDF]
+
+- [https://arxiv.org/abs/2107.12022 Distributed Neighbor Selection in Multi-agent Networks]    \n
+  Haibin Shao, *Lulu Pan*\*, Mehran Mesbahi, Yugeng Xi, Dewei Li.    \n
+  arXiv preprint arXiv:2107.12022. [https://arxiv.org/abs/2107.12022 PDF]
+
+- [https://doi.org/10.1016/j.automatica.2019.03.004 Relative Tempo of Distributed Averaging on Networks]  \n
+  Haibin Shao, *Lulu Pan*, Mehran Mesbahi, Yugeng Xi and Dewei Li.    \n
+  *Automatica*, 2019, 105:159-166. [https://doi.org/10.1016/j.automatica.2019.03.004 PDF]
+
+- [https://authors.elsevier.com/a/1etay1AMv80ww Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set]  \n
+   Chongzhi Wang, *Lulu Pan*, Haibin Shao, Dewei Li, and Yugeng Xi.     \n
+   *Automatica*, 2022. (To appear) [https://authors.elsevier.com/a/1etay1AMv80ww PDF]
+
+=== Conference
