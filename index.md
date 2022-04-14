@@ -15,8 +15,8 @@ permalink: /
      	Professor (Assistant) <br/>
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a><br/>        
         <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>               
-        <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a>	<a href="http://csc-lab.com/index">[CSC]</a> <br/>           
-        <br/>
+        <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a>	<br/>
+        <a href="http://csc-lab.com/index">Complex System Control Lab</a> <br/>                   
         <br/>
 </div>
 
