@@ -6,6 +6,7 @@ nav_order: 5
 
 ### Contact ###
 
+<br/> 
 Room 2-309, SEIEE Building, Minhang campus  
 Shanghai Jiao Tong University      
 <a href="https://goo.gl/maps/G3qKUAcdX1tqdVFLA">Minhang, Shanghai 200240, China</a><br/>   
