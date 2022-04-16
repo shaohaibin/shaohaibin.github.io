@@ -11,7 +11,7 @@ permalink: /
         <img src= "./images/haibin.jpg" alt="Longtail boat in Thailand" width="240" align="left" hspace="10" vspace="0"> 
     </div>    
         <br/>        	
-        <span style="color:Gray;font-size:17px;">Haibin Shao（邵海滨）</span><br/>                
+        <span style="color:Gray;font-size:17px;">Haibin Shao(邵海滨), Ph.D.</span><br/>                
      	Professor (Assistant) <br/>
         <a href="http://csc-lab.com/index">Complex System Control Lab</a> <br/>                   
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a><br/>        
