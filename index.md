@@ -21,7 +21,7 @@ permalink: /
 </div>
 
 ## Opening ##
-<span style="color:red;">I am looking for Postdoc researchers and Ph.D. students. </span> [more details](/docs/opening)
+<span style="color:red;">I am looking for Postdoc researchers and PhD students. </span> [more details](/docs/opening)
 
 ## Research interest ##
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
