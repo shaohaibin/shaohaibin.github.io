@@ -15,7 +15,7 @@ permalink: docs/research/findings
 
 ## Neighbor Selection: Less connected, but more functional
 
-Global network reachability  from local neighbor selection. [Read more](./finding/neighbor-selection)
+Global network reachability  from local neighbor selection. [Read more](./findings/neighbor-selection)
 
 ---
 ## Matrix-weighted networks: Connectivity does NOT Translate into Consensus
