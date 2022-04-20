@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Co-authors
+title: Collaborators
 parent: Research
 nav_order: 3
 ---
 
-### Co-authors
+### Collaborators
 
 ##### [Lulu Pan（潘鹿鹿）](https://scholar.google.com/citations?user=rl0LZpkAAAAJ&hl=en) (Shanghai Jiao Tong University)
 
