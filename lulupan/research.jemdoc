@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Research Interests
 
-In general, I am focusing on analysis, control and optimization of complex systems, including 
+In general, I am focusing on *analysis, control and optimization of complex systems*, including 
 
 - antagonistic and cooperative multi-agent networks,
 - multi-agent systems with complex state coupling,
-- data-driven/event-triggered control and optimization of networked systems,
+- data-driven/event-triggered control and optimization of network systems,
 - distributed multi-agent reinforcement learning.
 
 
