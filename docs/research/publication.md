@@ -109,7 +109,7 @@ nav_order: 1
       **Physica A: Statistical Mechanics and its Applications**, 508:748–756, 2018. [PDF](https://doi.org/10.1016/j.physa.2018.05.101)
 16. **Haibin Shao**, Merhan Mesbahi, Dewei Li, and Yugeng Xi.    
     [*Inferring centrality from network snapshots*.](https://www.nature.com/articles/srep40642)     
-    **Scientific Reports**, 2017, 7(1):1-13. [PDF](https://www.nature.com/articles/srep40642)
+    **Scientific Reports**, 7(1):1-13, 2017. [PDF](https://www.nature.com/articles/srep40642)
 
 <span id="Conference" style="font-size: 110%; color:Grey;">Conference Papers</span>
 
