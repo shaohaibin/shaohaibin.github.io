@@ -67,13 +67,13 @@ nav_order: 1
 
 1. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    
-   **IEEE Transactions on Neural Networks and Learning Systems**, 2022. (To appear）[PDF](https://ieeexplore.ieee.org/document/9698837)
+   **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
 2. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://arxiv.org/abs/2011.14105) 
    **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1etay1AMv80ww)
 3. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
-   [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://arxiv.org/abs/2107.09292)    
-   **Automatica**, 2022. (To appear) [PDF](https://arxiv.org/abs/2107.09292)
+   [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://authors.elsevier.com/a/1ezp8_7RuwPjS)    
+   **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1ezp8_7RuwPjS)
 4. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
    *An accelerated distributed gradient method with local memory*.    
    **Automatica**, 2022. (To appear)
