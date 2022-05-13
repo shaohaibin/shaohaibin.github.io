@@ -10,6 +10,7 @@ nav_order: 4
 - IEEE Transactions on Automatic Control
 - Automatica
 - The IEEE Transactions on Control of Network Systems
+- IEEE/CAA Journal of Automatica Sinica
 - IET Control Theory & Applications
 - IEEE Transactions on Circuits and Systems II: Express Briefs
 - Asian Journal of Control
