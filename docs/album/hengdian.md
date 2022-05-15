@@ -21,7 +21,7 @@ nav_order: 7
 
 ![hengdian1-6](/photos/China16/hengdian/hengdian1-6.JPG){:hight="200px"}
 
-![hengdian1-7](/photos/China16/hengdian/hengdian1-7.JPG){:hight="200px"}
+<!-- ![hengdian1-7](/photos/China16/hengdian/hengdian1-7.JPG){:hight="200px"} -->
 
 ![hengdian1-8](/photos/China16/hengdian/hengdian1-8.JPG){:hight="200px"}
 
@@ -35,17 +35,17 @@ nav_order: 7
 
 ![hengdian1-13](/photos/China16/hengdian/hengdian1-13.JPG){:hight="200px"}
 
-![hengdian1-14](/photos/China16/hengdian/hengdian1-14.JPG){:hight="200px"}
+<!-- ![hengdian1-14](/photos/China16/hengdian/hengdian1-14.JPG){:hight="200px"}  -->
 
-![hengdian1-15](/photos/China16/hengdian/hengdian1-15.JPG){:hight="200px"}
+<!-- ![hengdian1-15](/photos/China16/hengdian/hengdian1-15.JPG){:hight="200px"} -->
 
 ![hengdian1-16](/photos/China16/hengdian/hengdian1-16.JPG){:hight="200px"}
 
-![hengdian1-17](/photos/China16/hengdian/hengdian1-17.JPG){:hight="200px"}
+<!-- ![hengdian1-17](/photos/China16/hengdian/hengdian1-17.JPG){:hight="200px"}  -->
 
-![hengdian1-18](/photos/China16/hengdian/hengdian1-18.JPG){:hight="200px"}
+<!-- ![hengdian1-18](/photos/China16/hengdian/hengdian1-18.JPG){:hight="200px"}  -->
 
-![hengdian1-19](/photos/China16/hengdian/hengdian1-19.JPG){:hight="200px"}
+<!-- ![hengdian1-19](/photos/China16/hengdian/hengdian1-19.JPG){:hight="200px"}  -->
 
 ![hengdian1-20](/photos/China16/hengdian/hengdian1-20.JPG){:hight="200px"}
 
@@ -72,7 +72,7 @@ nav_order: 7
 
 ![hengdian2-10](/photos/China16/hengdian/hengdian2-10.JPG){:hight="200px"}
 
-![hengdian2-11](/photos/China16/hengdian/hengdian2-11.JPG){:hight="200px"}
+<!-- ![hengdian2-11](/photos/China16/hengdian/hengdian2-11.JPG){:hight="200px"}  -->
 
 ![hengdian2-12](/photos/China16/hengdian/hengdian2-12.JPG){:hight="200px"}
 
@@ -90,5 +90,4 @@ nav_order: 7
 ![hengdian3-4](/photos/China16/hengdian/hengdian3-4.JPG){:hight="200px"}
 
 ![hengdian3-5](/photos/China16/hengdian/hengdian3-5.JPG){:hight="200px"}
-
-![hengdian3-6](/photos/China16/hengdian/hengdian3-6.JPG){:hight="200px"}
+<!--  ![hengdian3-6](/photos/China16/hengdian/hengdian3-6.JPG){:hight="200px"}  -->
