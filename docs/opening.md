@@ -8,11 +8,9 @@ nav_order: 2
 
 Two postdoctoral researcher positions are available in multi-agent system and predictive control.
 
-团队招收多自主体系统和预测控制方向博士后 2 名，欢迎具有扎实理论基础的优秀博士申报，博士后待遇优厚（包含学校基础待遇与团队奖励）。
+- [\[Complex System Control Lab\](http://csc-lab.com/index) [\[上海交通大学博士后\](https://postd.sjtu.edu.cn/index.htm)  
 
-- [Complex System Control Lab](http://csc-lab.com/index) [上海交通大学博士后](https://postd.sjtu.edu.cn/index.htm)        
-
-- [上海交通大学博士后政策](https://postd.sjtu.edu.cn/info/1032/1183.htm)    [上海市“超级博士后”](https://postd.sjtu.edu.cn/info/1032/1228.htm) 
+- [\[上海交通大学博士后政策\](https://postd.sjtu.edu.cn/info/1032/1183.htm)    [\[上海市“超级博士后”\]](https://postd.sjtu.edu.cn/info/1032/1228.htm) 
 
 ### Graduate students
 
