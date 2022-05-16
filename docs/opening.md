@@ -16,6 +16,7 @@ Two postdoctoral researcher positions are available in multi-agent system and pr
 
 I am looking for PhD and Master students who are interested in my research topics.
 
+SJTU is an amazing place for research! Check out how research and life here look like in STJU & Shanghai. 
 <p>
   <iframe src="http://player.bilibili.com/player.html?aid=887611234&bvid=BV1vK4y1K7ti&cid=323953228&page=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 600px; height: 400px; align:center;"> </iframe>
 </p>
