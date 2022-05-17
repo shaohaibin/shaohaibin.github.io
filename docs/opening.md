@@ -10,13 +10,9 @@ Two postdoctoral researcher positions are available in multi-agent system and pr
 
 - [\[Complex System Control Lab\]](http://csc-lab.com/index) [\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/index.htm)  
 
-- [\[上海交通大学博士后政策\]](https://postd.sjtu.edu.cn/info/1032/1183.htm)    [\[上海市“超级博士后”\]](https://postd.sjtu.edu.cn/info/1032/1228.htm) 
-
 ### Graduate students
 
 I am looking for PhD and Master students who are interested in my research topics.
-
-Please contact [me](mailto:shore@sjtu.edu.cn) for details!
 
 <p>SJTU is an amazing place for research! Check out how research and life here look like in STJU & Shanghai. 
 </p> 
