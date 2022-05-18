@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Positions
+title: Opening
 nav_order: 2
 ---
 [\[Complex System Control Lab\]](http://csc-lab.com/index) [\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/index.htm)  
