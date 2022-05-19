@@ -12,6 +12,7 @@ nav_order: 4
 - The IEEE Transactions on Control of Network Systems
 - IEEE/CAA Journal of Automatica Sinica
 - IET Control Theory & Applications
+- IEEE Transactions on Circuits and Systems I: Regular Papers
 - IEEE Transactions on Circuits and Systems II: Express Briefs
 - Asian Journal of Control
 - International Journal of Systems Science
