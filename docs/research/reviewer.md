@@ -21,6 +21,7 @@ nav_order: 4
 - Scientific Reports
 - Physica A: Statistical Mechanics and its Applications
 - Neurocomputing
+- Knowledge-Based Systems
 
 ### Conferences
 
