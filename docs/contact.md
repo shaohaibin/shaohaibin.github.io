@@ -6,10 +6,11 @@ nav_order: 5
 
 ### Contact ###
 
+<br/> 
 
 <div>
     <div> 
-        <img src= "../images/seiee.jpg" alt="" width="240" align="left" hspace="10" vspace="0"> 
+        <img src= "../images/seiee.jpg" alt="" width="350" align="left" hspace="10" vspace="0"> 
     </div>          	
 	Room 2-309, SEIEE Building, Minhang campus   <br/> 
 	Shanghai Jiao Tong University   <br/>    
