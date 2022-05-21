@@ -10,7 +10,6 @@ nav_order: 5
     <div> 
         <img src= "../images/seiee.jpg" alt="" width="240" align="left" hspace="10" vspace="0"> 
     </div>          	
-	<br/> 
 	Room 2-309, SEIEE Building, Minhang campus   <br/> 
 	Shanghai Jiao Tong University   <br/>    
 	<a href="https://goo.gl/maps/G3qKUAcdX1tqdVFLA">Minhang, Shanghai 200240, China</a><br/>   
