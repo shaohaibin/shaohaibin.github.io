@@ -58,5 +58,5 @@ nav_order: 7
 
 ![osaka2-11](/photos/Japan15/Osaka/osaka2-11.JPG){:hight="200px"}
 
-![osaka2-12](/photos/Japan15/Osaka/osaka2-12.JPG){:hight="200px"}
+<!-- ![osaka2-12](/photos/Japan15/Osaka/osaka2-12.JPG){:hight="200px"} -->
 
