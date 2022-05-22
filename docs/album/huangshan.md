@@ -145,4 +145,4 @@ nav_order: 7
 
 ![huangshan2-44](/photos/China15/huangshan/huangshan2-44.JPG){:hight="200px"}
 
-![huangshan2-45](/photos/China15/huangshan/huangshan2-45.JPG){:hight="200px"}
+<!-- ![huangshan2-45](/photos/China15/huangshan/huangshan2-45.JPG){:hight="200px"} -->
