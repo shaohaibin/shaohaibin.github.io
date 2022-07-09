@@ -43,4 +43,3 @@ where $$L$$ and $$\boldsymbol{v}_{2}(L)$$ are the [Laplacian](https://en.wikiped
 1. Haibin Shao, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li. **[Relative tempo of distributed averaging on networks](https://www.sciencedirect.com/science/article/abs/pii/S0005109819301256?via%3Dihub)**. **Automatica**, 2019, 105:159-166.
 2. Haibin Shao, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li. **[Distributed Neighbor Selection in Multi-agent Networks](https://arxiv.org/abs/2107.12022)**. arXiv preprint arXiv:2107.12022.
 3. Haibin Shao, Merhan Mesbahi, Dewei Li, and Yugeng Xi. **[Inferring centrality from network snapshots](https://www.nature.com/articles/srep40642)**. **Scientific Reports**, 2017, 7(1):1-13.
-4. Lulu Pan, **Haibin Shao**, Dewei Li. **[Peer Selection in Opinion Dynamics on Signed Social Networks with Stubborn Individuals](https://doi.org/10.1016/j.neucom.2021.12.105)**. **Neurocomputing**, 477:104-113, 2022.
