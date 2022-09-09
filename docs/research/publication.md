@@ -19,7 +19,7 @@ nav_order: 1
    [*Relative tempo of distributed averaging on networks*.](https://doi.org/10.1016/j.automatica.2019.03.004)     
     **Automatica**, 2019, 105:159-166. [PDF](https://doi.org/10.1016/j.automatica.2019.03.004)
 3. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
-   [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://authors.elsevier.com/a/1ezp8_7RuwPjS)    
+   [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://doi.org/10.1016/j.automatica.2022.110308)    
    **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1ezp8_7RuwPjS)
 
 4. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
@@ -28,7 +28,7 @@ nav_order: 1
 
 5. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://authors.elsevier.com/a/1etay1AMv80ww) 
-   **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1etay1AMv80ww)
+   **Automatica**, 2022. (To appear) [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
 
 <!--
 	
