@@ -79,8 +79,8 @@ nav_order: 1
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://authors.elsevier.com/a/1ezp8_7RuwPjS)    
    **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1ezp8_7RuwPjS)
 4. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
-   *An accelerated distributed gradient method with local memory*.    
-   **Automatica**, 2022. (To appear)
+   [*An accelerated distributed gradient method with local memory*.](https://doi.org/10.1016/j.automatica.2022.110260)    
+   **Automatica**, 2022. (To appear) [PDF](https://doi.org/10.1016/j.automatica.2022.110260)
 5. Lulu Pan, **Haibin Shao**\*, Dewei Li.   
    [*Peer Selection in Opinion Dynamics on Signed Social Networks with Stubborn Individuals*.](https://doi.org/10.1016/j.neucom.2021.12.105)     
    **Neurocomputing**, 477:104-113, 2022. [PDF](https://doi.org/10.1016/j.neucom.2021.12.105)
