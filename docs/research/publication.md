@@ -44,24 +44,28 @@ nav_order: 1
 
 <span id="Preprints" style="font-size: 110%; color:Grey;">Preprints</span>
 
-1. Chongzhi Wang, **Haibin Shao**, Dewei Li.   
+1. Lulu Pan, **Haibin Shao**\*, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
+   [*Vector-valued Privacy-Preserving Average Consensus*.](https://arxiv.org/abs/2209.10786)    
+   arXiv preprint arXiv:2209.10786. [PDF](https://arxiv.org/abs/2209.10786)
+2. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
+   [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)    
+   arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
+3. Lulu Pan, **Haibin Shao**\*, Yuanlong Li, Dewei Li, Yugeng Xi.    
+   [*Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*.](https://arxiv.org/abs/2110.13356)    
+   arXiv preprint arXiv:2110.13356. [PDF](https://arxiv.org/abs/2110.13356)
+4. **Haibin Shao**, Lulu Pan, Dewei Li, Yugeng Xi.    
+   [*On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective*.](https://arxiv.org/abs/2109.12555)    
+   arXiv preprint arXiv:2109.12555. [PDF](https://arxiv.org/abs/2109.12555)
+5. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
+   [*Distributed Neighbor Selection in Multi-agent Networks*.](https://arxiv.org/abs/2107.12022)    
+   arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
+6. Lulu Pan, **Haibin Shao**\*, Dewei Li, Yugeng Xi.   
+   [*Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*.](https://arxiv.org/abs/2106.06198)    
+   arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)   
+7. Chongzhi Wang, **Haibin Shao**, Dewei Li.   
    [*Independent dimensional phase transition on a two-dimensional Kuramoto model with matrix coupling*.](https://arxiv.org/abs/2108.11652)   
    arXiv preprint arXiv:2108.11652. [PDF](https://arxiv.org/abs/2108.11652)
 
-<span id="Under-Review" style="font-size: 110%; color:Grey;">Under Review</span>
-
-1. Lulu Pan, **Haibin Shao**\*, Yuanlong Li, Dewei Li, Yugeng Xi.    
-   [*Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*.](https://arxiv.org/abs/2110.13356)    
-   arXiv preprint arXiv:2110.13356. [PDF](https://arxiv.org/abs/2110.13356)
-2. **Haibin Shao**, Lulu Pan, Dewei Li, Yugeng Xi.    
-   [*On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective*.](https://arxiv.org/abs/2109.12555)    
-   arXiv preprint arXiv:2109.12555. [PDF](https://arxiv.org/abs/2109.12555)
-3. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
-   [*Distributed Neighbor Selection in Multi-agent Networks*.](https://arxiv.org/abs/2107.12022)    
-   arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
-4. Lulu Pan, **Haibin Shao**\*, Dewei Li, Yugeng Xi.   
-   [*Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*.](https://arxiv.org/abs/2106.06198)    
-   arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)   
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
