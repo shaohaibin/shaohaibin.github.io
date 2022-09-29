@@ -50,38 +50,38 @@ nav_order: 1
 2. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)    
    arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
-3. Lulu Pan, **Haibin Shao**\*, Yuanlong Li, Dewei Li, Yugeng Xi.    
-   [*Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*.](https://arxiv.org/abs/2110.13356)    
-   arXiv preprint arXiv:2110.13356. [PDF](https://arxiv.org/abs/2110.13356)
-4. **Haibin Shao**, Lulu Pan, Dewei Li, Yugeng Xi.    
+3. **Haibin Shao**, Lulu Pan, Dewei Li, Yugeng Xi.    
    [*On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective*.](https://arxiv.org/abs/2109.12555)    
    arXiv preprint arXiv:2109.12555. [PDF](https://arxiv.org/abs/2109.12555)
-5. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
+4. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://arxiv.org/abs/2107.12022)    
    arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
-6. Lulu Pan, **Haibin Shao**\*, Dewei Li, Yugeng Xi.   
+5. Lulu Pan, **Haibin Shao**\*, Dewei Li, Yugeng Xi.   
    [*Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*.](https://arxiv.org/abs/2106.06198)    
    arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)   
-7. Chongzhi Wang, **Haibin Shao**, Dewei Li.   
+6. Chongzhi Wang, **Haibin Shao**, Dewei Li.   
    [*Independent dimensional phase transition on a two-dimensional Kuramoto model with matrix coupling*.](https://arxiv.org/abs/2108.11652)   
    arXiv preprint arXiv:2108.11652. [PDF](https://arxiv.org/abs/2108.11652)
 
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
-1. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
+1. Lulu Pan, **Haibin Shao**\*, Yuanlong Li, Dewei Li, Yugeng Xi.    
+   [*Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*.](https://arxiv.org/abs/2110.13356)    
+   IEEE Transactions on Network Science and Engineering, 2022. (To Appear) [PDF](https://arxiv.org/abs/2110.13356)
+2. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    
    **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
-2. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
+3. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://arxiv.org/abs/2011.14105) 
    **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1etay1AMv80ww)
-3. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
+4. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://authors.elsevier.com/a/1ezp8_7RuwPjS)    
    **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1ezp8_7RuwPjS)
-4. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
+5. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
    [*An accelerated distributed gradient method with local memory*.](https://doi.org/10.1016/j.automatica.2022.110260)    
    **Automatica**, 2022. (To appear) [PDF](https://doi.org/10.1016/j.automatica.2022.110260)
-5. Lulu Pan, **Haibin Shao**\*, Dewei Li.   
+6. Lulu Pan, **Haibin Shao**\*, Dewei Li.   
    [*Peer Selection in Opinion Dynamics on Signed Social Networks with Stubborn Individuals*.](https://doi.org/10.1016/j.neucom.2021.12.105)     
    **Neurocomputing**, 477:104-113, 2022. [PDF](https://doi.org/10.1016/j.neucom.2021.12.105)
 7. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
