@@ -13,16 +13,16 @@ permalink: docs/research/findings
 
 ### Findings ###
 
-## Neighbor Selection: Less connected, but more functional
+## Structural Adaptivity
 
-Global network reachability  from local neighbor selection. [Read more](./findings/neighbor-selection)
-
----
-## Matrix-weighted networks: Connectivity does NOT Translate into Consensus
-
-Clustering in temporal matrix-weighted networks. [Read more](./findings/temporal-mwn)
+Structural adaptivity of networks via local neighbor selection. [Read more](./findings/neighbor-selection)
 
 ---
-## Privacy-preserving Computation
+## Matrix-weighted networks
 
-A elegant feature of matrix-weighted networks is employed for privacy-preserving consensus. [Read more](./findings/mwn-privavcy)
+More tractable collective behaviors than scalar-weighted networks. [Read more](./findings/temporal-mwn)
+
+---
+## Secure Multi-Party Computation
+
+Matrix-weighted networks are employed for privacy-preserving consensus. [Read more](./findings/mwn-privavcy)
