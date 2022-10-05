@@ -11,14 +11,14 @@ permalink: docs/research/findings
 
 ## Structural Adaptivity
 
-Structural adaptivity of networks via local neighbor selection. [Read more](./findings/neighbor-selection)
+Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./findings/neighbor-selection)
 
 ---
 ## Matrix-weighted networks
 
-More tractable collective behaviors than scalar-weighted networks. [Read more](./findings/temporal-mwn)
+Exploring more tractable collective behaviors than scalar-weighted networks. [Read more](./findings/temporal-mwn)
 
 ---
 ## Secure Multi-Party Computation
 
-Matrix-weighted networks are employed for privacy-preserving consensus. [Read more](./findings/mwn-privavcy)
+Employing matrix-weighted networks for privacy-preserving consensus. [Read more](./findings/mwn-privavcy)
