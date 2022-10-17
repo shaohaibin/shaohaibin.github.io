@@ -39,6 +39,6 @@ We have established the following results:
 
 ##### Constraint-Aware Coordination
 
-1. Lulu Pan, Haibin Shao, Yuanlong Li, Dewei Li, and Yugeng Xi. "[Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation](https://arxiv.org/abs/2110.13356)." *arXiv preprint arXiv:2110.13356* (2021).
+1. Lulu Pan, Haibin Shao, Yuanlong Li, Dewei Li, and Yugeng Xi. "[Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation](https://ieeexplore.ieee.org/document/9919791)." *IEEE Transactions on Network Science and Engineering* (2022).
 2. Lulu Pan, Haibin Shao, Dewei Li, and Yugeng Xi. "[Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks](https://arxiv.org/abs/2106.06198)." *arXiv preprint arXiv:2106.06198* (2021).
 
