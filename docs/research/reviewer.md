@@ -15,6 +15,7 @@ nav_order: 4
 - IET Control Theory & Applications
 - IEEE Transactions on Circuits and Systems I: Regular Papers
 - IEEE Transactions on Circuits and Systems II: Express Briefs
+- IEEE Control Systems Letters
 - Asian Journal of Control
 - International Journal of Systems Science
 - IEEE Access
