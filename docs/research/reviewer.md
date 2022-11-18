@@ -11,6 +11,7 @@ nav_order: 4
 - Automatica
 - IEEE Transactions on Control of Network Systems
 - IEEE Transactions on Network Science and Engineering
+- IEEE Transactions on Cybernetics
 - IEEE/CAA Journal of Automatica Sinica
 - IET Control Theory & Applications
 - IEEE Transactions on Circuits and Systems I: Regular Papers
