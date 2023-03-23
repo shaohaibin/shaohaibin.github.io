@@ -48,11 +48,8 @@ nav_order: 1
    [*Vector-valued Privacy-Preserving Average Consensus*.](https://arxiv.org/abs/2209.10786)    
    arXiv preprint arXiv:2209.10786. [PDF](https://arxiv.org/abs/2209.10786)
 2. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
-   [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)    
+   [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
    arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
-4. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
-   [*Distributed Neighbor Selection in Multi-agent Networks*.](https://arxiv.org/abs/2107.12022)    
-   arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
 5. Lulu Pan, **Haibin Shao**\*, Dewei Li, Yugeng Xi.   
    [*Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*.](https://arxiv.org/abs/2106.06198)    
    arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)   
