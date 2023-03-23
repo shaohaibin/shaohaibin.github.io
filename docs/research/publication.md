@@ -12,9 +12,9 @@ nav_order: 1
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
 1. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
-   [*Distributed Neighbor Selection in Multi-agent Networks*.](https://arxiv.org/abs/2107.12022)    
-   arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
-
+   [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
+   **IEEE Transactions on Automatic Control**, 2023, 68(11):1-16.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
+   
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Relative tempo of distributed averaging on networks*.](https://doi.org/10.1016/j.automatica.2019.03.004)     
     **Automatica**, 2019, 105:159-166. [PDF](https://doi.org/10.1016/j.automatica.2019.03.004)
@@ -28,7 +28,7 @@ nav_order: 1
 
 5. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
-   **Automatica**, 2022. (To appear) [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
+   **Automatica**, 2022, 141: 110237. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
 
 <!--
 	
