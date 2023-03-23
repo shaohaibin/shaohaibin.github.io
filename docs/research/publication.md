@@ -50,9 +50,6 @@ nav_order: 1
 2. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)    
    arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
-3. **Haibin Shao**, Lulu Pan, Dewei Li, Yugeng Xi.    
-   [*On Stability and Consensus of Signed Networks: A Self-loop Compensation Perspective*.](https://arxiv.org/abs/2109.12555)    
-   arXiv preprint arXiv:2109.12555. [PDF](https://arxiv.org/abs/2109.12555)
 4. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://arxiv.org/abs/2107.12022)    
    arXiv preprint arXiv:2107.12022. [PDF](https://arxiv.org/abs/2107.12022)
@@ -69,8 +66,9 @@ nav_order: 1
 18. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
    **IEEE Transactions on Automatic Control**, 2023, 68(11):1-16.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
-17. **Haibin Shao**, Haoyu Wei, Lulu Pan and Dewei Li. 
-   Distributed Stabilization of Signed Networks via Self-loop Compensation. IEEE Transactions on Network Science and Engineering, 2023. [PDF](https://doi.org/10.1109/TNSE.2023.3249829 )
+17. **Haibin Shao**, Haoyu Wei, Lulu Pan and Dewei Li.     
+   [*Distributed Stabilization of Signed Networks via Self-loop Compensation*.](https://doi.org/10.1109/TNSE.2023.3249829)    
+   IEEE Transactions on Network Science and Engineering, 2023. [PDF](https://doi.org/10.1109/TNSE.2023.3249829)
 16. Lulu Pan, **Haibin Shao**\*, Yuanlong Li, Dewei Li, Yugeng Xi.    
    [*Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*.](https://arxiv.org/abs/2110.13356)    
    IEEE Transactions on Network Science and Engineering, 2022. (To Appear) [PDF](https://arxiv.org/abs/2110.13356)
