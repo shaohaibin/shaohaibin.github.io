@@ -19,6 +19,10 @@ nav_order: 3
 
 ##### [Yuanlong Li（李元龙）](https://automation.sjtu.edu.cn/LYL) (Shanghai Jiao Tong University)
 
+##### [Yang Lu]() (Lancaster University)
+
+##### [Peng Wang（王鹏）](https://automation.sjtu.edu.cn/WangPeng) (Shanghai Jiao Tong University)
+
 ##### [Shu Lin（林姝）](https://scholar.google.com/citations?user=rpLR2XsAAAAJ&hl=en) (University of Chinese Academy of Sciences)
 
 ##### Xiaoxing Ren (Shanghai Jiao Tong University)
