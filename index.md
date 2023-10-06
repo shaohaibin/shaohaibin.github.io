@@ -25,7 +25,7 @@ permalink: /
 ## Opening ##
 <span style="color:red;">I am looking for Postdoc researchers and PhD students. </span> [more details](/docs/opening)
 
-## Research interest ##
+## Research ##
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
 
 Generally, I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. In particular, **swarm intelligence**, **multi-agent systems**, **complex networks**, **cyber-physical systems** and **autonomous unmanned systems**. [more details](/docs/research)
