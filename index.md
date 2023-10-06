@@ -19,7 +19,7 @@ permalink: /
         <a href="https://automation.sjtu.edu.cn/haibin">Haibin [at] Department of Automation</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a>	<br/>        
         <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>
-        <br/>
+        
 </div>
 
 ## Opening ##
