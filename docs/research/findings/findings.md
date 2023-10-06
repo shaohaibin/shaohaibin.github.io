@@ -14,9 +14,9 @@ permalink: docs/research/findings
 Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./findings/neighbor-selection)
 
 ---
-## Matrix-weighted networks
+## Higher-order networks
 
-Exploring more tractable collective behaviors than scalar-weighted networks. [Read more](./findings/temporal-mwn)
+Exploring more tractable collective behaviors than lower-order networks. [Read more](./findings/temporal-mwn)
 
 ---
 ## Secure Multi-Party Computation
