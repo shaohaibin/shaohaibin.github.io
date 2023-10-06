@@ -7,11 +7,11 @@ permalink: /
 ---
 
 <div>
-<!-
+<!--
     <div> 
         <img src= "./images/haibin.jpg" alt="" width="240" align="left" hspace="10" vspace="0"> 
     </div>    
->
+-->
         <br/>        	
         <span style="color:Gray;font-size:17px;">Haibin Shao (邵海滨), PhD</span><br/>                
      	Professor (Assistant) <br/>
