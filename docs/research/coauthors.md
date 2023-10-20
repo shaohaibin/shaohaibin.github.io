@@ -7,8 +7,6 @@ nav_order: 3
 
 ### Collaborators
 
-##### [Lulu Pan（潘鹿鹿）](https://scholar.google.com/citations?user=rl0LZpkAAAAJ&hl=en) (Shanghai Jiao Tong University)
-
 ##### [Mehran Mesbahi](https://www.aa.washington.edu/facultyfinder/mehran-mesbahi) (University  of Washington)
 
 ##### [Yugeng Xi（席裕庚）](https://scholar.google.com/citations?user=JgHa2uYAAAAJ&hl=zh-CN) (Shanghai Jiao Tong University)
@@ -16,6 +14,8 @@ nav_order: 3
 ##### [Yufan Zheng（郑毓蕃）]() (University  of Melbourne, East China Normal University)
 
 ##### [Dewei Li（李德伟）](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en) (Shanghai Jiao Tong University)
+
+##### [Lulu Pan（潘鹿鹿）](https://scholar.google.com/citations?user=rl0LZpkAAAAJ&hl=en) (Shanghai Jiao Tong University)
 
 ##### [Yuanlong Li（李元龙）](https://automation.sjtu.edu.cn/LYL) (Shanghai Jiao Tong University)
 
