@@ -9,12 +9,12 @@ permalink: docs/research/findings
 
 ### Findings ###
 
-## Structural Adaptivity
+## Neighbor Selection on Networks
 
 Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./findings/neighbor-selection)
 
 ---
-## Higher-order networks
+## Higher-order Networks
 
 Exploring more tractable collective behaviors than lower-order networks. [Read more](./findings/temporal-mwn)
 
