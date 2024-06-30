@@ -8,10 +8,6 @@ permalink: docs/research
  
 ### Research ###
 
-I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**.
-
-In particular, **swarm intelligence**, **multi-agent systems**, **complex networks**, **cyber-physical systems** and **autonomous unmanned systems**.
-
 <img src="../../images/research-plus.jpg" style="zoom:15%;" />
 
 **<span style="color:Red;">Swarm Intelligence:</span>**  self-organization, synchronization/consensus, evolutionary games on networks.  
