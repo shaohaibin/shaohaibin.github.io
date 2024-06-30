@@ -12,34 +12,32 @@ nav_order: 2
 
 1. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
-   **IEEE Transactions on Automatic Control**, 2023, 68(11):6711-6726.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
+   **IEEE Transactions on Automatic Control**, 68(11):6711-6726, 2023. [PDF](https://doi.org/10.1109/TAC.2023.3246425)
 
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Relative tempo of distributed averaging on networks*.](https://doi.org/10.1016/j.automatica.2019.03.004)     
-    **Automatica**, 2019, 105:159-166. [PDF](https://doi.org/10.1016/j.automatica.2019.03.004)
+    **Automatica**, 105:159-166, 2019. [PDF](https://doi.org/10.1016/j.automatica.2019.03.004)
+    
 3. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://doi.org/10.1016/j.automatica.2022.110308)    
-   **Automatica**, 2022. (To appear) [PDF](https://doi.org/10.1016/j.automatica.2022.110308)
+   **Automatica**, 141:110308, 2022. [PDF](https://doi.org/10.1016/j.automatica.2022.110308)
 
 4. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Consensus on matrix-weighted switching networks*.](https://ieeexplore.ieee.org/document/9366828/)   
-   **IEEE Transactions on Automatic Control**, 2021, 66(12):5990-5996. [PDF](https://ieeexplore.ieee.org/document/9366828/)
+   **IEEE Transactions on Automatic Control**, 66(12):5990-5996, 2021. [PDF](https://ieeexplore.ieee.org/document/9366828/)
 
 5. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
-   **Automatica**, 2022, 141: 110237. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
+   **Automatica**, 141:110237, 2022. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
+   
+6. Lulu Pan, **Haibin Shao**, Yuanlong Li, Dewei Li, Yugeng Xi.   
+   [*Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*.](https://ieeexplore.ieee.org/abstract/document/9919791/)    
+   IEEE Transactions on Network Science and Engineering 10 (1), 463-476, 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9919791/)   
+   
+7. Chongzhi Wang, **Haibin Shao**, Ying Tan, Dewei Li.   
+   [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://arxiv.org/abs/2108.11652)   
+   New Journal of Physics 26(6): 063009. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)
 
-<!--
-	
-<span id="Working" style="font-size: 110%; color:Grey;">Working Papers</span>
-
-1. Lulu Pan, Yang Lu, **Haibin Shao**, Dewei Li, Yugeng Xi. *Secure and Privacy-Preserving Average Consensus for Matrix-weighted Networks*, 2022.
-2. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi. *Kuramoto Model on Matrix-weighted Networks*, 2022.
-3. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi. *Controllability of High-order Networks*, 2022.
-4. Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi. *On the Convergence Rate of Matrix-weighted Networks*, 2022.
-5. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi. Distributed Neighbor Selection in Open Multi-agent Networks, 2022.
-
--->
 
 <span id="Preprints" style="font-size: 110%; color:Grey;">Preprints</span>
 
@@ -49,13 +47,6 @@ nav_order: 2
 2. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
    arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
-5. Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi.   
-   [*Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*.](https://arxiv.org/abs/2106.06198)    
-   arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)   
-6. Chongzhi Wang, **Haibin Shao**, Dewei Li.   
-   [*Independent dimensional phase transition on a two-dimensional Kuramoto model with matrix coupling*.](https://arxiv.org/abs/2108.11652)   
-   arXiv preprint arXiv:2108.11652. [PDF](https://arxiv.org/abs/2108.11652)
-
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
