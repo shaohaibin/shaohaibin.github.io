@@ -14,7 +14,7 @@ permalink: /
 -->        
         <span style="color:Gray;font-size:17px;">Haibin Shao (邵海滨), PhD, Professor (Associate) </span><br/>                
         <a href="http://csc-lab.com/index">复杂系统控制实验室(CSCL)</a> <br/>                   
-        <a href="https://automation.sjtu.edu.cn/haibin">Haibin [at] Department of Automation</a><br/>                              
+        <a href="https://automation.sjtu.edu.cn/haibin">Automation, SJTU</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a>	<br/>        
         <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>               
         <a href="mailto:shore@sjtu.edu.cn">Email: shore [at] sjtu [dot] edu [dot] cn</a><br/>             
