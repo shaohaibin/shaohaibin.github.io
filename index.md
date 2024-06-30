@@ -17,7 +17,7 @@ permalink: /
 如果你对我研究方向感兴趣，欢迎联系报考硕士、博士研究生以及申请博士后研究人员。<br/>
 </span> [more details](/docs/opening)
 ## Research ##
-I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. In particular, **swarm intelligence**, **multi-agent systems**, **complex networks**, **cyber-physical systems** and **autonomous unmanned systems**. [more details](/docs/research)
+I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. In particular, **swarm intelligence**, **multi-agent systems**, **complex networks**, **cyber-physical social systems** and **autonomous unmanned systems**. [more details](/docs/research)
 
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
 
