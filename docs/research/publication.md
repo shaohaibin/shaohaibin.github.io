@@ -46,7 +46,7 @@ nav_order: 2
    New Journal of Physics 26(6):063009, 2024. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)
 18. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
-   **IEEE Transactions on Automatic Control**, 2023, 68(11):6711-6726.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
+   **IEEE Transactions on Automatic Control**, 68(11):6711-6726, 2023.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
 17. **Haibin Shao**, Haoyu Wei, Lulu Pan and Dewei Li.     
    [*Distributed Stabilization of Signed Networks via Self-loop Compensation*.](https://doi.org/10.1109/TNSE.2023.3249829)    
    IEEE Transactions on Network Science and Engineering, 10(6):3159-3171, 2023. [PDF](https://doi.org/10.1109/TNSE.2023.3249829)
@@ -58,7 +58,7 @@ nav_order: 2
    **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
 14. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
-   **Automatica**, 2022, 141:110237. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
+   **Automatica**, 141:110237, 2022. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
 13. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://authors.elsevier.com/a/1ezp8_7RuwPjS)    
    **Automatica**, 141:110308, 2022. [PDF](https://authors.elsevier.com/a/1ezp8_7RuwPjS)
