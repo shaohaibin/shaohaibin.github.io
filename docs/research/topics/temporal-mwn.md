@@ -12,7 +12,7 @@ layout: default
 
 ## Higher-order Interaction Networks (Matrix-weight Networks)
 
-<img src="../../../images/HOI.jpg" style="zoom:15%;" />
+<img src="../../../images/HOI.png" style="zoom:15%;" />
 
 In this thread of works, we examine:
 
