@@ -13,7 +13,7 @@ nav_order: 2
 
 1. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
-   **IEEE Transactions on Automatic Control**, 2023, 68(11): 6711-6726.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
+   **IEEE Transactions on Automatic Control**, 2023, 68(11):6711-6726.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
 
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Relative tempo of distributed averaging on networks*.](https://doi.org/10.1016/j.automatica.2019.03.004)     
@@ -62,7 +62,7 @@ nav_order: 2
 
 18. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
-   **IEEE Transactions on Automatic Control**, 2023, 68(11):1-16.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
+   **IEEE Transactions on Automatic Control**, 2023, 68(11):6711-6726.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
 17. **Haibin Shao**, Haoyu Wei, Lulu Pan and Dewei Li.     
    [*Distributed Stabilization of Signed Networks via Self-loop Compensation*.](https://doi.org/10.1109/TNSE.2023.3249829)    
    IEEE Transactions on Network Science and Engineering, 2023. [PDF](https://doi.org/10.1109/TNSE.2023.3249829)
