@@ -9,8 +9,11 @@ nav_order: 2
 I am recruiting 3-4 postdoctoral researchers in swarm artificial intelligence, multi-agent systems and unmanned systems.
 
 在群体人工智能、多智能体系统和无人系统方向招收 3-4 名博士后。
+
 ### Graduate students
 I am looking for PhD and Master students who are interested in my research topics.
+
+欢迎对我研究方向感兴趣的同学联系报考硕士、博士研究生。
 
 <p>SJTU is an amazing place for research! Check out how research and life here look like in STJU & Shanghai. 
 </p> 

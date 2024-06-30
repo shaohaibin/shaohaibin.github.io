@@ -7,8 +7,7 @@ nav_order: 2
 
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/findings)  
 
- refers to corresponding author.
-
+ 
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
 1. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
