@@ -43,16 +43,16 @@ nav_order: 2
 
 19. Chongzhi Wang, **Haibin Shao**, Ying Tan, Dewei Li.   
    [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)   
-   New Journal of Physics 26(6):063009, 2024. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)
+   **New Journal of Physics** 26(6):063009, 2024. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)
 18. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
    **IEEE Transactions on Automatic Control**, 68(11):6711-6726, 2023.[PDF](https://doi.org/10.1109/TAC.2023.3246425)
 17. **Haibin Shao**, Haoyu Wei, Lulu Pan and Dewei Li.     
    [*Distributed Stabilization of Signed Networks via Self-loop Compensation*.](https://doi.org/10.1109/TNSE.2023.3249829)    
-   IEEE Transactions on Network Science and Engineering, 10(6):3159-3171, 2023. [PDF](https://doi.org/10.1109/TNSE.2023.3249829)
+   **IEEE Transactions on Network Science and Engineering**, 10(6):3159-3171, 2023. [PDF](https://doi.org/10.1109/TNSE.2023.3249829)
 16. Lulu Pan, **Haibin Shao**, Yuanlong Li, Dewei Li, Yugeng Xi.   
    [*Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*.](https://ieeexplore.ieee.org/abstract/document/9919791/)    
-   IEEE Transactions on Network Science and Engineering 10(1):463-476, 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9919791/)      
+   **IEEE Transactions on Network Science and Engineering** 10(1):463-476, 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9919791/)      
 15. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    
    **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
