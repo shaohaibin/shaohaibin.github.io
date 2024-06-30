@@ -42,7 +42,7 @@ nav_order: 2
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
 19. Chongzhi Wang, **Haibin Shao**, Ying Tan, Dewei Li.   
-   [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://arxiv.org/abs/2108.11652)   
+   [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)   
    New Journal of Physics 26(6):063009, 2024. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)
 18. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
