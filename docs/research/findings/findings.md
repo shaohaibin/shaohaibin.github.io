@@ -7,7 +7,7 @@ permalink: docs/research/findings
 ---
 
 
-### Findings ###
+### Research Topics ###
 
 ## Neighbor Selection on Networks
 
