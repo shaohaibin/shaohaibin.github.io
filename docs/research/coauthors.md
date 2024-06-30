@@ -19,7 +19,7 @@ nav_order: 3
 
 ##### [Yuanlong Li（李元龙）](https://automation.sjtu.edu.cn/LYL) (Shanghai Jiao Tong University)
 
-##### [Yang Lu]() (Lancaster University)
+##### [Yang Lu](https://www.research.lancs.ac.uk/portal/en/people/yang-lu(6841c7f1-9d4e-4911-b146-4c8dee412cae).html) (Lancaster University)
 
 ##### [Peng Wang（王鹏）](https://automation.sjtu.edu.cn/WangPeng) (Shanghai Jiao Tong University)
 
