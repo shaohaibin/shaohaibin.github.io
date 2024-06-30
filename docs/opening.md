@@ -3,11 +3,12 @@ layout: default
 title: Opening
 nav_order: 2
 ---
-[\[Complex System Control Lab\]](http://csc-lab.com/index) [\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/index.htm)  
+[\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/index.htm)  
 
 ### Postdoctoral researchers
-Two postdoctoral researcher positions are available in multi-agent system and predictive control.
+I am recruiting 3-4 postdoctoral researchers in swarm artificial intelligence, multi-agent systems and unmanned systems.
 
+在群体人工智能、多智能体系统和无人系统方向招收 3-4 名博士后。
 ### Graduate students
 I am looking for PhD and Master students who are interested in my research topics.
 
