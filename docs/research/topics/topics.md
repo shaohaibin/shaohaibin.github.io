@@ -2,8 +2,8 @@
 layout: default
 title: Topics
 parent: Research
-nav_order: 2
-permalink: docs/research/findings
+nav_order: 1
+permalink: docs/research/topics
 ---
 
 

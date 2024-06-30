@@ -2,7 +2,7 @@
 layout: default
 title: Publication
 parent: Research
-nav_order: 1
+nav_order: 2
 ---
 
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/findings)  
