@@ -11,14 +11,14 @@ permalink: docs/research/topics
 
 ## Neighbor Selection on Networks
 
-Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./findings/neighbor-selection)
+Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./topics/neighbor-selection)
 
 ---
 ## Higher-Order Networks
 
-Exploring more tractable collective behaviors than lower-order networks. [Read more](./findings/temporal-mwn)
+Exploring more tractable collective behaviors than lower-order networks. [Read more](./topics/temporal-mwn)
 
 ---
 ## Secure Multi-Party Computation
 
-Employing matrix-weighted networks for privacy-preserving consensus. [Read more](./findings/mwn-privavcy)
+Employing matrix-weighted networks for privacy-preserving consensus. [Read more](./topics/mwn-privavcy)
