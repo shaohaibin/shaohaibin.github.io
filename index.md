@@ -14,15 +14,15 @@ permalink: /
 -->        
         <span style="color:Gray;font-size:17px;">Haibin Shao (邵海滨), PhD, Professor (Associate) </span><br/>                
         <a href="http://csc-lab.com/index">复杂系统控制实验室(CSCL)</a> <br/>                   
-        <a href="https://automation.sjtu.edu.cn/haibin">Automation</a>[at] <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>                              
+        <a href="https://automation.sjtu.edu.cn/haibin">Automation</a> [at] <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a>	<br/>                    
-        <a href="mailto:shore@sjtu.edu.cn">Email: shore [at] sjtu [dot] edu [dot] cn</a><br/>             
-
-        
+        <a href="mailto:shore@sjtu.edu.cn">Email: shore [at] sjtu [dot] edu [dot] cn</a>         
 </div>
 
 ## Opening ##
-<span style="color:red;">I am looking for highly motivated postdoctoral researchers and PhD students. </span> [more details](/docs/opening)
+<span style="color:red;">I am looking for highly motivated postdoctoral researchers and PhD students. </br>
+如果你对我研究方向感兴趣，欢迎联系报考硕士、博士研究生以及申请博士后研究人员。</br>
+</span> [more details](/docs/opening)
 
 ## Research ##
 
