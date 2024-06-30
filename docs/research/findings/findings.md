@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Findings
+title: Topics
 parent: Research
 nav_order: 2
 permalink: docs/research/findings
 ---
 
 
-### Research Topics ###
+### Topics ###
 
 ## Neighbor Selection on Networks
 

@@ -8,7 +8,7 @@ layout: default
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 
 
-### Findings ###
+### Topics ###
 
 ## Matrix-weighted networks: Connectivity does NOT Translate into Consensus
 

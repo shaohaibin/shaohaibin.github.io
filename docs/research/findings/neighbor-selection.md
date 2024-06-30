@@ -8,7 +8,7 @@ layout: default
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 
 
-### Findings ###
+### Topics ###
 
 ## Neighbor Selection: Less connected, but more functional
 
