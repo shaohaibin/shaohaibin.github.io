@@ -5,7 +5,7 @@ parent: Research
 nav_order: 2
 ---
 
-[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/findings)  
+[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/topics)  
 
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
