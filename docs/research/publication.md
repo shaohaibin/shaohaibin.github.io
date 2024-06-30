@@ -7,7 +7,7 @@ nav_order: 2
 
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/findings)  
 
-\* refers to corresponding author.
+ refers to corresponding author.
 
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
@@ -18,15 +18,15 @@ nav_order: 2
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Relative tempo of distributed averaging on networks*.](https://doi.org/10.1016/j.automatica.2019.03.004)     
     **Automatica**, 2019, 105:159-166. [PDF](https://doi.org/10.1016/j.automatica.2019.03.004)
-3. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
+3. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://doi.org/10.1016/j.automatica.2022.110308)    
    **Automatica**, 2022. (To appear) [PDF](https://doi.org/10.1016/j.automatica.2022.110308)
 
-4. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
+4. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Consensus on matrix-weighted switching networks*.](https://ieeexplore.ieee.org/document/9366828/)   
    **IEEE Transactions on Automatic Control**, 2021, 66(12):5990-5996. [PDF](https://ieeexplore.ieee.org/document/9366828/)
 
-5. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
+5. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
    **Automatica**, 2022, 141: 110237. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
 
@@ -44,13 +44,13 @@ nav_order: 2
 
 <span id="Preprints" style="font-size: 110%; color:Grey;">Preprints</span>
 
-1. Lulu Pan, **Haibin Shao**\*, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
+1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Vector-valued Privacy-Preserving Average Consensus*.](https://arxiv.org/abs/2209.10786)    
    arXiv preprint arXiv:2209.10786. [PDF](https://arxiv.org/abs/2209.10786)
-2. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
+2. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
    arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
-5. Lulu Pan, **Haibin Shao**\*, Dewei Li, Yugeng Xi.   
+5. Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi.   
    [*Dynamic Event-Triggered Consensus of Multi-agent Systems on Matrix-weighted Networks*.](https://arxiv.org/abs/2106.06198)    
    arXiv preprint arXiv:2106.06198. [PDF](https://arxiv.org/abs/2106.06198)   
 6. Chongzhi Wang, **Haibin Shao**, Dewei Li.   
@@ -66,25 +66,25 @@ nav_order: 2
 17. **Haibin Shao**, Haoyu Wei, Lulu Pan and Dewei Li.     
    [*Distributed Stabilization of Signed Networks via Self-loop Compensation*.](https://doi.org/10.1109/TNSE.2023.3249829)    
    IEEE Transactions on Network Science and Engineering, 2023. [PDF](https://doi.org/10.1109/TNSE.2023.3249829)
-16. Lulu Pan, **Haibin Shao**\*, Yuanlong Li, Dewei Li, Yugeng Xi.    
+16. Lulu Pan, **Haibin Shao**, Yuanlong Li, Dewei Li, Yugeng Xi.    
    [*Event-triggered Consensus of Matrix-weighted Networks Subject to Actuator Saturation*.](https://arxiv.org/abs/2110.13356)    
    IEEE Transactions on Network Science and Engineering, 2022. (To Appear) [PDF](https://arxiv.org/abs/2110.13356)
 15. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    
    **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
-14. Chongzhi Wang, Lulu Pan, **Haibin Shao**\*, Dewei Li, and Yugeng Xi.     
+14. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
    **Automatica**, 2022, 141: 110237. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
-13. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
+13. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://authors.elsevier.com/a/1ezp8_7RuwPjS)    
    **Automatica**, 2022. (To appear) [PDF](https://authors.elsevier.com/a/1ezp8_7RuwPjS)
 12. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
    [*An accelerated distributed gradient method with local memory*.](https://doi.org/10.1016/j.automatica.2022.110260)    
    **Automatica**, 2022. (To appear) [PDF](https://doi.org/10.1016/j.automatica.2022.110260)
-11. Lulu Pan, **Haibin Shao**\*, Dewei Li.   
+11. Lulu Pan, **Haibin Shao**, Dewei Li.   
    [*Peer Selection in Opinion Dynamics on Signed Social Networks with Stubborn Individuals*.](https://doi.org/10.1016/j.neucom.2021.12.105)     
    **Neurocomputing**, 477:104-113, 2022. [PDF](https://doi.org/10.1016/j.neucom.2021.12.105)
-10. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
+10. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Consensus on matrix-weighted switching networks*.](https://ieeexplore.ieee.org/document/9366828/)   
    **IEEE Transactions on Automatic Control**, 2021, 66(12):5990-5996. [PDF](https://ieeexplore.ieee.org/document/9366828/)
 9. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
@@ -93,10 +93,10 @@ nav_order: 2
 8. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
    [*Distributed multi-agent optimisation via coordination with second-order nearest neighbours.*](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2019.0708)    
    **IET Control Theory & Applications**, 14(13):1733–1743, 2020. [PDF](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2019.0708)
-7. Lulu Pan, **Haibin Shao**\*, Mehran Mesbahi, Yugeng Xi, and Dewei Li.    
+7. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.    
     [*On the controllability of matrix-weighted networks*.](https://ieeexplore.ieee.org/abstract/document/9036925)    
     **IEEE Control Systems Letters**, 4(3):572–577, 2020. [PDF](https://ieeexplore.ieee.org/abstract/document/9036925)
-6. Lulu Pan, **Haibin Shao**\*,  Yugeng Xi, and Dewei Li.    
+6. Lulu Pan, **Haibin Shao**,  Yugeng Xi, and Dewei Li.    
     [*Bipartite consensus problem on matrix-valued weighted directed networks*.](http://scis.scichina.com/en/2021/149204.pdf)    
     **SCIENCE CHINA Information Sciences**, 2018. [PDF](http://scis.scichina.com/en/2021/149204.pdf)
 5. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
