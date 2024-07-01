@@ -53,4 +53,4 @@ where $$L$$ and $$\boldsymbol{v}_{2}(L)$$ are the [Laplacian](https://en.wikiped
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
    arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
    
-4. Haibin Shao, Merhan Mesbahi, Dewei Li, and Yugeng Xi. **[Inferring centrality from network snapshots](https://www.nature.com/articles/srep40642)**. **Scientific Reports**, 2017, 7(1):1-13.
+4. Haibin Shao, Merhan Mesbahi, Dewei Li, and Yugeng Xi. *[Inferring centrality from network snapshots](https://www.nature.com/articles/srep40642)*. **Scientific Reports**, 2017, 7(1):1-13.

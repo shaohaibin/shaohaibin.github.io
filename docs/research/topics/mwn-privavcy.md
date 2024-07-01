@@ -12,6 +12,8 @@ layout: default
 
 ## Matrix-weighted Networks and Privacy-preserving Consensus
 
+<img src="../../../images/PPAC.png" style="zoom:20%;" />
+
 An elegant feature of matrix-weighted networks can be employed for privacy-preserving consensus. 
 
 #### Related Papers
