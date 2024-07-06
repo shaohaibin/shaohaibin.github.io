@@ -15,7 +15,7 @@ Exploring more tractable collective behaviors than lower-order interaction netwo
 
 ---
 
-## Links Reduction for Networks
+## Links Reduction of Networks
 
 Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./topics/neighbor-selection)
 
