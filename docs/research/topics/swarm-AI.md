@@ -10,6 +10,6 @@ layout: default
 
 ## Swarm Robotics
 
-<img src="../../../images/HOI.png" style="zoom:15%;" />
+<img src="../../../images/videos/boids.gif" style="zoom:100%;" />
 
 
