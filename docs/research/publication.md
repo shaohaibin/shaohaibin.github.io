@@ -101,25 +101,25 @@ nav_order: 2
 
 <span id="Conference" style="font-size: 110%; color:Grey;">Conference Papers</span>
 
-1.  Chongzhi Wang, Lulu Pan, Dewei Li, **Haibin Shao**, and Yugeng Xi. Consensus of second-order matrix-weighted multi-agent networks. In 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), pages 590–595. IEEE, 2020.
-2.  Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**. Distributed subgradient algorithm for multi-agent optimization with uncoordinated dynamic stepsizes. In 2020 IEEE 16th International Conference on Control & Automation (ICCA), pages 199–204. IEEE, 2020.
-3.  Xiaoxing Ren, Dewei Li, Yugeng Xi, Lulu Pan, and **Haibin Shao**. Primal-dual algorithm for distributed optimization with local domains on signed networks. In 2020 39th **Chinese Control Conference (CCC)**, pages 4930–4935. IEEE, 2020.
-4.  **Haibin Shao**, Lulu Pan, Yugeng Xi, Dewei Li, and Shu Lin. Velocity coordination of multi- vehicle systems via distributed neighbor selection. In 2019 **IEEE Intelligent Transportation Systems Conference (ITSC)**, pages 2938–2943. IEEE, 2019.
-5.  Lulu Pan, **Haibin Shao**, Yugeng Xi, Dewei Li, Shibei Xue, and Shuai Jia. Leader-following discrete-time bipartite consensus on signed networks. In 2019 IEEE 15th **International Conference on Control and Automation (ICCA)**, pages 1000–1005. IEEE, 2019.
-6.  Wenfa Li, Dewei Li, **Haibin Shao**, and Yunwen Xu. An rgbd-slam with bi-directional pnp method and fuzzy frame detection module. In 2019 12th **Asian Control Conference (ASCC)**, pages 1530–1535. IEEE, 2019.
-7.  Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi, Xiaoli Li, and Shibei Xue. Event-triggered consensus problem of general multi-agent system on signed networks. In 2018 15th **International Conference on Control, Automation, Robotics and Vision (ICARCV)**, pages 1069– 1074. IEEE, 2018.
-8.  **Haibin Shao**, Yugeng Xi, Mehran Mesbahi, Dewei Li, Yuli Xu, and Zhongxue Gan. Relative tempo of consensus dynamics on multiplex networks. **IFAC World Congress**, IFAC-PapersOnLine, 50(1):5184–5189, 2017.
-9.  Lulu Pan, Haibin Shao, and Mehran Mesbahi. Laplacian dynamics on signed networks. The **55th IEEE Conference on Decision and Control (CDC)**, Las Vegas, USA, December 12-14, 2016, 891-896.
-10.  Lulu Pan, **Haibin Shao**, and Mehran Mesbahi. Verification and prediction of structural bal- ance: A data-driven perspective. In 2016 **American Control Conference (ACC)**, pages 2858– 2863. IEEE, 2016.
-11.  Lulu Pan, **Haibin Shao**, and Mehran Mesbahi. Laplacian dynamics on signed networks. In 2016 IEEE 55th **Conference on Decision and Control (CDC)**, pages 891–896. IEEE, 2016.
-12.  **Haibin Shao**, Yugeng Xi, and Mehran Mesbahi. On the degree of synchrony. In 2015 54th IEEE **Conference on Decision and Control (CDC)**, pages 986–991. IEEE, 2015.
-13.  **Haibin Shao** and Mehran Mesbahi. On the fiedler vector of graphs and its application in consensus networks. In 2015 **American Control Conference (ACC)**, pages 1734–1739. IEEE, 2015.
-14.  **Haibin Shao**, Mehran Mesbahi, and Yugeng Xi. The relative tempo of discrete-time consensus networks. In 2015 34th **Chinese Control Conference (CCC)**, pages 7362–7367. IEEE, 2015.
-15.  **Haibin Shao**, Lulu Pan, and Mehran Mesbahi. A data-driven approach for influencing con- sensus networks. In 2015 **American Control Conference (ACC)**, pages 347–352. IEEE, 2015.
-16.  **Haibin Shao** and Mehran Mesbahi. Degree of relative influence for consensus-type networks. In 2014 **American Control Conference (ACC)**, pages 2676–2681. IEEE, 2014.
-17.  Jidong Jin, Yufan Zheng, **Haibin Shao**, and Linglin Shu. Consensus problem of second-order multi-agent system in directed network: A matrix analysis approach. In 2010 **Chinese Control and Decision Conference (CCDC)**, pages 3970–3975. IEEE, 2010.
-18.  **Haibin Shao**, Yufan Zheng, and Yugeng Xi. Consensus of second-order multi-agent systems under time-varying communication networks. In 2011 8th **Asian Control Conference (ASCC)**, pages 101–106. IEEE, 2011.
-19.  Linglin Shu, Yufan Zheng, **Haibin Shao**, and Weiyun Pan. Aggregation stability of multiple agents with general nonlinear attraction and repulsion forces. In 2009 IEEE **International Conference on Control and Automation (ICCA)**, pages 303–308. IEEE, 2009.
-20.  Yufan Zheng, **Haibin Shao**, and Weiyun Pan. Consensus problem of double-integrator dy- namics system under time-varying networks. In 2009 7th **Asian Control Conference (ASCC)**, pages 343–348. IEEE, 2009.
+20.  Chongzhi Wang, Lulu Pan, Dewei Li, **Haibin Shao**, and Yugeng Xi. Consensus of second-order matrix-weighted multi-agent networks. In 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), pages 590–595. IEEE, 2020.
+19.  Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**. Distributed subgradient algorithm for multi-agent optimization with uncoordinated dynamic stepsizes. In 2020 IEEE 16th International Conference on Control & Automation (ICCA), pages 199–204. IEEE, 2020.
+18.  Xiaoxing Ren, Dewei Li, Yugeng Xi, Lulu Pan, and **Haibin Shao**. Primal-dual algorithm for distributed optimization with local domains on signed networks. In 2020 39th **Chinese Control Conference (CCC)**, pages 4930–4935. IEEE, 2020.
+17.  **Haibin Shao**, Lulu Pan, Yugeng Xi, Dewei Li, and Shu Lin. Velocity coordination of multi-vehicle systems via distributed neighbor selection. In 2019 **IEEE Intelligent Transportation Systems Conference (ITSC)**, pages 2938–2943. IEEE, 2019.
+16.  Lulu Pan, **Haibin Shao**, Yugeng Xi, Dewei Li, Shibei Xue, and Shuai Jia. Leader-following discrete-time bipartite consensus on signed networks. In 2019 IEEE 15th **International Conference on Control and Automation (ICCA)**, pages 1000–1005. IEEE, 2019.
+15.  Wenfa Li, Dewei Li, **Haibin Shao**, and Yunwen Xu. An rgbd-slam with bi-directional pnp method and fuzzy frame detection module. In 2019 12th **Asian Control Conference (ASCC)**, pages 1530–1535. IEEE, 2019.
+14.  Lulu Pan, **Haibin Shao**, Dewei Li, Yugeng Xi, Xiaoli Li, and Shibei Xue. Event-triggered consensus problem of general multi-agent system on signed networks. In 2018 15th **International Conference on Control, Automation, Robotics and Vision (ICARCV)**, pages 1069– 1074. IEEE, 2018.
+13.  **Haibin Shao**, Yugeng Xi, Mehran Mesbahi, Dewei Li, Yuli Xu, and Zhongxue Gan. Relative tempo of consensus dynamics on multiplex networks. **IFAC World Congress**, IFAC-PapersOnLine, 50(1):5184–5189, 2017.
+12.  Lulu Pan, Haibin Shao, and Mehran Mesbahi. Laplacian dynamics on signed networks. The **55th IEEE Conference on Decision and Control (CDC)**, Las Vegas, USA, December 12-14, 2016, 891-896.
+11.  Lulu Pan, **Haibin Shao**, and Mehran Mesbahi. Verification and prediction of structural balance: A data-driven perspective. In 2016 **American Control Conference (ACC)**, pages 2858– 2863. IEEE, 2016.
+10.  Lulu Pan, **Haibin Shao**, and Mehran Mesbahi. Laplacian dynamics on signed networks. In 2016 IEEE 55th **Conference on Decision and Control (CDC)**, pages 891–896. IEEE, 2016.
+9.  **Haibin Shao**, Yugeng Xi, and Mehran Mesbahi. On the degree of synchrony. In 2015 54th IEEE **Conference on Decision and Control (CDC)**, pages 986–991. IEEE, 2015.
+8.  **Haibin Shao** and Mehran Mesbahi. On the Fiedler vector of graphs and its application in consensus networks. In 2015 **American Control Conference (ACC)**, pages 1734–1739. IEEE, 2015.
+7.  **Haibin Shao**, Mehran Mesbahi, and Yugeng Xi. The relative tempo of discrete-time consensus networks. In 2015 34th **Chinese Control Conference (CCC)**, pages 7362–7367. IEEE, 2015.
+6.  **Haibin Shao**, Lulu Pan, and Mehran Mesbahi. A data-driven approach for influencing consensus networks. In 2015 **American Control Conference (ACC)**, pages 347–352. IEEE, 2015.
+5.  **Haibin Shao** and Mehran Mesbahi. Degree of relative influence for consensus-type networks. In 2014 **American Control Conference (ACC)**, pages 2676–2681. IEEE, 2014.
+4.  Jidong Jin, Yufan Zheng, **Haibin Shao**, and Linglin Shu. Consensus problem of second-order multi-agent system in directed network: A matrix analysis approach. In 2010 **Chinese Control and Decision Conference (CCDC)**, pages 3970–3975. IEEE, 2010.
+3.  **Haibin Shao**, Yufan Zheng, and Yugeng Xi. Consensus of second-order multi-agent systems under time-varying communication networks. In 2011 8th **Asian Control Conference (ASCC)**, pages 101–106. IEEE, 2011.
+2.  Linglin Shu, Yufan Zheng, **Haibin Shao**, and Weiyun Pan. Aggregation stability of multiple agents with general nonlinear attraction and repulsion forces. In 2009 IEEE **International Conference on Control and Automation (ICCA)**, pages 303–308. IEEE, 2009.
+1.  Yufan Zheng, **Haibin Shao**, and Weiyun Pan. Consensus problem of double-integrator dynamics system under time-varying networks. In 2009 7th **Asian Control Conference (ASCC)**, pages 343–348. IEEE, 2009.
 
 [back](./)
