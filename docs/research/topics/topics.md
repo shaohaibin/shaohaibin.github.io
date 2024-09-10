@@ -11,7 +11,7 @@ permalink: docs/research/topics
 
 ## Higher-Order Interaction Networks
 
-Exploring more tractable collective behaviors than lower-order interaction networks. [Read more](./topics/temporal-mwn)
+Exploring more tractable collective behaviors than lower-order interaction networks. [Read more](./topics/hoi-networks)
 
 ---
 
