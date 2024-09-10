@@ -26,3 +26,9 @@ Enhancing structural adaptivity of networks via local neighbor selection. [Read 
 Employing matrix-weighted networks for privacy-preserving consensus. [Read more](./topics/mwn-privavcy)
 
 ---
+
+## Swarm Robotics
+
+Examine the coordination of multiple robots as a system. [Read more](./topics/swarm-AI)
+
+---
