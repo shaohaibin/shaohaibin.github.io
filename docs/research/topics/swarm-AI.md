@@ -12,4 +12,6 @@ layout: default
 
 <img src="../../../images/videos/boids.gif" style="zoom:100%;" />
 
+<img src="../../../images/videos/hunt.gif" style="zoom:100%;" />
+
 
