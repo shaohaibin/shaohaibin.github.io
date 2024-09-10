@@ -35,9 +35,19 @@ nav_order: 2
 1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Vector-valued Privacy-Preserving Average Consensus*.](https://arxiv.org/abs/2209.10786)    
    arXiv preprint arXiv:2209.10786. [PDF](https://arxiv.org/abs/2209.10786)
+   
 2. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
    arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
+   
+3. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
+   [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*]()
+   **IEEE Transactions on Control of Network Systems**, 2023. 
+
+4. Peng Wang, Yang Lu, Jianmin Lian, Lulu Pan, **Haibin Shao**, Ning Li.
+   [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation.*]()
+   **IEEE Transactions on Automatic Control**, 2023. 
+  
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
@@ -100,6 +110,14 @@ nav_order: 2
     **Scientific Reports**, 7(1):1-13, 2017. [PDF](https://www.nature.com/articles/srep40642)
 
 <span id="Conference" style="font-size: 110%; color:Grey;">Conference Papers</span>
+
+27. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li. [* Privacy-Preserving Average Consensus Algorithm with Beaver Triple.*](). **The 63nd IEEE Conference on Decision and Control (CDC)**, Milan, Italy, December 16-19, 2024. 
+  
+26. Haoyu Wei, Lulu Pan, **Haibin Shao**, Dewei Li, Wenbin Yu. [*Cluster Consensus Problem on Time-Varying Higher-Order Interaction Networks.*](). **The 63nd IEEE Conference on Decision and Control (CDC)**, Milan, Italy, December 16-19, 2024. 
+  
+25. Xin Zhang, Lulu Pan, **Haibin Shao**, Dewei Li. [*Containment Control of Matrix-Scaled Multi-agent Networks.*](). **2024 7th IEEE International Conference on Unmanned Systems**, 2024.
+
+24. Jingbo Yang, Haoyu Wei, Lulu Pan, **Haibin Shao**, Dewei Li, Yuanlong Li, Liangren Shi. [*Multi-Stage Multi-Robot Cooperative Hunting with Dynamic Alliance*](). **2024 7th IEEE International Conference on Unmanned Systems**, 2024.
 
 23. Chongzhi Wang, **Haibin Shao**, and Dewei Li. [*Cluster Consensus of the Matrix-Weighted Network on A Negative Circle*](), **2024 American Control Conference (ACC)**, pp. 3160-3165, 2024.
 
