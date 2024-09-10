@@ -10,8 +10,10 @@ layout: default
 
 ## Swarm Robotics
 
-<img src="../../../images/videos/boids.gif" style="zoom:100%;" />
+Testbed for cross-domain swarm robotic systems.
 
-<img src="../../../images/videos/hunt.gif" style="zoom:100%;" />
+<img src="../../../images/videos/boids.gif" style="zoom:80%;" />
+
+<img src="../../../images/videos/hunt.gif" style="zoom:80%;" />
 
 
