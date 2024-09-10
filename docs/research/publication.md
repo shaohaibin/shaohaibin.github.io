@@ -34,11 +34,11 @@ nav_order: 2
 
 1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Vector-valued Privacy-Preserving Average Consensus*.](https://arxiv.org/abs/2209.10786)    
-   Automatica, 2022. arXiv preprint arXiv:2209.10786. [PDF](https://arxiv.org/abs/2209.10786)
+   **Automatica**, 2022. arXiv preprint arXiv:2209.10786. [PDF](https://arxiv.org/abs/2209.10786)
    
 2. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
-   Automatica, 2022. arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
+   **Automatica**, 2022. arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
    
 3. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
    [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*]()
