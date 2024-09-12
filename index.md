@@ -21,7 +21,6 @@ In particular, [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_inte
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
 
 ## Opening ##
-<span style="color:red;">I am looking for highly motivated postdoctoral researchers and PhD students. <br/>
 如果你对我的研究方向感兴趣，欢迎联系报考硕士、博士研究生以及申请博士后研究人员。</span> [more details](/docs/opening) <br/>
 
 <p><div style="width:150px;"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qibxuIgajyF4nPWLrgu8bXeBOCIc9V_830nNux3l7LI&cl=ffffff&w=a"></script>  </div></p>
