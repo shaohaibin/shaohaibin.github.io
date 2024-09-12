@@ -14,8 +14,8 @@ permalink: /
 </div>
 ## Opening ##
 <span style="color:red;">I am looking for highly motivated postdoctoral researchers and PhD students. <br/>
-如果你对我的研究方向感兴趣，欢迎联系报考硕士、博士研究生以及申请博士后研究人员。<br/>
-</span> [more details](/docs/opening)
+如果你对我的研究方向感兴趣，欢迎联系报考硕士、博士研究生以及申请博士后研究人员。</span> [more details](/docs/opening) <br/>
+
 ## Research ##
 I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. [more details](/docs/research)
 
