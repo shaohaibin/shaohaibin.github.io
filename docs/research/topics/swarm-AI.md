@@ -12,10 +12,10 @@ layout: default
 
 Testbed for cross-domain swarm robotic systems.
 
-<img src="../../../images/videos/boids.gif" style="zoom:80%;" />
+<img src="../../../images/videos/boids.gif" width="400"  />
 
-<img src="../../../images/videos/hunt.gif" style="zoom:80%;" />
+<img src="../../../images/videos/hunt.gif" width="400"  />
 
-<img src="../../../images/testbed1.jpg" style="zoom:80%;" />
+<img src="../../../images/testbed1.jpg" width="400" />
 
 
