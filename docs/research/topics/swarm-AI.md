@@ -16,4 +16,6 @@ Testbed for cross-domain swarm robotic systems.
 
 <img src="../../../images/videos/hunt.gif" style="zoom:80%;" />
 
+<img src="../../../images/testbed1.jpg" style="zoom:80%;" />
+
 
