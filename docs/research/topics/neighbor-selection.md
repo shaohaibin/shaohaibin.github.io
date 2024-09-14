@@ -12,6 +12,8 @@ layout: default
 
 ## Neighbor selection: less connected, better convergence.
 
+<img src="../../../images/NS.png" width="400"  />
+
 In this thread of works, we ask:
 
 ***How the convergence rate of a diffusively coupled multi-agent network can be drammatically enhanced with less communication links?***
