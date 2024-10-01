@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publication
-nav_order: 3
+nav_order: 4
 ---
 
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/topics)  
