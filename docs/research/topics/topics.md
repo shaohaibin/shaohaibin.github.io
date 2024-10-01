@@ -6,7 +6,7 @@ nav_order: 1
 permalink: docs/research/topics
 ---
 
-### Research Interests###
+## Research Interests ##
 
 **<span style="color:Red;">Swarm Intelligence:</span>**  self-organization, synchronization/consensus, evolutionary games on networks.  
 **<span style="color: Red;">Collective Learning:</span>**  distributed signal processing, optimization, and learning.  
@@ -17,27 +17,27 @@ permalink: docs/research/topics
 
 <img src="../../images/research-plus.jpg" style="zoom:15%;" />
 
-###  Projects ###
+##  Projects ##
 
-## Higher-Order Interaction Networks
+### Higher-Order Interaction Networks
 
 Exploring more tractable collective behaviors than lower-order interaction networks. [Read more](./topics/hoi-networks)
 
 ---
 
-## Links Reduction of Networks
+### Links Reduction of Networks
 
 Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./topics/neighbor-selection)
 
 ---
 
-## Secure Multi-Party Computation
+### Secure Multi-Party Computation
 
 Employing matrix-weighted networks for privacy-preserving consensus. [Read more](./topics/mwn-privavcy)
 
 ---
 
-## Swarm Robotics
+### Swarm Robotics
 
 Examine the coordination of multiple robots as a system. [Read more](./topics/swarm-AI)
 
