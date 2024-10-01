@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Students
-nav_order: 8
+nav_order: 6
 ---
 
 ### Students

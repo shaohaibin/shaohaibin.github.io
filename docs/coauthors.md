@@ -2,7 +2,7 @@
 layout: default
 title: Collaborators
 parent: Research
-nav_order: 5
+nav_order: 8
 ---
 
 ### Collaborators
