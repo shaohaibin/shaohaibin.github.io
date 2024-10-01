@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Service
+title: Services
 nav_order: 5
 ---
 
