@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Students
-parent: Research
-nav_order: 3
+nav_order: 6
 ---
 
 ### Students

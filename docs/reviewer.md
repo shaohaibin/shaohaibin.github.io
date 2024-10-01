@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Reviewer
-parent: Research
-nav_order: 4
+nav_order: 5
 ---
 
 ### Journals
