@@ -7,12 +7,12 @@ permalink: docs/research
 
 ## Research Interests ##
 
-**<span style="color:Red;">Swarm Intelligence:</span>**  self-organization, synchronization/consensus, evolutionary games on networks.  
-**<span style="color: Red;">Collective Learning:</span>**  distributed signal processing, optimization, and learning.   
-**<span style="color: Red;">Swarm Robotics:</span>** multi-robot platform development, embodied swarm.      
-**<span style="color: Red;">Multi-Party Computation:</span>**  privacy-preserving algorithms for distributed consensus, LAE solving and optimization.  
-**<span style="color: Red;">Social Networks:</span>** opinion dynamics and computational social psychology. 
-**<span style="color: Red;">Data-driven Paradigm:</span>**  behavioral system theory, TDA, distributed predictive control.  
+**<span style="color:Red;">Swarm Intelligence:</span>**  Self-organization; Synchronization; Consensus; Evolutionary Games.  
+**<span style="color: Red;">Collective Learning:</span>**  Distributed Signal Processing; Distributed Optimization and Learning.   
+**<span style="color: Red;">Swarm Robotics:</span>** Multi-robot System; Embodied Swarm Robots.      
+**<span style="color: Red;">Multi-Party Computation:</span>**   Distributed Privacy-preserving Algorithms for Consensus, LAE Solving and Optimization.  
+**<span style="color: Red;">Social Networks:</span>** Opinion Dynamics; Computational Social Psychology.  
+**<span style="color: Red;">Data-driven Paradigm:</span>**  Behavioral System Theory; Topological Data Analysis; Distributed Predictive Control.  
 
 <img src="../../images/research-plus.jpg" style="zoom:15%;" />
 
