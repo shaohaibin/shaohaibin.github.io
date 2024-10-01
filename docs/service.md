@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Reviewer
+title: Service
 nav_order: 5
 ---
 
-### Journals
+### Journal Reviewer
 
 - IEEE Transactions on Automatic Control
 - Automatica
@@ -25,7 +25,7 @@ nav_order: 5
 - Neurocomputing
 - Knowledge-Based Systems
 
-### Conferences
+### Conference Reviewer
 
 - American Control Conference (ACC)
 - IEEE Conference on Decision and Control (CDC)
