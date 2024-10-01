@@ -15,7 +15,7 @@ nav_order: 9
 	Room 2-309, SEIEE Building, Minhang campus   <br/> 
 	Shanghai Jiao Tong University   <br/>    
 	<a href="https://goo.gl/maps/G3qKUAcdX1tqdVFLA">Minhang, Shanghai 200240, China</a><br/>   
-	Email: shore [at] sjtu [dot] edu [dot] cn    <br/>   
+	Email: shore@sjtu.edu.cn    <br/>   
 	<a href="https://automation.sjtu.edu.cn/haibin">https://automation.sjtu.edu.cn/haibin</a>   <br/>
 	<a href="https://shaohaibin.github.io">https://shaohaibin.github.io</a>   <br/>
 </div>
