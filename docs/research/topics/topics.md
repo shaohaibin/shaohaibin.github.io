@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Topics
+title: Research
 parent: Research
 nav_order: 1
 permalink: docs/research/topics
