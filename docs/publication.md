@@ -4,7 +4,7 @@ title: Publication
 nav_order: 4
 ---
 
-[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  -    [By Topics](/docs/research/topics)  
+[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  
 
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
@@ -162,4 +162,3 @@ nav_order: 4
 
 1.  Yufan Zheng, **Haibin Shao**, and Weiyun Pan. [*Consensus problem of double-integrator dynamics system under time-varying networks*](). 2009 7th **Asian Control Conference (ASCC)**, pp. 343–348, 2009.
 
-[back](./)
