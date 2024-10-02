@@ -4,8 +4,7 @@ title: Publication
 nav_order: 4
 ---
 
-[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)    -   [Under Review](#Under-Review)  
-
+[Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)   
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
