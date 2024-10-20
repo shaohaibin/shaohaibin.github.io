@@ -36,7 +36,7 @@ Employing matrix-weighted networks for privacy-preserving consensus. [Read more]
 
 ---
 
-### Embodied Swarm Robots
+### Swarm Robotics
 
 Examine the coordination of multiple robots as a system. [Read more](./research/swarm-AI)
 
