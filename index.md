@@ -14,7 +14,7 @@ permalink: /
 </div>
 
 ## Research ##
-I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. [more details](/docs/research)
+I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. [Details](/docs/research){: .btn .btn-blue }
 
 In particular, [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). 
 
