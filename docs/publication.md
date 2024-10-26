@@ -8,23 +8,27 @@ nav_order: 4
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
-1. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
+1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
+   [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()    
+   **Automatica**, 2024. [To appear]()
+
+2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
    **IEEE Transactions on Automatic Control**, 68(11):6711-6726, 2023. [PDF](https://doi.org/10.1109/TAC.2023.3246425)
 
-2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
+3. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Relative tempo of distributed averaging on networks*.](https://doi.org/10.1016/j.automatica.2019.03.004)     
     **Automatica**, 105:159-166, 2019. [PDF](https://doi.org/10.1016/j.automatica.2019.03.004)
     
-3. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
+4. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Cluster Consensus on Matrix-weighted Switching Networks*.](https://doi.org/10.1016/j.automatica.2022.110308)    
    **Automatica**, 141:110308, 2022. [PDF](https://doi.org/10.1016/j.automatica.2022.110308)
 
-4. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
+5. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Consensus on matrix-weighted switching networks*.](https://ieeexplore.ieee.org/document/9366828/)   
    **IEEE Transactions on Automatic Control**, 66(12):5990-5996, 2021. [PDF](https://ieeexplore.ieee.org/document/9366828/)
 
-5. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
+6. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
    **Automatica**, 141:110237, 2022. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
 
