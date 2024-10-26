@@ -20,24 +20,24 @@ permalink: docs/research
 
 ### Higher-Order Interaction Networks
 
-Exploring more tractable collective behaviors than lower-order interaction networks. [Read more](./research/hoi-networks)
+Exploring more tractable collective behaviors than lower-order interaction networks. <a href="./research/hoi-networks"><img src="../../images/details_icon.png" style="zoom:6%;"/></a>
 
 ---
 
 ### Links Reduction of Networks
 
-Enhancing structural adaptivity of networks via local neighbor selection. [Read more](./research/neighbor-selection)
+Enhancing structural adaptivity of networks via local neighbor selection. <a href="./research/neighbor-selection"><img src="../../images/details_icon.png" style="zoom:6%;"/></a>
 
 ---
 
 ### Secure Multi-Party Computation
 
-Employing matrix-weighted networks for privacy-preserving consensus. [Read more](./research/mwn-privavcy)
+Employing matrix-weighted networks for privacy-preserving consensus. <a href="./research/mwn-privavcy"><img src="../../images/details_icon.png" style="zoom:6%;"/></a>
 
 ---
 
 ### Swarm Robotics
 
-Examine the coordination of multiple robots as a system. [Read more](./research/swarm-AI)
+Examine the coordination of multiple robots as a system. <a href="./research/swarm-AI"><img src="../../images/details_icon.png" style="zoom:6%;"/></a>
 
 ---
