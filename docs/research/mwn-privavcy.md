@@ -18,8 +18,11 @@ An elegant feature of matrix-weighted networks can be employed for privacy-prese
 
 #### Related Papers
 
-1. Lulu Pan, **Haibin Shao**\*, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
-   [*Vector-valued Privacy-Preserving Average Consensus*.](https://arxiv.org/abs/2209.10786)    
-   arXiv preprint arXiv:2209.10786. [PDF](https://arxiv.org/abs/2209.10786)
 
-2. Lulu Pan, Yang Lu, **Haibin Shao**, Dewei Li, Yugeng Xi. *Secure and Privacy-Preserving Average Consensus for Matrix-weighted Networks*, 2022. (working paper)
+1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()     **Automatica**, 2024. [To appear]()
+
+2. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
+   [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*]()
+   **IEEE Transactions on Control of Network Systems**, 2023. 
+
+3. Lulu Pan, Yang Lu, **Haibin Shao**, Dewei Li, Yugeng Xi. *Secure and Privacy-Preserving Average Consensus for Matrix-weighted Networks*, 2022. (working paper)
