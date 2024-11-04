@@ -53,6 +53,10 @@ nav_order: 4
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
+20. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
+   [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()    
+   **Automatica**, 2024. [To appear]()
+
 19. Chongzhi Wang, **Haibin Shao**, Ying Tan, Dewei Li.   
    [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)   
    **New Journal of Physics** 26(6):063009, 2024. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)
