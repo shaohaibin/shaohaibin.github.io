@@ -41,10 +41,6 @@ nav_order: 4
 2. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
    **Automatica**, 2022. arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
-   
-3. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
-   [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*]()
-   **IEEE Transactions on Control of Network Systems**, 2023. 
 
 4. Peng Wang, Yang Lu, Jianmin Lian, Lulu Pan, **Haibin Shao**, Ning Li.
    [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation.*]()
@@ -52,6 +48,10 @@ nav_order: 4
   
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
+
+21. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
+   [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*]()
+   **IEEE Transactions on Control of Network Systems**, 2024. [To appear]()
 
 20. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()    
