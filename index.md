@@ -13,14 +13,17 @@ permalink: /
         <a href="mailto:shore@sjtu.edu.cn">Email: shore@sjtu.edu.cn</a>         
 </div>
 
+## Opening ##
+欢迎联系报考硕士、博士研究生以及申请博士后研究人员。 
+
+**在群体智能、多智能体系统和无人系统方向招收 2-3 名博士后**。
+<a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:6%;"/></a> <br/>
+
+<p><div style="width:150px;"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qibxuIgajyF4nPWLrgu8bXeBOCIc9V_830nNux3l7LI&cl=ffffff&w=a"></script>  </div></p>
+
 ## Research ##
 I am interested in the **interplay** between **structure** and **dynamics** of **complex systems**. <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:6%;"/></a>
 
 In particular, [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). 
 
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
-
-## Opening ##
-如果你对我的研究方向感兴趣，欢迎联系报考硕士、博士研究生以及申请博士后研究人员。 <a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:6%;"/></a> <br/>
-
-<p><div style="width:150px;"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qibxuIgajyF4nPWLrgu8bXeBOCIc9V_830nNux3l7LI&cl=ffffff&w=a"></script>  </div></p>

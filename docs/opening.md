@@ -8,7 +8,7 @@ nav_order: 2
 ### Postdoctoral researchers
 I am recruiting 3-4 postdoctoral researchers in swarm artificial intelligence, multi-agent systems and unmanned systems.
 
-在群体人工智能、多智能体系统和无人系统方向招收 2-3 名博士后。
+在群体智能、多智能体系统和无人系统方向招收 2-3 名博士后。
 
 ### Graduate students
 I am looking for PhD and Master students who are interested in my research topics.
