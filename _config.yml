@@ -23,3 +23,5 @@ url: "https://shaohaibin.github.io" # the base hostname & protocol for your site
 remote_theme: pmarsceill/just-the-docs
 
 color_scheme: purple
+
+logo: "/assets/images/just-the-docs.png"
