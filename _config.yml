@@ -24,3 +24,5 @@ remote_theme: pmarsceill/just-the-docs
 
 color_scheme: purples
 
+logo: "/assets/images/just-the-docs.png"
+
