@@ -15,12 +15,12 @@ permalink: docs/research
 
 * [Collective Learning]()
 
--
+---
 
 ##### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System; Embodied Swarm System. 
 
 
--
+---
      
 ##### [Secure Multi-Party Computation](./research/mwn-privavcy): Distributed Privacy-Preserving Consensus, LAE Solving and Optimization.  
  
