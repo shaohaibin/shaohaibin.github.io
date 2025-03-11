@@ -7,7 +7,7 @@ permalink: docs/research
 
 ## Research Interests ##
 
-##### [Swarm Intelligence](): Self-organization; Synchronization; Consensus; Evolutionary Games.  
+#### [Swarm Intelligence](): Self-organization; Synchronization; Consensus; Evolutionary Games.  
 
 * [Higher-Order Interaction Networks](./research/hoi-networks)
 
@@ -17,12 +17,12 @@ permalink: docs/research
 
 ---
 
-##### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System; Embodied Swarm System. 
+#### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System; Embodied Swarm System. 
 
 
 ---
      
-##### [Secure Multi-Party Computation](./research/mwn-privavcy): Distributed Privacy-Preserving Consensus, LAE Solving and Optimization.  
+#### [Secure Multi-Party Computation](./research/mwn-privavcy): Distributed Privacy-Preserving Consensus, LAE Solving and Optimization.  
  
 
 
