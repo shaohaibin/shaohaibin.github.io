@@ -25,6 +25,6 @@ permalink: docs/research
      
 ### [Secure Multi-Party Computation](./research/mwn-privavcy): Distributed Privacy-Preserving Consensus, LAE Solving and Optimization.  
  
-<img src="../../../images/PPAC.png" style="zoom:40%;" />
+<img src="../../../images/PPAC.png" width="400" />
 
 
