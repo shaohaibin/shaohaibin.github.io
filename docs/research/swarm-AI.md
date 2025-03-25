@@ -4,7 +4,7 @@ layout: default
 
 ### Topics ###
 
-## Swarm Robotics
+## Robotic Swarm Testbed
 
 <img src="../../../images/testbed1.jpg" width="400" />
 
