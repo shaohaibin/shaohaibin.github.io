@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+### Topics ###
+
 ## Swarm Robotics
 
 <img src="../../../images/testbed1.jpg" width="400" />
