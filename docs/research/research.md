@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research （研究方向）
+title: Research 
 nav_order: 2
 permalink: docs/research
 ---

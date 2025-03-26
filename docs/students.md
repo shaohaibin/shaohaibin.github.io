@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Students （学生）
+title: Students 
 nav_order: 6
 ---
 

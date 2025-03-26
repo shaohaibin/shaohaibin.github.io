@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publication (论文)
+title: Publication 
 nav_order: 4
 ---
 
