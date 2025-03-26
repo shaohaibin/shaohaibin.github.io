@@ -29,7 +29,13 @@ Deprecated
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
-| Automatica {: .label }  | Automatica {: .label } |
+| 
+Automatica 
+{: .label }  
+| 
+Automatica 
+{: .label } 
+|
    
 | Automatica {: .label }  | 1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()    
