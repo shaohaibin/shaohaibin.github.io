@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Contact （联系）
 nav_order: 10
 ---
 

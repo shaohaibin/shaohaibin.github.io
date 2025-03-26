@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching
+title: Teaching （教学）
 nav_order: 7
 ---
 

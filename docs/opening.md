@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Opening
-nav_order: 2
+title: Opening （招募）
+nav_order: 9
 ---
 [\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/index.htm)  
 
