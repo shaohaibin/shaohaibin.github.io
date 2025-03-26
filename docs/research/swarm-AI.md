@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Testbed
+nav_order: 10
 ---
 
 
