@@ -4,6 +4,27 @@ title: Publication
 nav_order: 4
 ---
 
+
+Default label
+{: .label }
+
+Blue label
+{: .label .label-blue }
+
+Stable
+{: .label .label-green }
+
+New release
+{: .label .label-purple }
+
+Coming soon
+{: .label .label-yellow }
+
+Deprecated
+{: .label .label-red }
+
+
+
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)   
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
