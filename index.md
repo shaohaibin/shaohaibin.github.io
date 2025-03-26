@@ -11,12 +11,9 @@ permalink: /
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> [at] <a href="https://www.sjtu.edu.cn/">SJTU</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a><br/>                    
         <a href="mailto:shore@sjtu.edu.cn">Email: shore@sjtu.edu.cn</a>  <br/>        
-        <span style="color: red;">欢迎申请硕士、博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:6%;"/></a> 
+        <span style="color: red;">欢迎申请硕士、博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:4%;"/></a> 
 </div>
-## Research ##
-I am interested in the **interplay** between **structure** and **performance** of **complex networked systems**. 
-
-In particular, [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:6%;"/></a> 
+I am interested in the **interplay** between **structure** and **performance** of **complex networked systems**, including topics such as [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:4%;"/></a> 
 
 <img src="./images/research-plus.jpg" style="zoom:15%;" /> 
 
