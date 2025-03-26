@@ -27,7 +27,7 @@ Deprecated
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
-Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling.**Automatica**, 174:112094, 2025.
+Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling (2025).
 {: .label .label-green }
 Automatica
 {: .label } 
