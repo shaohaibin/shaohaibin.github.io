@@ -20,7 +20,7 @@ nav_order: 3
 
 | USV swarm hunting | USV swarm hunting |
 
-| <img src="../../../images/testbed1.jpg" width="400"  /> |  <img src="../../../images/testbed2.jpg" width="400" /> |
+| <img src="../../../images/testbed1.jpg" width="400"  /> |  <img src="../../../images/testbed1.jpg" width="400" /> |
 
 
 
