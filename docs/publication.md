@@ -28,15 +28,11 @@ Deprecated
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)   
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
-
-
-Automatica 
-{: .label }  Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi. [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()**Automatica**, 2024.
-
    
-| Automatica {: .label }  | 1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
+1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
    [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()    
-   **Automatica**, 2024. [To appear]() |
+   **Automatica**, 2024. [To appear]() Automatica
+{: .label }
 
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
