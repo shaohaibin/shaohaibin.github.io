@@ -4,8 +4,7 @@ title: Testbed
 nav_order: 3
 ---
 
-
-### Swarm Testbed ###
+### Testbed for Swarm Robotics ###
 
 | <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/boids.gif" width="400"  /> |
 
