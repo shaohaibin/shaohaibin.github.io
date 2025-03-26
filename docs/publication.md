@@ -31,8 +31,7 @@ Deprecated
 
 
 Automatica 
-{: .label }  
-Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi. [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()**Automatica**, 2024.
+{: .label }  Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi. [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()**Automatica**, 2024.
 
    
 | Automatica {: .label }  | 1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
