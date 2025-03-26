@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Robotic Testbed
+
+## Robotic Swarm Testbed
 
 <img src="../../../images/testbed1.jpg" width="400" />
 
