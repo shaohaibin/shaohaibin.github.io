@@ -10,7 +10,7 @@ layout: default
 
 ### Topics ###
 
-## Matrix-weighted Networks and Privacy-preserving Consensus
+## Privacy-preserving Consensus via Matrix-weighted Coupling
 
 <img src="../../../images/PPAC.png" style="zoom:40%;" />
 
