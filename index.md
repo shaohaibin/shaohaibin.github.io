@@ -11,7 +11,7 @@ permalink: /
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> [at] <a href="https://www.sjtu.edu.cn/">SJTU</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a><br/>                    
         <a href="mailto:shore@sjtu.edu.cn">Email: shore@sjtu.edu.cn</a>  <br/>        
-        <span style="color: red;">欢迎申请硕士、博士研究生以及博士后研究员(多智能体系统、群体智能和无人系统方向招收2-3 名博士后)。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:6%;"/></a> 
+        <span style="color: red;">欢迎申请硕士、博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:6%;"/></a> 
 </div>
 ## Research ##
 I am interested in the **interplay** between **structure** and **performance** of **complex networked systems**. <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:6%;"/></a>
