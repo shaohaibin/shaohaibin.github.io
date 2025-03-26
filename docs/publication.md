@@ -35,6 +35,9 @@ Deprecated
    Automatica
 {: .label }
 
+   Automatica
+{: .label } Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling, Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.
+
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
    **IEEE Transactions on Automatic Control**, 68(11):6711-6726, 2023. [PDF](https://doi.org/10.1109/TAC.2023.3246425)
