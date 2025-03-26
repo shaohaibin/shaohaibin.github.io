@@ -23,8 +23,6 @@ Coming soon
 Deprecated
 {: .label .label-red }
 
-
-
 [Journal](#Journal)  -   [Conference](#Conference)  -   [Preprints](#Preprints)   
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
