@@ -27,9 +27,10 @@ Deprecated
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
-Automatica
-{: .label } Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling.**Automatica**, 174:112094, 2025.
+Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling.**Automatica**, 174:112094, 2025.
 {: .label .label-green }
+Automatica
+{: .label } 
 
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
