@@ -18,9 +18,9 @@ nav_order: 3
 
 | <img src="../../../images/videos/usv3-1.gif" width="400"  /> |  <img src="../../../images/videos/usv6-2.gif" width="400"  /> |
 
-| Motion Capture Suit| Motion Capture Suit|
+| Indoor Experimental Area| Motion Capture Suit|
 
-| <img src="../../../images/testbed1.jpg" width="400"  /> |  <img src="../../../images/testbed1.jpg" width="400" /> |
+| <img src="../../../images/testbed/testbed2.jpg" width="400"  /> |  <img src="../../../images/testbed/testbed3.jpg" width="400"  /> |
 
 
 
