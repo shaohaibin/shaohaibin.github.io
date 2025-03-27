@@ -13,7 +13,7 @@ permalink: /
         <a href="mailto:shore@sjtu.edu.cn">Email: shore@sjtu.edu.cn</a>  <br/>        
         <span style="color: red;">欢迎申请本科生科研项目、硕士/博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:4%;"/></a> 
 </div>	
-I am interested in the **interplay** between **structure** and **performance** of **complex networked systems**, including topics such as [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:4%;"/></a> 
+I am interested in the **interplay** between **structure** and **performance** of **complex networked systems**, including topics such as [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:100%;"/></a> 
 
 <img src="./images/research-plus-small.jpg" style="zoom:12%;" /> 
 
