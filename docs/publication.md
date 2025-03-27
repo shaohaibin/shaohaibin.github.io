@@ -72,18 +72,20 @@ Deprecated
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
 
-22. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li. [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation*](https://ieeexplore.ieee.org/abstract/document/10877776) 
+22. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li.  
+    [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation*](https://ieeexplore.ieee.org/abstract/document/10877776)  
     **IEEE Transactions on Automatic Control**, 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10877776) 
 
-21. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
-   [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*](https://ieeexplore.ieee.org/abstract/document/10829966)
+21. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li.  
+    [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*](https://ieeexplore.ieee.org/abstract/document/10829966)  
    **IEEE Transactions on Control of Network Systems**, 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10829966)
 
-20. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)     
+20. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  
+    [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)     
     **Automatica**, 174:112094, 2025. [PDF](https://doi.org/10.1016/j.automatica.2024.112094)
 
-19. Chongzhi Wang, **Haibin Shao**, Ying Tan, Dewei Li.   
-   [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)   
+19. Chongzhi Wang, **Haibin Shao**, Ying Tan, Dewei Li.    
+   [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)    
    **New Journal of Physics** 26(6):063009, 2024. [PDF](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)
    
 18. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
@@ -102,8 +104,8 @@ Deprecated
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    
    **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
    
-14. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
-   [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
+14. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.       
+   [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237)  
    **Automatica**, 141:110237, 2022. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
    
 13. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
@@ -164,7 +166,7 @@ Deprecated
 
 <span id="Conference" style="font-size: 110%; color:Grey;">Conference Papers</span>
 
-27. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li. [* Privacy-Preserving Average Consensus Algorithm with Beaver Triple.*]() **The 63nd IEEE Conference on Decision and Control (CDC)**, Milan, Italy, December 16-19, 2024. 
+27. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li. [*Privacy-Preserving Average Consensus Algorithm with Beaver Triple.*]() **The 63nd IEEE Conference on Decision and Control (CDC)**, Milan, Italy, December 16-19, 2024. 
   
 26. Haoyu Wei, Lulu Pan, **Haibin Shao**, Dewei Li, Wenbin Yu. [*Cluster Consensus Problem on Time-Varying Higher-Order Interaction Networks.*](). **The 63nd IEEE Conference on Decision and Control (CDC)**, Milan, Italy, December 16-19, 2024. 
   
