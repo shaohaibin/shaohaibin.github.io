@@ -13,7 +13,7 @@ permalink: docs/research
 
 *  [Distributed Neighbor Selection in Networks](./research/neighbor-selection)
 
-* [Collective Learning]()
+* [Collective Learning](./research/distributed-optimization)
 
 ---
 
@@ -25,6 +25,6 @@ permalink: docs/research
      
 ### [Secure Multi-Party Computation](./research/mwn-privavcy): Distributed Privacy-Preserving Consensus, LAE Solving and Optimization.  
  
-<img src="../../../images/PPAC.png" width="400" />
+| <img src="../../../images/research/privacy/PPAC.png" width="400" /> | <img src="../../../images/research/privacy/trajectory.png" width="400" /> |
 
 

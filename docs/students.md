@@ -12,6 +12,8 @@ nav_order: 6
 
 ##### [Yuhao Chen（陈雨昊）]() (Shanghai Jiao Tong University) 
 
+##### [Hang Lv（吕航）]() (Shanghai Jiao Tong University) 
+
 ##### [Jihao Zhang（张济昊）]() (Shanghai Jiao Tong University) 
 
 ##### [Zhenyue Pan（潘震岳）]() (Shanghai Jiao Tong University) 
