@@ -106,6 +106,9 @@ Deprecated
    [*Distributed global optimization for a class of nonconvex optimization with coupled constraints*.](https://ieeexplore.ieee.org/document/9547726)    
    **IEEE Transactions on Automatic Control**, 67(8):4322-4329, 2021. [PDF](https://ieeexplore.ieee.org/document/9547726)
 8. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
+   [*Distributed subgradient algorithm for multi-agent optimization with dynamic stepsize.*](https://ieeexplore.ieee.org/abstract/document/9358456)  
+   **IEEE/CAA Journal of Automatica Sinica**, 8(8):1451-1464, 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9358456)
+8. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
    [*Distributed multi-agent optimisation via coordination with second-order nearest neighbours.*](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2019.0708)    
    **IET Control Theory & Applications**, 14(13):1733–1743, 2020. [PDF](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2019.0708)
 7. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Yugeng Xi, and Dewei Li.    
