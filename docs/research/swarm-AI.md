@@ -20,7 +20,7 @@ nav_order: 3
 
 | Indoor Experimental Area| Motion Capture Suit|
 
-| <img src="../../../images/testbed/testbed2.jpg" width="400"  /> |  <img src="../../../images/testbed/testbed3.jpg" width="400"  /> |
+| <img src="../../../images/testbed/testbed3.jpg" width="400"  /> |  <img src="../../../images/testbed/testbed2.jpg" width="400"  /> |
 
 
 
