@@ -27,10 +27,7 @@ Deprecated
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
-Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling (2025).
-{: .label .label-green }
-Automatica
-{: .label } 
+1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)     **Automatica**, 174:112094, 2025. [PDF](https://doi.org/10.1016/j.automatica.2024.112094)
 
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
@@ -48,7 +45,9 @@ Automatica
    [*Consensus on matrix-weighted switching networks*.](https://ieeexplore.ieee.org/document/9366828/)   
    **IEEE Transactions on Automatic Control**, 66(12):5990-5996, 2021. [PDF](https://ieeexplore.ieee.org/document/9366828/)
 
-6. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
+6. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li. [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation*](https://ieeexplore.ieee.org/abstract/document/10877776) **IEEE Transactions on Automatic Control**, 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10877776) 
+
+7. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
    **Automatica**, 141:110237, 2022. [PDF](https://doi.org/10.1016/j.automatica.2022.110237)
 
@@ -60,22 +59,18 @@ Automatica
    
 2. Lulu Pan, **Haibin Shao**, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
    [*Structural Adaptivity of Directed Networks*.](https://arxiv.org/pdf/2208.13223)  
-   **Automatica**, 2022. arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223)
-
-4. Peng Wang, Yang Lu, Jianmin Lian, Lulu Pan, **Haibin Shao**, Ning Li.
-   [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation.*]()
-   **IEEE Transactions on Automatic Control**, 2023. 
-  
+   **Automatica**, 2022. arXiv preprint arXiv:2208.13223. [PDF](https://arxiv.org/pdf/2208.13223) 
 
 <span id="Journal" style="font-size: 110%; color:Grey;">Journal Papers</span>
 
-21. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
-   [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*]()
-   **IEEE Transactions on Control of Network Systems**, 2024. [To appear]()
 
-20. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.   
-   [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.]()    
-   **Automatica**, 2024. [To appear]()
+22. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li. [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation*](https://ieeexplore.ieee.org/abstract/document/10877776) **IEEE Transactions on Automatic Control**, 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10877776) 
+
+21. Peng Wang, **Haibin Shao**, Lulu Pan, Weiwu Yan, Ning Li. 
+   [*Computationally Light Privacy Preservation of Matrix-Weighted Average Consensus.*](https://ieeexplore.ieee.org/abstract/document/10829966)
+   **IEEE Transactions on Control of Network Systems**, 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10829966)
+
+20. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)     **Automatica**, 174:112094, 2025. [PDF](https://doi.org/10.1016/j.automatica.2024.112094)
 
 19. Chongzhi Wang, **Haibin Shao**, Ying Tan, Dewei Li.   
    [*Binary system modes of matrix-coupled multidimensional oscillators*.](https://iopscience.iop.org/article/10.1088/1367-2630/ad4e5a)   
