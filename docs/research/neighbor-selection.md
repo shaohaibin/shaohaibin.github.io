@@ -1,4 +1,4 @@
-   ---
+---
 layout: default
 ---
 
@@ -6,10 +6,7 @@ layout: default
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 
-
-### Topics ###
-
-## Neighbor selection: less connected, better convergence.
+## Neighbor Selection: Less Connected, Better Convergence.
 
 <img src="../../../images/NS.png" width="400"  />
 
