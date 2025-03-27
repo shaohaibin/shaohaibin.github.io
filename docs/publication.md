@@ -27,7 +27,8 @@ Deprecated
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
-1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)
+1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  
+   [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)   
    **Automatica**, 174:112094, 2025. [PDF](https://doi.org/10.1016/j.automatica.2024.112094)
 
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
@@ -46,8 +47,9 @@ Deprecated
    [*Consensus on matrix-weighted switching networks*.](https://ieeexplore.ieee.org/document/9366828/)   
    **IEEE Transactions on Automatic Control**, 66(12):5990-5996, 2021. [PDF](https://ieeexplore.ieee.org/document/9366828/)
 
-6. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li. [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation*](https://ieeexplore.ieee.org/abstract/document/10877776) 
-7. **IEEE Transactions on Automatic Control**, 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10877776) 
+6. Peng Wang, Yang Lu, Jianming Lian, Lulu Pan, **Haibin Shao**, Ning Li.  
+   [*Privacy-preserving Average Consensus with Beaver Triple and Communication Obfuscation*](https://ieeexplore.ieee.org/abstract/document/10877776)  
+    **IEEE Transactions on Automatic Control**, 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/10877776) 
 
 7. Chongzhi Wang, Lulu Pan, **Haibin Shao**, Dewei Li, and Yugeng Xi.     
    [*Characterizing Bipartite Consensus on Signed Matrix-Weighted Networks via Balancing Set*.](https://doi.org/10.1016/j.automatica.2022.110237) 
@@ -56,6 +58,7 @@ Deprecated
 8. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    
    **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
+   
 <span id="Preprints" style="font-size: 110%; color:Grey;">Preprints</span>
 
 1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.    
