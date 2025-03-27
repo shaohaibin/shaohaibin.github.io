@@ -3,11 +3,6 @@ layout: default
 title: Contact
 nav_order: 10
 ---
-
-### Contact ###
-
-<br/> 
-
 <div>
     <div> 
         <img src= "../images/seiee.jpg" alt="" width="250" align="left" hspace="10" vspace="0"> 

@@ -5,8 +5,6 @@ nav_order: 2
 permalink: docs/research
 ---
 
-## Research Interests 
-
 ### [Swarm Intelligence](): Self-organization; Synchronization; Consensus; Evolutionary Games.  
 
 * [Higher-Order Interaction Networks](./research/hoi-networks)
