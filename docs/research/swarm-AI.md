@@ -16,7 +16,7 @@ nav_order: 3
 
 | USV hunting 3v1 | USV hunting 6v2 |
 
-| <img src="../../../images/videos/usv6-2.gif" width="400"  /> |  <img src="../../../images/videos/usv3-1.gif" width="400"  /> |
+| <img src="../../../images/videos/usv3-1.gif" width="400"  /> |  <img src="../../../images/videos/usv6-2.gif" width="400"  /> |
 
 | Motion Capture Suit| Motion Capture Suit|
 
