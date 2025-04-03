@@ -4,8 +4,6 @@ title: Testbed
 nav_order: 3
 ---
 
-### Testbed for Swarm Robotics ###
-
 <img src="../../../images/logo/logo-SILab-EN.png" style="zoom:9%;" /> 
 
 | UGV swarm | UAV-UGV swarm |
