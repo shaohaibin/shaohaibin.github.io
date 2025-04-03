@@ -6,6 +6,8 @@ nav_order: 3
 
 ### Testbed for Swarm Robotics ###
 
+<img src="../../../images/logo/logo-SILab-EN.png" style="zoom:9%;" /> 
+
 | UGV swarm | UAV-UGV swarm |
 
 | <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/testbed/testbed4.jpg" width="400"  /> |
