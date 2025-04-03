@@ -6,11 +6,9 @@ description: "Haibin's Homepage"
 permalink: /
 ---
 <div>
-        <span style="color:black;font-size:20px;">Haibin Shao (邵海滨)</span>  <br/>     
-        <a href="./docs/research/swarm-AI.html"><img src="./images/logo/logo-SILab-EN.png" style="zoom:5%;" /> </a>
-        </br>  <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
+        <span style="color:black;font-size:20px;">Haibin Shao (邵海滨)</span> <a href="./docs/research/swarm-AI.html"><img src="./images/logo/logo-SILab-EN.png" style="zoom:3%;" /> </a>  </br>
+  <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> [at] <a href="https://www.sjtu.edu.cn/">SJTU</a><br/>                              
-        <a href="./docs/research/swarm-AI.html"><img src="./images/logo/logo-SILab.png" style="zoom:5%;" /> </a><br/>
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a><br/>                    
         <a href="mailto:shore@sjtu.edu.cn">Email: shore@sjtu.edu.cn</a>  <br/>        
         <span style="color: red;">欢迎申请本科生科研项目、硕士/博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a> 
