@@ -5,17 +5,17 @@ nav_order: 2
 permalink: docs/research
 ---
 
-<div align="center"><img src="../../../images/logo/logo-SILab-EN-principle.png" style="zoom:9%;"/></div>
+<div align="center"><img src="../../../images/logo/logo-SILab-EN-principle.png" style="zoom:8%;"/></div>
 
 ### [Swarm Intelligence](): Self-organization, Synchronization, Consensus, Evolutionary Games
 
 * [Higher-Order Interaction Networks](./research/hoi-networks)
 
-<div align="center"><img src="../../../images/research/MWN/HOI.png" style="zoom:10%;" /></div>
+<div align="center"><img src="../../../images/research/MWN/HOI.png" style="zoom:6%;" /></div>
 
 * [Distributed Neighbor Selection in Networks](./research/neighbor-selection)
 
-<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" height="200"  /></div>
+<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" height="150"  /></div>
 
 * [Collective Decision-Making](./research/distributed-optimization)
 
@@ -23,7 +23,7 @@ permalink: docs/research
 
 ---
 
-<div align="center"><img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:9%;"/></div>
+<div align="center"><img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:8%;"/></div>
 
 ### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System, Embodied Swarm System. 
 
