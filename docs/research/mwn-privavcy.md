@@ -5,8 +5,8 @@ layout: default
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 ## Distributed Privacy-preserving Algorithm via Matrix-weighted Coupling
 
+<div align="center"><img src="../../../images/research/privacy/PPAC.png" style="zoom:70%;" /></div>
 
-<img src="../../../images/research/privacy/PPAC.png" style="zoom:70%;" />
 
 An elegant feature of matrix-weighted networks can be employed for privacy-preserving consensus, optimization and game. 
 
