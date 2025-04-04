@@ -5,7 +5,7 @@ layout: default
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 ## Privacy-preserving Consensus via Matrix-weighted Coupling
 
-<img src="../../../images/PPAC.png" style="zoom:40%;" />
+<img src="../../../images/research/privacy/PPAC.png" style="zoom:40%;" />
 
 An elegant feature of matrix-weighted networks can be employed for privacy-preserving consensus. 
 

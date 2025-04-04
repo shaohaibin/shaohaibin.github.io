@@ -8,7 +8,7 @@ layout: default
 
 ## Neighbor Selection: Less Connected, Better Convergence.
 
-<img src="../../../images/NS.png" width="400"  />
+<img src="../../../images/research/neighbor-selection/NS.png" width="400"  />
 
 In this thread of works, we ask:
 
