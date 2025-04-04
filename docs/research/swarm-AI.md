@@ -4,7 +4,7 @@ title: Testbed
 nav_order: 3
 ---
 
-<div align="center"><img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:8%;"/></div>
+<div align="center"><img src="../../../images/logo/logo-SILab-EN-testbed.png" style="zoom:8%;"/></div>
 
 #### Testbed for Swarm Intelligence 
 
