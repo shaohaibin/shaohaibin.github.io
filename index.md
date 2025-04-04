@@ -8,7 +8,7 @@ permalink: /
 <div>
 
     <div> 
-        <img src= "../images/haibin-head.jpg" alt="" width="250" align="left" hspace="10" vspace="0"> 
+        <img src= "../images/haibin-head.jpg" alt="" width="130" align="left" hspace="10" vspace="0"> 
     </div>    
         <span style="color:black;font-size:20px;">Haibin Shao (邵海滨) </span><br/>  
         <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
