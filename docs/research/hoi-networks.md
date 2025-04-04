@@ -6,7 +6,9 @@ layout: default
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 ## Higher-Order Interaction Networks (Matrix-weighted Networks)
 
-<img src="../../../images/research/MWN/HOI.png" style="zoom:15%;" />
+
+
+<div align="center"><img src="../../../images/research/MWN/HOI.png" style="zoom:20%;" /></div>
 
 In this thread of works, we examine:
 

@@ -3,9 +3,11 @@ layout: default
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
-## Distributed Optimization, Learning and Game.
-<img src="../../../images/optimization/optimization.png" style="zoom:15%;" /> 
+## Distributed Online Optimization, Learning and Game.
 
+<div align="center"><img src="../../../images/research/optimization/optimization.png" style="zoom:20%;" /></div>
+
+ 
 1. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    
    **IEEE Transactions on Neural Networks and Learning Systems**, 33(5):2168-2180, 2022. [PDF](https://ieeexplore.ieee.org/document/9698837)
