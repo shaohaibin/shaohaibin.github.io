@@ -5,6 +5,8 @@ nav_order: 2
 permalink: docs/research
 ---
 
+<img src="../../../images/logo/logo-SILab-EN-principle.png" style="zoom:9%;" /> 
+
 ### [Swarm Intelligence](): Self-organization; Synchronization; Consensus; Evolutionary Games.  
 
 * [Higher-Order Interaction Networks](./research/hoi-networks)
