@@ -8,7 +8,7 @@ layout: default
 
 ## Neighbor Selection: Less Connected but Better Performance.
 
-<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" width="400"  /></div>
+<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" height="400"  /></div>
 
 In this thread of works, we ask:
 
