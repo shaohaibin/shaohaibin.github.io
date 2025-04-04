@@ -6,10 +6,9 @@ layout: default
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 
-## Neighbor Selection: Less Connected, Better Convergence.
+## Neighbor Selection: Less Connected but Better Performance.
 
 <div align="center"><img src="../../../images/research/neighbor-selection/NS.png" width="400"  /></div>
-
 
 In this thread of works, we ask:
 

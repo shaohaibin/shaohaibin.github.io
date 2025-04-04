@@ -3,15 +3,14 @@ layout: default
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
 <!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
-## Privacy-preserving Consensus via Matrix-weighted Coupling
+## Distributed Privacy-preserving Algorithm Design via Matrix-weighted Coupling
 
 
 <img src="../../../images/research/privacy/PPAC.png" style="zoom:40%;" />
 
-An elegant feature of matrix-weighted networks can be employed for privacy-preserving consensus. 
+An elegant feature of matrix-weighted networks can be employed for privacy-preserving consensus, optimization and game. 
 
 #### Related Papers
-
 
 1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)     **Automatica**, 174:112094, 2025. [PDF](https://doi.org/10.1016/j.automatica.2024.112094)
 
