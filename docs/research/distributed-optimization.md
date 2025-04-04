@@ -8,6 +8,8 @@ layout: default
 <div align="center"><img src="../../../images/research/optimization/optimization.png" style="zoom:20%;" /></div>
 
 In this thread of works, we examine analysis and design for online optimization, learning and game on a network of agents in a distributed manner.
+
+#### Related Papers
  
 1. Linli Zhang, Dewei Li, Shuai Jia, **Haibin Shao**.    
    [*Brain-Inspired Experience Reinforcement Model for Bin Packing in Varying Environments*.](https://ieeexplore.ieee.org/document/9698837)    

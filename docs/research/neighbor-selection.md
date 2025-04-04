@@ -22,7 +22,6 @@ We have established the following results:
 
 #### Related Papers
 
-
 1. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi and Dewei Li.    
    [*Relative tempo of distributed averaging on networks*.](https://doi.org/10.1016/j.automatica.2019.03.004)     
     **Automatica**, 105:159-166, 2019. [PDF](https://doi.org/10.1016/j.automatica.2019.03.004)
