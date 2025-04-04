@@ -4,7 +4,7 @@ title: Testbed
 nav_order: 3
 ---
 
-<img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:9%;" /> 
+<div align="center"><img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:9%;"/></div>
 
 | UGV swarm | UAV-UGV swarm |
 

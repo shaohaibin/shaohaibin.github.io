@@ -5,12 +5,7 @@ nav_order: 2
 permalink: docs/research
 ---
 
-<span style="color:black;font-size:20px;align=center"><img src="../../../images/logo/logo-SILab-EN-principle.png" style="zoom:9%;" /></span>
-
-<div align="center" style="border:1px solid red">
-<img src="../../../images/logo/logo-SILab-EN-principle.png" style="zoom:9%;" />
-</div>
- 
+<div align="center"><img src="../../../images/logo/logo-SILab-EN-principle.png" style="zoom:9%;"/></div>
 
 ### [Swarm Intelligence](): Self-organization; Synchronization; Consensus; Evolutionary Games.  
 
