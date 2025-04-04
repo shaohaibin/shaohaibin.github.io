@@ -6,7 +6,7 @@ description: "Haibin's Homepage"
 permalink: /
 ---
 <div>
-        <span style="color:black;font-size:20px;">Haibin Shao (邵海滨) <a href="./docs/research/swarm-AI.html"><img src="./images/logo/logo-SILab-EN.png" style="zoom:3%;" /> </a></span><br/>  
+        <span style="color:black;font-size:20px;">Haibin Shao (邵海滨) </span><br/>  
         <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> [at] <a href="https://www.sjtu.edu.cn/">SJTU</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a><br/>                    
