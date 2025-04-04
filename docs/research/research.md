@@ -13,7 +13,7 @@ permalink: docs/research
 
 *  [Distributed Neighbor Selection in Networks](./research/neighbor-selection)
 
-* [Collective Decision-making](./research/distributed-optimization)
+* [Collective Decision-Making](./research/distributed-optimization)
 
 ---
 
