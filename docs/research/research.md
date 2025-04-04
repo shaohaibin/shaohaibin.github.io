@@ -17,8 +17,7 @@ permalink: docs/research
 
 ---
 
-<div align="center"><img src="../../../images/logo/logo-SILab-EN-applicaiton.png" style="zoom:9%;"/></div>
-
+<div align="center"><img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:9%;"/></div>
 
 ### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System, Embodied Swarm System. 
 
