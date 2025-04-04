@@ -7,7 +7,7 @@ permalink: docs/research
 
 <div align="center"><img src="../../../images/logo/logo-SILab-EN-principle.png" style="zoom:9%;"/></div>
 
-### [Swarm Intelligence](): Self-organization; Synchronization; Consensus; Evolutionary Games.  
+### [Swarm Intelligence](): Self-organization, Synchronization, Consensus, Evolutionary Games
 
 * [Higher-Order Interaction Networks](./research/hoi-networks)
 
@@ -17,13 +17,14 @@ permalink: docs/research
 
 ---
 
-### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System; Embodied Swarm System. 
+### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System, Embodied Swarm System. 
 
 | <img src="../../../images/videos/usv6-2.gif" width="400"  />  | <img src="../../../images/videos/hunt.gif" width="400"  />     | 
+| <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/testbed/USV-3-A.jpg" width="400"  /> |
 
 ---
      
-### [Secure Multi-Party Computation](./research/mwn-privavcy): Distributed Privacy-Preserving Consensus, LAE Solving and Optimization.  
+### [Secure Multi-Party Computation](./research/mwn-privavcy): Distributed Privacy-Preserving Consensus, LAE Solving and Optimization
  
 | <img src="../../../images/research/privacy/PPAC.png" width="400" /> | <img src="../../../images/research/privacy/trajectory.png" width="400" /> |
 
