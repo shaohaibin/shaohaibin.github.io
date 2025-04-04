@@ -11,9 +11,15 @@ permalink: docs/research
 
 * [Higher-Order Interaction Networks](./research/hoi-networks)
 
-*  [Distributed Neighbor Selection in Networks](./research/neighbor-selection)
+<div align="center"><img src="../../../images/research/MWN/HOI.png" style="zoom:10%;" /></div>
+
+* [Distributed Neighbor Selection in Networks](./research/neighbor-selection)
+
+<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" height="200"  /></div>
 
 * [Collective Decision-Making](./research/distributed-optimization)
+
+<div align="center"><img src="../../../images/research/optimization/optimization.png" style="zoom:10%;" /></div>
 
 ---
 
