@@ -38,7 +38,7 @@ The emergence of collective behavior from individual interactions is a fundament
 
 <br/>
 
-I am interested in the **interplay** between **structure** and **performance** of **complex inter-connected systems**, including topics such as [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:15%;"/></a> 
+I am interested in the **interplay** between **structure** and **performance** of **complex inter-connected systems**, including cross-domain topics such as [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics) and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:15%;"/></a> 
 
 <a href="./docs/research/swarm-AI.html"><img src="./images/research-plus-small.jpg" style="zoom:30%;" /> </a>
 
