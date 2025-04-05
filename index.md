@@ -10,7 +10,7 @@ permalink: /
     <div> 
         <img src= "../images/haibin-head.jpg" alt="" width="120" align="left" hspace="10" vspace="0"> 
     </div>    
-        <img src="/images/haibin/name.png" style="zoom:15%;"/><br/>  
+        <img src="/images/haibin/name.png" style="zoom:25%;"/><br/>  
         <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> [at] <a href="https://www.sjtu.edu.cn/">SJTU</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a><br/>                    
