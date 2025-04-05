@@ -3,7 +3,7 @@ layout: default
 title: Students 
 nav_order: 6
 ---
-##### [Jingbo Yang（杨竞博）]() (Shanghai Jiao Tong University)
+##### [Jingbo Yang（杨竞博）](https://mp.weixin.qq.com/s/XX0FBDfb2cPiwpSzDJuDNw) (Shanghai Jiao Tong University)
 
 ##### [Haiyu Wei（魏浩宇）]() (Shanghai Jiao Tong University) 
 
