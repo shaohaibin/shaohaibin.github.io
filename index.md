@@ -24,7 +24,7 @@ The emergence of collective behavior from individual interactions is a fundament
     <div> 
         <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" ><img src= "/images/125-science-questions/2021/sjtu-125.png" alt="" width="60" align="left" hspace="10" vspace="0"> </a>
     </div> 
-    <span style="color:purple;font-size:25px;">What Are The Fundamental Principles Of Collective Motion? </span><br/>
+    <span style="color:#3498db;font-size:25px;">What Are The Fundamental Principles Of Collective Motion? </span><br/>
     <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" >125 questions: Exploration and discovery. Booklet, Science, 2021.</a> <a href="/images/125-science-questions/2021/sjtu-125.pdf" >[PDF]</a>
 <div><br/>
 
@@ -32,7 +32,7 @@ The emergence of collective behavior from individual interactions is a fundament
     <div> 
         <a href="/images/125-science-questions/2005/science_125.pdf" ><img src= "/images/125-science-questions/2005/science_125.gif" alt="" width="60" align="left" hspace="10" vspace="0"></a>
     </div> 
-    <span style="color:purple;font-size:25px;"> How Did Cooperative Behavior Evolve?</span><br/>  
+    <span style="color:#3498db;font-size:25px;"> How Did Cooperative Behavior Evolve?</span><br/>  
        <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/images/125-science-questions/2005/science_125.pdf" >[PDF]</a>
 </div>
 
