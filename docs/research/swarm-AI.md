@@ -10,7 +10,7 @@ nav_order: 3
 
 | UGV swarm | UAV-UGV swarm |
 
-| <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/testbed/testbed4.jpg" width="400"  /> |
+| <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/testbed/testbed4.jpg" width="400"  /> | <img src="../../../images/testbed/UGV.jpg" width="400"  />  |
 
 | USV Dock | USV swarm |
 
