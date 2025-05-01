@@ -12,7 +12,7 @@ nav_order: 3
 
 | <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/testbed/testbed4.jpg" width="400"  /> | <img src="../../../images/testbed/UGV.jpg" width="400"  />  |
 
-| USV Dock | USV swarm |
+| USV Dock | USVs | USV Crusing |
 
 | <img src="../../../images/testbed/usv-swarm1.jpg" width="400"  /> |  <img src="../../../images/testbed/USV-12.jpg" width="400" /> |  <img src="../../../images/testbed/USV-3.jpg" width="400" /> |
 
