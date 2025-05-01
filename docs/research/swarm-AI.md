@@ -8,7 +8,7 @@ nav_order: 3
 
 #### Testbed for Swarm Intelligence 
 
-| UGV swarm | UAV-UGV swarm |
+| UGV swarm | UAV-UGV swarm | UGV1 | UGV2 |
 
 | <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/testbed/testbed4.jpg" width="400"  /> | <img src="../../../images/testbed/UGV.jpg" width="400"  />  |
 
