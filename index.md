@@ -18,7 +18,7 @@ permalink: /
         <span style="color:black;">欢迎<a href="/docs/publication">数理基础扎实</a>或<a href="/docs/research/swarm-AI">工程能力突出</a>的你申请本科生科研项目、硕士/博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a>
 </div>
 
-The emergence of collective behavior from individual interactions is a fundamental question across multiple scientific disciplines. 
+ <b> The emergence of collective behavior or even intelligence from individual interactions is a fundamental question across multiple scientific disciplines. </b>
 
 <div>
     <div> 
