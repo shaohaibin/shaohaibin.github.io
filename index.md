@@ -8,7 +8,7 @@ permalink: /
 <div>
 
     <div> 
-        <img src= "../images/haibin/haibin-head.jpg" alt="" width="140" align="left" hspace="10" vspace="0"> 
+        <img src= "../images/haibin/haibin-head.jpg" alt="" width="150" align="left" hspace="10" vspace="0"> 
     </div>    
         <img src="/images/haibin/name.png" style="zoom:25%;"/><br/>  
         <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
