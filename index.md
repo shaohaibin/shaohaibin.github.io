@@ -24,7 +24,7 @@ The emergence of collective behavior from individual interactions is a fundament
     <div> 
         <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" ><img src= "/images/125-science-questions/2021/sjtu-125.png" alt="" width="110" align="left" hspace="10" vspace="0"> </a>
     </div> 
-    <span style="color:black;font-size:25px;">What Are The Fundamental Principles Of Collective Motion? </span> <br/>
+    <span style="color:black;font-size:25px;">What Are Fundamental Principles Of Collective Motion? </span> <br/>
  <span style="color:black;font-size:25px;">How Does Group Intelligence Emerge?</span><br/>
     <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" >125 questions: Exploration and discovery. Booklet, Science, 2021.</a> <a href="/images/125-science-questions/2021/sjtu-125.pdf" >[Pages 24,39 PDF]</a>
 <div><br/>
