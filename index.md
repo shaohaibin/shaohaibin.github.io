@@ -12,7 +12,7 @@ permalink: /
     </div>    
         <img src="/images/haibin/name.png" style="zoom:25%;"/><br/>  
         <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
-        <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> </br> <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>                              
+        <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> <br/> <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>                              
         Room 2-309, SEIEE Building, 800 Dongchuan Road.<br/> 
         Email: shore@sjtu.edu.cn <br/> 
         <span style="color:black;">欢迎<a href="/docs/publication">数理基础扎实</a>或<a href="/docs/research/swarm-AI">工程能力突出</a>的你申请本科生科研项目、硕士/博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a>
