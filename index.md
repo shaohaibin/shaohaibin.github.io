@@ -22,7 +22,7 @@ The emergence of collective behavior from individual interactions is a fundament
 
 <div>
     <div> 
-        <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" ><img src= "/images/125-science-questions/2021/sjtu-125.png" alt="" width="100" align="left" hspace="10" vspace="0"> </a>
+        <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" ><img src= "/images/125-science-questions/2021/sjtu-125.png" alt="" width="110" align="left" hspace="10" vspace="0"> </a>
     </div> 
     <span style="color:black;font-size:25px;">What Are The Fundamental Principles Of Collective Motion? </span> <br/>
  <span style="color:black;font-size:25px;">How Does Group Intelligence Emerge?</span><br/>
@@ -31,13 +31,13 @@ The emergence of collective behavior from individual interactions is a fundament
 
 </div>
     <div> 
-        <a href="/images/125-science-questions/2005/science_125.pdf" ><img src= "/images/125-science-questions/2005/science_125.gif" alt="" width="100" align="left" hspace="10" vspace="0"></a>
+        <a href="/images/125-science-questions/2005/science_125.pdf" ><img src= "/images/125-science-questions/2005/science_125.gif" alt="" width="110" align="left" hspace="10" vspace="0"></a>
     </div> 
     <span style="color:black;font-size:25px;"> How Did Cooperative Behavior Evolve?</span><br/>  
        <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/images/125-science-questions/2005/science_125.pdf" >[Page 93 PDF]</a>
 </div>
 
-<br/>
+<br/><br/>
 I am interested in the **interplay** between the **structure** and **performance** of **complex interconnected systems**, including multidisciplinary scientific and engineering topics such as [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics), and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:15%;"/></a> 
 
 <a href="./docs/research/swarm-AI.html"><img src="./images/research-plus-small.jpg" style="zoom:30%;" /> </a>
