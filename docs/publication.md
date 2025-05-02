@@ -7,9 +7,9 @@ nav_order: 4
  
 <span id="Selected" style="font-size: 110%; color:Grey;">Selected</span>
 
-1. Lulu Pan, **Haibin Shao**, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  
+1. Lulu Pan, _Haibin Shao_, Yang Lu, Mehran Mesbahi, Dewei Li, Yugeng Xi.  
    [*Privacy-Preserving  Average Consensus via Matrix-weighted Inter-Agent Coupling*.](https://doi.org/10.1016/j.automatica.2024.112094)   
-   **Automatica**, 174:112094, 2025. [PDF](https://doi.org/10.1016/j.automatica.2024.112094)
+   ***Automatica***, 174:112094, 2025. [PDF](https://doi.org/10.1016/j.automatica.2024.112094)
 
 2. **Haibin Shao**, Lulu Pan, Mehran Mesbahi, Yugeng Xi, Dewei Li.    
    [*Distributed Neighbor Selection in Multi-agent Networks*.](https://doi.org/10.1109/TAC.2023.3246425)    
