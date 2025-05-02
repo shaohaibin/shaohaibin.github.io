@@ -8,13 +8,14 @@ permalink: /
 <div>
 
     <div> 
-        <img src= "../images/haibin/haibin-head.jpg" alt="" width="120" align="left" hspace="10" vspace="0"> 
+        <img src= "../images/haibin/haibin-head.jpg" alt="" width="140" align="left" hspace="10" vspace="0"> 
     </div>    
         <img src="/images/haibin/name.png" style="zoom:25%;"/><br/>  
         <span style="color:black;font-size:15px;">Professor (Associate), PhD Supervisor</span><br/>                                  
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> [at] <a href="https://www.sjtu.edu.cn/">SJTU</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a><br/>                    
         <a href="mailto:shore@sjtu.edu.cn">Email: shore@sjtu.edu.cn</a>  <br/> 
+         <br/> 
         <span style="color: red;">欢迎<a href="/docs/publication">数理基础扎实</a>或<a href="/docs/research/swarm-AI">工程能力突出</a>的你申请本科生科研项目、硕士/博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a>
 </div>
 
