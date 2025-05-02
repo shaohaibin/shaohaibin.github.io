@@ -15,7 +15,7 @@ permalink: /
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> [at] <a href="https://www.sjtu.edu.cn/">SJTU</a><br/>                              
         <a href="https://scholar.google.com/citations?user=Q6qFeu4AAAAJ&hl=en" >[Google Scholar]</a>  <a href="https://www.researchgate.net/profile/Haibin_Shao3" >[ResearchGate]</a><br/>                    
         <a href="mailto:shore@sjtu.edu.cn">Email: shore@sjtu.edu.cn</a>  <br/> 
-        <span style="color: red;">欢迎申请本科生科研项目、硕士/博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a>
+        <span style="color: red;">欢迎<a href="/docs/publication">数理基础扎实</a>或<a href="/docs/research/swarm-AI">工程能力突出</a>的同学申请本科生科研项目、硕士/博士研究生以及博士后研究员。</span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a>
 </div>
 
 The emergence of collective behavior from individual interactions is a fundamental question across multiple scientific disciplines. 
