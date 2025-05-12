@@ -15,7 +15,7 @@ permalink: /
         <a href="https://automation.sjtu.edu.cn/haibin">Department of Automation</a> <br/> <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a><br/>                              
         Room 2-309, SEIEE Building, 800 Dongchuan Road.<br/> 
         Email: shore@sjtu.edu.cn <br/> 
-        <span style="color:black;">欢迎<a href="/docs/publication">数理基础扎实</a>或<a href="/docs/research/swarm-AI">工程能力突出</a>的你申请本科生科研项目、硕士/博士研究生以及博士后研究员。（如果有任何需要了解请给我发邮件） </span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a>
+        <span style="color:black;">欢迎<a href="/docs/publication">数理基础扎实</a>或<a href="/docs/research/swarm-AI">工程能力突出</a>的你申请本科生科研项目、硕士/博士研究生以及<a href="https://postd.sjtu.edu.cn/info/1086/5905.htm">博士后研究员</a>。（如果有任何需要了解请给我发邮件） </span><a href="/docs/opening"><img src="./images/details_icon.png" style="zoom:15%;"/></a>
 </div>
 
  <b> The emergence of collective behavior or even intelligence from individual interactions is a fundamental question across multiple scientific disciplines. </b>
