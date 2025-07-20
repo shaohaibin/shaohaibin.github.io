@@ -40,7 +40,7 @@ permalink: /
 <br/><br/>
 I am interested in the **interplay** between the **structure** and **performance** of **complex interconnected systems**, including multidisciplinary scientific and engineering topics such as [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics), and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). <a href="/docs/research"><img src="./images/details_icon.png" style="zoom:15%;"/></a> 
 
-<a href="./docs/research/swarm-AI.html"><img src="./images/research-plus-small.jpg" style="zoom:30%;" /> </a>
+<a href="./docs/research/swarm-AI.html"><img src="./images/research.jpg" style="zoom:30%;" /> </a>
 
 
 <p><div style="width:150px;"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qibxuIgajyF4nPWLrgu8bXeBOCIc9V_830nNux3l7LI&cl=ffffff&w=a"></script>  </div></p>
