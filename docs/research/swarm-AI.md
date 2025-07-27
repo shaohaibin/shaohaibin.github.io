@@ -16,6 +16,10 @@ nav_order: 3
 
 | <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | 
 
+| Unitree Quadruped Go2 | Unitree Quadruped Go2|
+
+| <img src="../../../images/videos/Go2-2.gif" width="300"  /> | <img src="../../../images/videos/Go2-3.gif" width="300"  /> | 
+
 | UGV1 | UGV2 |
 
 | <img src="../../../images/testbed/testbed4.jpg" width="400"  /> | <img src="../../../images/testbed/UGV.jpg" width="400"  />  |
