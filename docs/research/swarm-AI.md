@@ -8,6 +8,10 @@ nav_order: 3
 
 #### Testbed for Swarm Intelligence 
 
+| Unitree Humanoid Robot G1 | Unitree G1| Unitree G1|
+
+| <img src="../../../images/videos/G1-3.gif" width="250"  /> | <img src="../../../images/videos/G1-2.gif" width="250"  /> | <img src="../../../images/videos/G1-1.gif" width="250"  /> | 
+
 | UGV swarm | UAV-UGV swarm |
 
 | <img src="../../../images/videos/hunt.gif" width="400"  /> | <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | 
