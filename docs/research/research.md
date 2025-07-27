@@ -27,8 +27,8 @@ permalink: docs/research
 
 ### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System, Embodied Swarm System. 
 
-| <img src="../../../images/videos/usv6-2.gif" width="400"  />  |  <img src="../../../images/testbed/G1-3.gif" width="400"  />  | 
-| <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/videos/USV-3-A.jpg" width="400"  /> |
+| <img src="../../../images/videos/usv6-2.gif" width="400"  />  |  <img src="../../../images/videos/G1-3.gif" width="400"  />  | 
+| <img src="../../../images/videos/UAV-UGV_LLM.gif" width="400"  /> | <img src="../../../images/testbed/USV-3-A.jpg" width="400"  /> |
 
 ---
      
