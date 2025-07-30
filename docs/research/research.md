@@ -19,7 +19,7 @@ permalink: docs/research
 
 * [Collective Decision-Making](./research/distributed-optimization)
 
-<div align="center"><img src="../../../images/research/optimization/optimization.png" style="zoom:12%;" /></div>
+<div align="center"><img src="../../../images/research/optimization/optimization.png" style="zoom:16%;" /></div>
 
 ---
 
