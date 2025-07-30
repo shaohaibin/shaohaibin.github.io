@@ -15,7 +15,7 @@ permalink: docs/research
 
 * [Distributed Neighbor Selection in Networks](./research/neighbor-selection)
 
-<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" height="150"/> <img src="../../../images/research/neighbor-selection/NS.gif" height="100"  /></div>
+<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" height="50"/> <img src="../../../images/research/neighbor-selection/NS.gif" height="50"  /></div>
 
 * [Collective Decision-Making](./research/distributed-optimization)
 
