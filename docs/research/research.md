@@ -11,7 +11,7 @@ permalink: docs/research
 
 * [Higher-Order Interaction Networks](./research/hoi-networks)
 
-<div align="center"><img src="../../../images/research/MWN/HOI.png" style="zoom:8%;" /></div>
+<div align="center"><img src="../../../images/research/MWN/HOI.png" style="zoom:12%;" /></div>
 
 * [Distributed Neighbor Selection in Networks](./research/neighbor-selection)
 
@@ -23,7 +23,7 @@ permalink: docs/research
 
 ---
 
-<div align="center"><img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:8%;"/></div>
+<div align="center"><img src="../../../images/logo/logo-SILab-EN-application.png" style="zoom:12%;"/></div>
 
 ### [Swarm Robotics](./research/swarm-AI): LLM-enabled Multi-Robot System, Embodied Swarm System. 
 
