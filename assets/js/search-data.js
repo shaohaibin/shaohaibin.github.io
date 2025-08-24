@@ -426,8 +426,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled",
+          title: 'Dr. Feiran Zhao（赵斐然）from ETH delivered a talk entitled “”',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
