@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Feiran Zhao（赵斐然）from ETH delivered a talk entitled ""
+Dr.Feiran Zhao（赵斐然）from ETH delivered a talk entitled "LOR Learning Pipelines: Between ReinforcementLearning and Adaptive Control"
