@@ -26,6 +26,3 @@ Concurrently, there is a massive effort to develop large-scale embodied AI frame
 <div class="caption">
 </div>
 
-{% raw %}
-
-{% endraw %}
