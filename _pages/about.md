@@ -12,6 +12,7 @@ profile:
     <p>SEIEE Building 2-309</p>
     <p>800 Donghucan Road</p>
     <p>Shanghai 200240, China</p>
+    <p>shore AT sjtu.edu.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
