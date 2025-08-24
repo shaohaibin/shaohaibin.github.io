@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swarm Intelligence Lab
+title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
