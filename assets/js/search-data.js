@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-swarm-ai",
-          title: "Swarm AI",
+  },{id: "nav-swarm-intelligence-lab",
+          title: "Swarm Intelligence Lab",
           description: "Research projects in Swarm Intelligence Lab @ SJTU.",
           section: "Navigation",
           handler: () => {
@@ -426,8 +426,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcementlearning-and-adaptive-control",
-          title: 'Dr.Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between ReinforcementLearning and...',
+            },},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcement-learning-and-adaptive-control",
+          title: 'Dr.Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between Reinforcement Learning...',
           description: "",
           section: "News",},{id: "projects-embodied-artificial-intelligence",
           title: 'Embodied Artificial Intelligence',
