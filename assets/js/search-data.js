@@ -454,7 +454,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-llm-enabled-swarm-robotics",
           title: 'LLM-enabled Swarm Robotics',
-          description: "another without an image",
+          description: "USV Swarm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
