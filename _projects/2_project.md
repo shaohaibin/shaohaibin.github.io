@@ -5,7 +5,6 @@ description: Quadruped Robot
 img: assets/img/Embodied-AI2.png
 importance: 2
 category: Embodied-AI
-giscus_comments: true
 ---
 
 Current research in quadruped robotics is intensely focused on achieving high-level autonomy and versatile mobility in complex, unstructured environments. A dominant trend is the development of robust and adaptive locomotion controllers, primarily through deep reinforcement learning (RL). These learned policies enable dynamic gait transitions, recovery from slips and falls, and agile navigation across highly challenging terrains like rubble, stairs, and dense forests, far surpassing the capabilities of traditional model-based controllers. Alongside software, there is significant innovation in hardware design, including advanced actuator systems (e.g., high-torque proprioceptive actuators) and lightweight, robust leg architectures that enhance efficiency, payload capacity, and impact resistance.
