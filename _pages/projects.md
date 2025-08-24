@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research projects in Swarm Intelligence Lab @ SJTU.
 nav: true
 nav_order: 2
-display_categories: [Embodied-AI, Swarm, HOI, NS, optimization, privacy]
+display_categories: [Embodied-AI, Swarm, Networks]
 horizontal: false
 ---
 

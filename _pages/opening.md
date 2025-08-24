@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /opening/
-title: Opening
+permalink: /testbed/
+title: Testbed
 description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
-  
+
 <div align="center"><img src="/assets/img/images/logo/logo-SILab-EN-testbed.png" style="zoom:8%;"/></div>
 
 #### Testbed for Swarm Intelligence 

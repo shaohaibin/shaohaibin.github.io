@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: Quadruped Robot
+img: assets/img/Embodied-AI2.png
 importance: 2
-category: work
+category: Embodied-AI
 giscus_comments: true
 ---
 

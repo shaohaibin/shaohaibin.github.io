@@ -1,22 +1,40 @@
 ---
 layout: page
-permalink: /testbed/
-title: Testbed
+permalink: /opening/
+title: Opening
 description: 
 nav: true
-nav_order: 3
+nav_order: 6
 ---
+  
 
-- 2024 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE class).
+### [博士后招聘]()
+在多智能体系统、人工智能、无人系统、多足机器人、复杂网络方向招收 3-5 名博士后。[\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/info/1086/5905.htm)  
 
+#### 招聘条件
 
-- 2023 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE class).
+1. 招聘研究方向：多智能体系统、人工智能、无人系统、多足机器人、复杂网络。
+2. 已获自动化类、计算机类、电子信息类、数学类、航空航天类以及兵器类等相关专业博士学位或即将通过博士学位论文答辩，年龄一般不超过35岁。
+3. 人品端正、为人坦诚、积极向上；具有较强的团队合作意识、责任心强，具有良好的学术道德和严谨的科学态度。
+4. 具有扎实的专业知识和实验技能，具有与学历匹配中英文阅读写作能力；
+5. 具备上述研究方向的基础并具有钻研精神和创新意识；在相关领域发表过高质量研究论文或承担过相关工程项目实施工作。
 
+#### 岗位职责
+1. 在课题组的带领下，根据特长承担基础研究、应用研究或成果转化等工作；
+2. 独立或协助课题组申报与实施各类科研、人才项目，协助指导本科生和研究生；
+3. 参与或负责课题组科研项目管理工作。
 
-- 2022 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE class).
+#### 岗位待遇
 
+1. 博士后人员实行年薪制 (24-40万元)；
+2.   按规定协助配偶子女随迁落户、子女入学等事宜；
+3.   鼓励优秀博士后申请各类基金和人才支持计划。
 
-- 2021 Autumn, AU344: Digital Signal Processing and Application, undergraduate (IEEE class).
+#### 其他
+请将个人简历发至以邮箱shore@sjtu.edu.cn，邮件名为：（姓名+应聘的研究方向）。
 
-
-- 2020 Autumn, AU344: Digital Signal Processing and Application, undergraduate (IEEE class).
+### [本科生科研、研究生招生]()
+欢迎对我研究方向感兴趣的同学联系参加本科生项目、报考硕士/博士研究生。
+ 
+ 
+ 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Embodied Artificial Intelligence 
-description: with background image
+description: Humanoid Robot
 img: assets/img/Embodied-AI1.jpg
 importance: 1
 category: Embodied-AI
