@@ -9,6 +9,8 @@ display_categories: [Embodied-AI,Swarm,Unmmaned-System,Networks]
 horizontal: false
 ---
 
+<div align="center"><img src="/assets/img/images/logo/logo-SILab-EN.png" style="zoom:8%;"/></div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

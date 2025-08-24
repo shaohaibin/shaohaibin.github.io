@@ -10,8 +10,6 @@ nav_order: 3
 <div align="center"><img src="/assets/img/images/logo/logo-SILab-EN-testbed.png" style="zoom:8%;"/></div>
 
 
-<div align="center"><img src="/assets/img/images/logo/logo-SILab-EN-testbed.png" style="zoom:8%;"/></div>
-
 [Unitree Humanoid Robot G1]()
 
 | <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> | 
