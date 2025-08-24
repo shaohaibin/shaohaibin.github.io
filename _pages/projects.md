@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swarm Intelligence Lab
+title: Swarm AI
 permalink: /projects/
 description: Research projects in Swarm Intelligence Lab @ SJTU.
 nav: true
