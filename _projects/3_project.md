@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Embodied Swarm Intelligence
+description: Embodiment of Swarm Robots
+img: assets/img/Embodied-AI3.jpg
 importance: 3
-category: work
+category: Embodied-AI
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Embodied Artificial Intelligence
 description: Quadruped Robot
 img: assets/img/Embodied-AI2.png
 importance: 2
