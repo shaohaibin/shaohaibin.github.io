@@ -1,44 +1,40 @@
 ---
 layout: page
-permalink: /testbed/
-title: Testbed
+permalink: /opening/
+title: Opening
 description: 
 nav: true
-nav_order: 3
+nav_order: 6
 ---
+  
 
-<div align="center"><img src="/assets/img/images/logo/logo-SILab-EN-testbed.png" style="zoom:8%;"/></div>
+### [博士后招聘]()
+在多智能体系统、人工智能、无人系统、多足机器人、复杂网络方向招收 3-5 名博士后。[\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/info/1086/5905.htm)  
 
-#### Testbed for Swarm Intelligence 
+#### 招聘条件
 
-| Unitree Humanoid Robot G1 | Unitree Humanoid G1| Unitree Humanoid G1|
+1. 招聘研究方向：多智能体系统、人工智能、无人系统、多足机器人、复杂网络。
+2. 已获自动化类、计算机类、电子信息类、数学类、航空航天类以及兵器类等相关专业博士学位或即将通过博士学位论文答辩，年龄一般不超过35岁。
+3. 人品端正、为人坦诚、积极向上；具有较强的团队合作意识、责任心强，具有良好的学术道德和严谨的科学态度。
+4. 具有扎实的专业知识和实验技能，具有与学历匹配中英文阅读写作能力；
+5. 具备上述研究方向的基础并具有钻研精神和创新意识；在相关领域发表过高质量研究论文或承担过相关工程项目实施工作。
 
-| <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> | 
+#### 岗位职责
+1. 在课题组的带领下，根据特长承担基础研究、应用研究或成果转化等工作；
+2. 独立或协助课题组申报与实施各类科研、人才项目，协助指导本科生和研究生；
+3. 参与或负责课题组科研项目管理工作。
 
-| UGV swarm | UAV-UGV swarm |
+#### 岗位待遇
 
-| <img src="/assets/img/images/videos/hunt.gif" width="400"  /> | <img src="/assets/img/images/videos/UAV-UGV_LLM.gif" width="400"  /> | 
+1. 博士后人员实行年薪制 (24-40万元)；
+2.   按规定协助配偶子女随迁落户、子女入学等事宜；
+3.   鼓励优秀博士后申请各类基金和人才支持计划。
 
-| Unitree Quadruped Go2 | Unitree Quadruped Go2|
+#### 其他
+请将个人简历发至以邮箱shore@sjtu.edu.cn，邮件名为：（姓名+应聘的研究方向）。
 
-| <img src="/assets/img/images/videos/Go2-2.gif" width="300"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="300"  /> | 
-
-| UGV1 | UGV2 |
-
-| <img src="/assets/img/images/testbed/testbed4.jpg" width="400"  /> | <img src="/assets/img/images/testbed/UGV.jpg" width="400"  />  |
-
-| USV Dock | USVs | USV Crusing |
-
-| <img src="/assets/img/images/testbed/usv-swarm1.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/USV-12.jpg" width="400" /> |  <img src="/assets/img/images/testbed/USV-3.jpg" width="400" /> |
-
-| USV hunting 3v1 | USV hunting 6v2 |
-
-| <img src="/assets/img/images/videos/usv3-1.gif" width="400"  /> |  <img src="/assets/img/images/videos/usv6-2.gif" width="400"  /> |
-
-| Motion Capture Suit | Motion Capture Suit|
-
-| <img src="/assets/img/images/testbed/955-1.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/955-2.jpg" width="400"  /> |
-
-| Indoor Experimental Area | Motion Capture Suit|
-
-| <img src="/assets/img/images/testbed/testbed3.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/testbed2.jpg" width="400"  /> |
+### [本科生科研、研究生招生]()
+欢迎对我研究方向感兴趣的同学联系参加本科生项目、报考硕士/博士研究生。
+ 
+ 
+ 

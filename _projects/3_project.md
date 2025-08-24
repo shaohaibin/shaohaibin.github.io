@@ -2,7 +2,7 @@
 layout: page
 title: Embodied Swarm Intelligence
 description: Embodiment of Swarm Robots
-img: assets/img/Embodied-AI3.jpg
+img: assets/img/Embodied-AI3.png
 importance: 3
 category: Embodied-AI
 related_publications: true
