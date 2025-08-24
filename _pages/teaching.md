@@ -2,13 +2,21 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
 - 2024 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE class).
+
+
 - 2023 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE class).
+
+
 - 2022 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE class).
+
+
 - 2021 Autumn, AU344: Digital Signal Processing and Application, undergraduate (IEEE class).
+
+
 - 2020 Autumn, AU344: Digital Signal Processing and Application, undergraduate (IEEE class).
