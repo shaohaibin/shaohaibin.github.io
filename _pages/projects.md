@@ -2,10 +2,10 @@
 layout: page
 title: Swarm Intelligence Lab
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research projects in Swarm Intelligence Lab @ SJTU.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Embodied-AI, Swarm, HOI, NS, optimization, privacy]
 horizontal: false
 ---
 

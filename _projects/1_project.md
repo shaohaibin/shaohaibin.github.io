@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Embodied Artificial Intelligence 
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/Embodied-AI1.jpg
 importance: 1
-category: work
+category: Embodied-AI
 related_publications: true
 ---
 
