@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 - 2024 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE class).

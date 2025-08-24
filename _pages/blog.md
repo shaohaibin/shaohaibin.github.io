@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /blog/
-title: Swarm Intelligence Lab
-nav: true
-nav_order: 1
+title: blog
+nav: false
+nav_order: 2
 pagination:
   enabled: true
   collection: posts

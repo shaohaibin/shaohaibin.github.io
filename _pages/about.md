@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> Shanghai Jiao Tong University
-</a>Automation
+subtitle: Shanghai Jiao Tong University 
 
 profile:
   align: right
