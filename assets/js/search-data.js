@@ -442,18 +442,18 @@ ninja.data = [{
           description: "Humanoid Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-embodied-artificial-intelligence",
+          title: 'Embodied Artificial Intelligence',
           description: "Quadruped Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-embodied-swarm-intelligence",
+          title: 'Embodied Swarm Intelligence',
+          description: "Embodiment of Swarm Robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-llm-enabled-swarm-robotics",
+          title: 'LLM-enabled Swarm Robotics',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
