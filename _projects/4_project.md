@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LLM-enabled Swarm Robotics
-description: another without an image
+description: USV Swarm
 img: assets/img/Swarm1.jpg
 importance: 4
 category: Swarm
