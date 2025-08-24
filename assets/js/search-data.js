@@ -429,14 +429,6 @@ ninja.data = [{
             },},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcementlearning-and-adaptive-control",
           title: 'Dr.Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between ReinforcementLearning and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
           section: "News",},{id: "projects-embodied-artificial-intelligence",
           title: 'Embodied Artificial Intelligence',
           description: "Humanoid Robot",
