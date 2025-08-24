@@ -2,13 +2,12 @@
 layout: page
 permalink: /opening/
 title: Opening
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
- 
- 
-### 博士后招聘
+  
+### [博士后招聘]()
 在多智能体系统、人工智能、无人系统、多足机器人、复杂网络方向招收 3-5 名博士后。[\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/info/1086/5905.htm)  
 
 #### 招聘条件
@@ -33,7 +32,7 @@ nav_order: 6
 #### 其他
 请将个人简历发至以邮箱shore@sjtu.edu.cn，邮件名为：（姓名+应聘的研究方向）。
 
-### 本科生、研究生招生
+### [本科生科研、研究生招生]()
 欢迎对我研究方向感兴趣的同学联系参加本科生项目、报考硕士/博士研究生。
  
 <p height="500">
