@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='http://www.sjtu.edu.cn'> Shanghai Jiao Tong University
+subtitle: <a href='#'> Shanghai Jiao Tong University
 </a>Automation
 
 profile:
