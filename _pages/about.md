@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="http://www.sjtu.edu.cn">Shanghai Jiao Tong University</a>, Swarm Artificial Intelligence 
+subtitle: Shanghai Jiao Tong University, Swarm Artificial Intelligence 
 
 profile:
   align: right
