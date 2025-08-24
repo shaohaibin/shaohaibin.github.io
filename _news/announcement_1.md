@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Dr. Feiran Zhao（赵斐然）from ETH delivered a talk entitled ""
