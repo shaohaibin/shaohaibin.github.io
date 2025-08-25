@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Distributed Privacy-preserving Algorithm
+description: Distributed Privacy-preserving Consensus via Matrix-weighted Coupling
 img: assets/img/projects/PPAC.png
 importance: 4
 category: Networks

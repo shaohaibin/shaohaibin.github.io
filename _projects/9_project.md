@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Distributed Online Optimization, Learning and Game
+description:  
 img: assets/img/projects/optimization.png
 importance: 3
 category: Networks
