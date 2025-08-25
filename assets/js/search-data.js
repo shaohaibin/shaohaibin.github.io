@@ -434,19 +434,19 @@ ninja.data = [{
           section: "News",},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcement-learning-and-adaptive-control",
           title: 'Dr.Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between Reinforcement Learning...',
           description: "",
-          section: "News",},{id: "projects-humanoid-robot",
-          title: 'Humanoid Robot',
-          description: "Embodied Artificial Intelligence",
+          section: "News",},{id: "projects-embodied-artificial-intelligence",
+          title: 'Embodied Artificial Intelligence',
+          description: "Humanoid Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-quadruped-robot",
-          title: 'Quadruped Robot',
-          description: "Embodied Artificial Intelligence",
+            },},{id: "projects-embodied-artificial-intelligence",
+          title: 'Embodied Artificial Intelligence',
+          description: "Quadruped Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-embodiment-of-swarm-robots",
-          title: 'Embodiment of Swarm Robots',
-          description: "Embodied Swarm Intelligence",
+            },},{id: "projects-embodied-swarm-intelligence",
+          title: 'Embodied Swarm Intelligence',
+          description: "Embodiment of Swarm Robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-llm-enabled-swarm-robotics",
