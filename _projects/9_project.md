@@ -7,8 +7,6 @@ importance: 3
 category: Networks
 ---
 
-## Distributed Online Optimization, Learning and Game
-
 <div align="center"><img src="/assets/img/images/research/optimization/optimization.png" style="zoom:70%;" /></div>
 
 In this thread of works, we examine analysis and design for online optimization, learning and game on a network of agents in a distributed manner.
