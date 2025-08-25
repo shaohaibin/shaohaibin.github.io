@@ -419,11 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-prof-yang-lu-from-lancaster-university-delivered-a-talk-entitled-privacy-preserving-decentralized-federated-learning-over-time-varying-communication-graph",
-          title: 'Prof. Yang Lu from Lancaster University delivered a talk entitled “Privacy-preserving decentralized federated...',
+            },},{id: "news-prof-yang-lu-路洋-from-lancaster-university-delivered-a-talk-entitled-privacy-preserving-decentralized-federated-learning-over-time-varying-communication-graph",
+          title: 'Prof. Yang Lu（路洋）from Lancaster University delivered a talk entitled “Privacy-preserving decentralized federated learning...',
           description: "",
-          section: "News",},{id: "news-prof-housheng-su-from-hust-delivered-a-talk-entitled-跨域无人系统集群协同研究",
-          title: 'Prof. Housheng Su from HUST delivered a talk entitled “跨域无人系统集群协同研究”',
+          section: "News",},{id: "news-prof-housheng-su-苏厚胜-from-hust-delivered-a-talk-entitled-跨域无人系统集群协同研究",
+          title: 'Prof. Housheng Su（苏厚胜）from HUST delivered a talk entitled “跨域无人系统集群协同研究”',
           description: "",
           section: "News",},{id: "news-prof-aming-li-李阿明-from-pku-delivered-a-talk-entitled-时序网络上的群体博弈与控制",
           title: 'Prof. Aming Li（李阿明）from PKU delivered a talk entitled “时序网络上的群体博弈与控制”',
