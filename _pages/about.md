@@ -38,6 +38,27 @@ images:
 I am interested in the **interplay** between the **structure** and **performance** of **complex interconnected systems**, including multidisciplinary scientific and engineering topics such as [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics), and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). [Check out the TESTBED in my lab](/testbed/) <a href="/projects/"><img src="/assets/img/details_icon.png" style="zoom:15%;"/></a>  
 
 <br/>
+<b> The emergence of collective behavior or even intelligence from individual interactions is a fundamental question across multiple scientific disciplines. </b>
+<br/>
+<div>
+    <div> 
+        <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" ><img src= "/assets/img/125-science-questions/2021/sjtu-125.png" alt="" width="60" align="left" hspace="10" vspace="0"> </a>
+    </div> 
+    <span style="color:black;font-size:25px;">What Are Fundamental Principles Of Collective Motion? </span> <br/>
+ <span style="color:black;font-size:25px;">How Does Group Intelligence Emerge?</span><br/>
+    <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" >125 questions: Exploration and discovery. Booklet, Science, 2021.</a> <a href="/assets/img/125-science-questions/2021/sjtu-125.pdf" >[Pages 24,39 PDF]</a>
+<div><br/>
+
+</div>
+<br/>
+    <div> 
+        <a href="125-science-questions/2005/science_125.pdf" ><img src= "/assets/img/125-science-questions/2005/science_125.gif" alt="" width="60" align="left" hspace="10" vspace="0"></a>
+    </div> 
+    <span style="color:black;font-size:25px;"> How Did Cooperative Behavior Evolve?</span><br/>  
+       <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/assets/img/125-science-questions/2005/science_125.pdf" >[Page 93 PDF]</a>
+</div>
+
+<br/>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -48,24 +69,6 @@ I am interested in the **interplay** between the **structure** and **performance
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <br/>
- <b> The emergence of collective behavior or even intelligence from individual interactions is a fundamental question across multiple scientific disciplines. </b>
-<br/>
-<div>
-    <div> 
-        <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" ><img src= "/assets/img/125-science-questions/2021/sjtu-125.png" alt="" width="110" align="left" hspace="10" vspace="0"> </a>
-    </div> 
-    <span style="color:black;font-size:25px;">What Are Fundamental Principles Of Collective Motion? </span> <br/>
- <span style="color:black;font-size:25px;">How Does Group Intelligence Emerge?</span><br/>
-    <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" >125 questions: Exploration and discovery. Booklet, Science, 2021.</a> <a href="/assets/img/125-science-questions/2021/sjtu-125.pdf" >[Pages 24,39 PDF]</a>
-<div><br/>
 
-</div>
-<br/>
-    <div> 
-        <a href="125-science-questions/2005/science_125.pdf" ><img src= "/assets/img/125-science-questions/2005/science_125.gif" alt="" width="110" align="left" hspace="10" vspace="0"></a>
-    </div> 
-    <span style="color:black;font-size:25px;"> How Did Cooperative Behavior Evolve?</span><br/>  
-       <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/assets/img/125-science-questions/2005/science_125.pdf" >[Page 93 PDF]</a>
-</div>
 
 
