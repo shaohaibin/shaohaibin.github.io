@@ -73,11 +73,11 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+      },{id: "post-https-blog-google-technology-ai-google-gemini-update-flash-ai-assistant-io-2024",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/ <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -434,7 +434,12 @@ ninja.data = [{
           section: "News",},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcement-learning-and-adaptive-control",
           title: 'Dr. Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between Reinforcement...',
           description: "",
-          section: "News",},{id: "projects-humanoid-robot",
+          section: "News",},{id: "projects-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-humanoid-robot",
           title: 'Humanoid Robot',
           description: "Embodied Artificial Intelligence",
           section: "Projects",handler: () => {
@@ -479,6 +484,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-distributed-optimization",
+          title: 'Distributed Optimization',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/distributed-optimization/";
+            },},{id: "projects-hoi-networks",
+          title: 'Hoi Networks',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hoi-networks/";
+            },},{id: "projects-mwn-privavcy",
+          title: 'Mwn Privavcy',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mwn-privavcy/";
+            },},{id: "projects-neighbor-selection",
+          title: 'Neighbor Selection',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/neighbor-selection/";
+            },},{id: "projects-research",
+          title: 'Research',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/docs/research";
             },},{
         id: 'social-email',
         title: 'email',
