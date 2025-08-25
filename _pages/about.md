@@ -56,7 +56,6 @@ I am interested in the **interplay** between the **structure** and **performance
        <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/assets/img/125-science-questions/2005/science_125.pdf" >[Page 93 PDF]</a>
 </div>
 
-<br/>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -66,7 +65,7 @@ I am interested in the **interplay** between the **structure** and **performance
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/6.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-<br/>
+
 
 
 
