@@ -5,7 +5,6 @@ description: an other project with a background image and giscus comments
 img: assets/img/projects/NS.gif
 importance: 2
 category: Networks
-giscus_comments: true
 ---
 
 ## Neighbor Selection: Less Connected but Better Performance.

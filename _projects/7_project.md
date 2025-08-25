@@ -5,7 +5,6 @@ description: Matrix-weighted Networks
 img: assets/img/projects/HOI.png
 importance: 1
 category: Networks
-related_publications: true
 ---
 ## Higher-Order Interaction Networks (Matrix-weighted Networks)
 
