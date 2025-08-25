@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UGV Swarm
-description:  
+title: Swarm Responsiveness Enhancement via Neighbor Selection 
+description: UGV Swarm
 img: assets/img/images/testbed/UGV-M5.png
 importance: 3
 category: Swarm
