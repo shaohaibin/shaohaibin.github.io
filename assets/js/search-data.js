@@ -459,9 +459,9 @@ ninja.data = [{
           description: "USV Swarm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-ugv-swarm",
-          title: 'UGV Swarm',
-          description: "",
+            },},{id: "projects-swarm-responsiveness-enhancement-via-neighbor-selection",
+          title: 'Swarm Responsiveness Enhancement via Neighbor Selection',
+          description: "UGV Swarm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
