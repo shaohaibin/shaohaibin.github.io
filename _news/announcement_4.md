@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof. Yang Lu from Lancaster University delivered a talk entitled "Privacy-preserving decentralized federated learning over time-varying communication graph"
+Prof. Yang Lu（路洋）from Lancaster University delivered a talk entitled "Privacy-preserving decentralized federated learning over time-varying communication graph"

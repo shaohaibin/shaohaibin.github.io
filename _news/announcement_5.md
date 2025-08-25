@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof. Housheng Su from HUST delivered a talk entitled "跨域无人系统集群协同研究"
+Prof. Housheng Su（苏厚胜）from HUST delivered a talk entitled "跨域无人系统集群协同研究"
