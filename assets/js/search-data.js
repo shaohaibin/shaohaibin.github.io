@@ -419,7 +419,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-prof-yiongqiang-wang-from-clemson-university-delivered-a-talk-entitled-inherent-privacy-for-distributed-optimization-and-learning",
+            },},{id: "news-prof-yang-lu-from-lancaster-university-delivered-a-talk-entitled-privacy-preserving-decentralized-federated-learning-over-time-varying-communication-graph",
+          title: 'Prof. Yang Lu from Lancaster University delivered a talk entitled “Privacy-preserving decentralized federated...',
+          description: "",
+          section: "News",},{id: "news-prof-yiongqiang-wang-from-clemson-university-delivered-a-talk-entitled-inherent-privacy-for-distributed-optimization-and-learning",
           title: 'Prof. Yiongqiang Wang from Clemson University delivered a talk entitled “Inherent Privacy for...',
           description: "",
           section: "News",},{id: "news-prof-housheng-su-from-hust-delivered-a-talk-entitled-跨域无人系统集群协同研究",
