@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Embodied Artificial Intelligence
-description: Quadruped Robot
+title: Quadruped Robot
+description: Embodied Artificial Intelligence 
 img: assets/img/Embodied-AI2.png
 importance: 2
 category: Embodied-AI

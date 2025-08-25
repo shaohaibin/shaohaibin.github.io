@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Embodied Artificial Intelligence 
-description: Humanoid Robot
+title: Humanoid Robot
+description: Embodied Artificial Intelligence 
 img: assets/img/Embodied-AI1.jpg
 importance: 1
 category: Embodied-AI
