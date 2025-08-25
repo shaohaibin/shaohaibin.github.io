@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof.Aming Li（李阿明）from PKU delivered a talk entitled "时序网络上的群体博弈与控制"
+Prof. Aming Li（李阿明）from PKU delivered a talk entitled "时序网络上的群体博弈与控制"

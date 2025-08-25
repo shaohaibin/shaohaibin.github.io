@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof.Yiongqiang Wang from Clemson University delivered a talk entitled "Inherent Privacy for Distributed Optimization and Learning"
+Prof. Yiongqiang Wang from Clemson University delivered a talk entitled "Inherent Privacy for Distributed Optimization and Learning"

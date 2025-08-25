@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof.Zhongqi Sun（孙中奇）from BIT delivered a talk entitled "强化学习模型预测控制"
+Prof. Zhongqi Sun（孙中奇）from BIT delivered a talk entitled "强化学习模型预测控制"
