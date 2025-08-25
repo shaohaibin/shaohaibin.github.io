@@ -2,7 +2,7 @@
 layout: page
 title: project 9
 description: another project with an image 🎉
-img: assets/img/6.jpg
+img: assets/img/projects/PPAC.png
 importance: 4
 category: Networks
 ---

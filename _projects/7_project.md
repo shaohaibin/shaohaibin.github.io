@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Higher-Order Interaction Networks
+description: Matrix-weighted Networks
+img: assets/img/projects/HOI.png
 importance: 1
 category: Networks
 related_publications: true

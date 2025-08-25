@@ -2,8 +2,8 @@
 layout: page
 title: project 9
 description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
+img: assets/img/projects/optimization.png
+importance: 3
 category: Networks
 ---
 

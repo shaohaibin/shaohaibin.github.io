@@ -11,15 +11,4 @@ Current research in quadruped robotics is intensely focused on achieving high-le
 
 A major research thrust is integrating perception into locomotion. Instead of treating vision as a separate module, state-of-the-art work uses end-to-end learning to fuse exteroceptive sensors (cameras, LiDAR) with proprioceptive data, allowing the robot to autonomously plan footholds, avoid obstacles, and execute long-range navigation in real-time without pre-built maps. This is closely tied to the goal of long-term autonomy, which involves solving challenges in power management, remote monitoring, and persistent operation. Finally, a key direction is platform deployment for real-world applications, moving beyond labs into demanding roles such as industrial inspection, search and rescue, last-mile delivery, and even entertainment, pushing the boundaries of what is possible with legged machines.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/images/videos/Go2-2.gif" title="example image"   %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/images/videos/Go2-3.gif" title="example image"   %}
-    </div>
-</div>
-<div class="caption">
-</div>
-
 | <img src="/assets/img/images/videos/Go2-1.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 
