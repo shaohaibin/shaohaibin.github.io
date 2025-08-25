@@ -38,7 +38,7 @@ images:
 I am interested in the **interplay** between the **structure** and **performance** of **complex interconnected systems**, including multidisciplinary scientific and engineering topics such as [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics), and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). [Check out the TESTBED in my lab](/testbed/) <a href="/projects/"><img src="/assets/img/details_icon.png" style="zoom:15%;"/></a>  
 
 <br/>
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" width="50%" height="auto">
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
