@@ -1,15 +1,11 @@
 ---
-layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: Networks
+layout: default
 ---
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
+<!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 ## Distributed Online Optimization, Learning and Game
 
-<div align="center"><img src="/assets/img/images/research/optimization/optimization.png" style="zoom:70%;" /></div>
+<div align="center"><img src="../../../images/research/optimization/optimization.png" style="zoom:70%;" /></div>
 
 In this thread of works, we examine analysis and design for online optimization, learning and game on a network of agents in a distributed manner.
 
@@ -34,3 +30,4 @@ In this thread of works, we examine analysis and design for online optimization,
 5. Xiaoxing Ren, Dewei Li, Yugeng Xi, and **Haibin Shao**.    
    [*Distributed subgradient algorithm for multi-agent optimization with dynamic stepsize.*](https://ieeexplore.ieee.org/abstract/document/9358456)  
    **IEEE/CAA Journal of Automatica Sinica**, 8(8):1451-1464, 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9358456)
+ 

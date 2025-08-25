@@ -1,16 +1,14 @@
 ---
-layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: Networks
-giscus_comments: true
+layout: default
 ---
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
+<!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 
 ## Neighbor Selection: Less Connected but Better Performance.
 
-<div align="center"><img src="/assets/img/images/research/neighbor-selection/NS.png" height="100"  /></div>
+<div align="center"><img src="../../../images/research/neighbor-selection/NS.png" height="100"  /></div>
 
 In this thread of works, we ask:
 

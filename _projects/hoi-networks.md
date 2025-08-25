@@ -1,16 +1,14 @@
 ---
-layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: Networks
-related_publications: true
+layout: default
 ---
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.12/d3.js"></script>
+<!-- <script src="{{site.baseurl}}/js/embed-d3.js"></script> -->
 ## Higher-Order Interaction Networks (Matrix-weighted Networks)
 
 
-<div align="center"><img src="/assets/img/images/research/MWN/HOI.png" style="zoom:100%;" /></div>
+
+<div align="center"><img src="../../../images/research/MWN/HOI.png" style="zoom:100%;" /></div>
 
 In this thread of works, we examine:
 
