@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/opening/";
           },
-        },{id: "nav-service",
-          title: "Service",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/service/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -426,22 +419,34 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcement-learning-and-adaptive-control",
+            },},{id: "news-prof-yiongqiang-wang-from-clemson-university-delivered-a-talk-entitled-inherent-privacy-for-distributed-optimization-and-learning",
+          title: 'Prof.Yiongqiang Wang from Clemson University delivered a talk entitled “Inherent Privacy for Distributed...',
+          description: "",
+          section: "News",},{id: "news-prof-housheng-su-from-hust-delivered-a-talk-entitled-跨域无人系统集群协同研究",
+          title: 'Prof.Housheng Su from HUST delivered a talk entitled “跨域无人系统集群协同研究”',
+          description: "",
+          section: "News",},{id: "news-prof-aming-li-李阿明-from-pku-delivered-a-talk-entitled-时序网络上的群体博弈与控制",
+          title: 'Prof.Aming Li（李阿明）from PKU delivered a talk entitled “时序网络上的群体博弈与控制”',
+          description: "",
+          section: "News",},{id: "news-prof-zhongqi-sun-孙中奇-from-bit-delivered-a-talk-entitled-强化学习模型预测控制",
+          title: 'Prof.Zhongqi Sun（孙中奇）from BIT delivered a talk entitled “强化学习模型预测控制”',
+          description: "",
+          section: "News",},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcement-learning-and-adaptive-control",
           title: 'Dr.Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between Reinforcement Learning...',
           description: "",
-          section: "News",},{id: "projects-embodied-artificial-intelligence",
-          title: 'Embodied Artificial Intelligence',
-          description: "Humanoid Robot",
+          section: "News",},{id: "projects-humanoid-robot",
+          title: 'Humanoid Robot',
+          description: "Embodied Artificial Intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-embodied-artificial-intelligence",
-          title: 'Embodied Artificial Intelligence',
-          description: "Quadruped Robot",
+            },},{id: "projects-quadruped-robot",
+          title: 'Quadruped Robot',
+          description: "Embodied Artificial Intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-embodied-swarm-intelligence",
-          title: 'Embodied Swarm Intelligence',
-          description: "Embodiment of Swarm Robots",
+            },},{id: "projects-embodiment-of-swarm-robots",
+          title: 'Embodiment of Swarm Robots',
+          description: "Embodied Swarm Intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-llm-enabled-swarm-robotics",
