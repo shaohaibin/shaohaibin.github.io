@@ -7,10 +7,8 @@ importance: 4
 category: Networks
 ---
 
-## Distributed Privacy-preserving Algorithm via Matrix-weighted Coupling
 
 <div align="center"><img src="/assets/img/images/research/privacy/PPAC.png" style="zoom:70%;" /></div>
-
 
 An elegant feature of matrix-weighted networks can be employed for privacy-preserving consensus, optimization and game. 
 
