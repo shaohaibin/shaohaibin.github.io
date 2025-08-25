@@ -7,7 +7,7 @@ importance: 3
 category: Swarm
 ---
 
-### **State-of-the-art**
+**State-of-the-art**
 
 1.  **Bio-Inspired Algorithms:** Research heavily relies on decentralized control rules inspired by social insects (ants, bees) for tasks like flocking, foraging, and collective decision-making, using algorithms based on stigmergy and local interactions.
 2.  **Scalability and Robustness:** A key focus is designing systems that are inherently scalable (to hundreds or thousands of units) and robust to individual failures without a single point of failure.
@@ -15,7 +15,7 @@ category: Swarm
 4.  **Simulation-to-Reality (Sim2Real):** Heavy use of advanced simulation environments (e.g., ARGoS, Gazebo) to develop and test controllers before costly and complex real-world deployment.
 5.  **Limited Autonomy:** Most swarms operate in pre-defined environments or on specific, repetitive tasks. Their ability to understand high-level language commands or adapt to truly novel situations is minimal.
 
-### **Future Research Directions**
+**Future Research Directions**
 
 1.  **AI and Machine Learning Integration:** Incorporating deep reinforcement learning and evolutionary robotics to allow swarms to learn and optimize their behaviors autonomously in complex environments.
 2.  **Human-Swarm Interaction (HSI):** Developing intuitive interfaces (e.g., using gesture, augmented reality, or natural language) for humans to command and monitor large swarms effectively.
