@@ -7,8 +7,6 @@ importance: 2
 category: Networks
 ---
 
-## Neighbor Selection: Less Connected but Better Performance.
-
 <div align="center"><img src="/assets/img/images/research/neighbor-selection/NS.png" height="100"  /></div>
 
 In this thread of works, we ask:
