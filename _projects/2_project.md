@@ -7,7 +7,7 @@ importance: 2
 category: Embodied-AI
 ---
 
-### **Current Research Status in Quadruped Robotics**
+### **State-of-the-art**
 
 1.  **Mature Dynamic Locomotion:** Quadruped platforms have achieved highly robust and dynamic mobility. They can reliably traverse complex terrains like rubble, stairs, forests, and ice using advanced control algorithms, primarily Model Predictive Control (MPC) and Reinforcement Learning (RL).
 2.  **Commercialization and Deployment:** Several platforms (e.g., Boston Dynamics' Spot, ANYbotics' ANYmal, Unitree's robots) are commercially available and being deployed for industrial inspection, public safety, and research applications.
