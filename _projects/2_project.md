@@ -22,3 +22,4 @@ A major research thrust is integrating perception into locomotion. Instead of tr
 <div class="caption">
 </div>
 
+| <img src="/assets/img/images/videos/Go2-1.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 

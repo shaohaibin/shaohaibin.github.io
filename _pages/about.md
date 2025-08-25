@@ -44,8 +44,8 @@ I am interested in the **interplay** between the **structure** and **performance
     <div> 
         <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" ><img src= "/assets/img/125-science-questions/2021/sjtu-125.png" alt="" width="60" align="left" hspace="10" vspace="0"> </a>
     </div> 
-    <span style="color:black;font-size:25px;">What Are Fundamental Principles Of Collective Motion? </span> <br/>
- <span style="color:black;font-size:25px;">How Does Group Intelligence Emerge?</span><br/>
+    <span style="color:black;font-size:15px;">What Are Fundamental Principles Of Collective Motion? </span> <br/>
+ <span style="color:black;font-size:15px;">How Does Group Intelligence Emerge?</span><br/>
     <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" >125 questions: Exploration and discovery. Booklet, Science, 2021.</a> <a href="/assets/img/125-science-questions/2021/sjtu-125.pdf" >[Pages 24,39 PDF]</a>
 <div><br/>
 
@@ -54,7 +54,7 @@ I am interested in the **interplay** between the **structure** and **performance
     <div> 
         <a href="125-science-questions/2005/science_125.pdf" ><img src= "/assets/img/125-science-questions/2005/science_125.gif" alt="" width="60" align="left" hspace="10" vspace="0"></a>
     </div> 
-    <span style="color:black;font-size:25px;"> How Did Cooperative Behavior Evolve?</span><br/>  
+    <span style="color:black;font-size:15px;"> How Did Cooperative Behavior Evolve?</span><br/>  
        <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/assets/img/125-science-questions/2005/science_125.pdf" >[Page 93 PDF]</a>
 </div>
 
