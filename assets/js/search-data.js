@@ -479,8 +479,8 @@ ninja.data = [{
           description: "Less Connected but Better Performance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-distributed-online-optimization-learning-and-game",
-          title: 'Distributed Online Optimization, Learning and Game',
+            },},{id: "projects-distributed-optimization-learning-and-game",
+          title: 'Distributed Optimization, Learning and Game',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
