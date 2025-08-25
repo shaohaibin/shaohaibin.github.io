@@ -474,9 +474,9 @@ ninja.data = [{
           description: "Matrix-weighted Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-neighbor-selection",
+          title: 'Neighbor Selection',
+          description: "Less Connected but Better Performance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-distributed-online-optimization-learning-and-game",
