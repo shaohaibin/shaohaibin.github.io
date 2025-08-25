@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Distributed Online Optimization, Learning and Game
+title: Distributed Optimization, Learning and Game
 description:  
 img: assets/img/projects/optimization.png
 importance: 3
