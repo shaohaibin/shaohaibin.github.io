@@ -434,9 +434,9 @@ ninja.data = [{
           section: "News",},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcement-learning-and-adaptive-control",
           title: 'Dr. Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between Reinforcement...',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+          section: "News",},{id: "projects-distributed-privacy-preserving-algorithm",
+          title: 'Distributed Privacy-preserving Algorithm',
+          description: "Distributed Privacy-preserving Consensus via Matrix-weighted Coupling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-humanoid-robot",
@@ -459,9 +459,9 @@ ninja.data = [{
           description: "USV Swarm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-ugv-swarm",
+          title: 'UGV Swarm',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
@@ -469,19 +469,19 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-higher-order-interaction-networks",
+          title: 'Higher-Order Interaction Networks',
+          description: "Matrix-weighted Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-distributed-online-optimization-learning-and-game",
+          title: 'Distributed Online Optimization, Learning and Game',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "projects-distributed-optimization",
