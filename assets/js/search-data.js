@@ -434,9 +434,9 @@ ninja.data = [{
           section: "News",},{id: "news-dr-feiran-zhao-赵斐然-from-eth-delivered-a-talk-entitled-lor-learning-pipelines-between-reinforcement-learning-and-adaptive-control",
           title: 'Dr. Feiran Zhao（赵斐然）from ETH delivered a talk entitled “LOR Learning Pipelines: Between Reinforcement...',
           description: "",
-          section: "News",},{id: "projects-distributed-privacy-preserving-algorithm",
-          title: 'Distributed Privacy-preserving Algorithm',
-          description: "Distributed Privacy-preserving Consensus via Matrix-weighted Coupling",
+          section: "News",},{id: "projects-distributed-privacy-preservation",
+          title: 'Distributed Privacy Preservation',
+          description: "Distributed Privacy-Preserving Consensus via Matrix-weighted Coupling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-humanoid-robot",
@@ -474,8 +474,8 @@ ninja.data = [{
           description: "Matrix-weighted Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-neighbor-selection",
-          title: 'Neighbor Selection',
+            },},{id: "projects-distributed-neighbor-selection",
+          title: 'Distributed Neighbor Selection',
           description: "Less Connected but Better Performance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
