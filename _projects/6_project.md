@@ -2,12 +2,12 @@
 layout: page
 title: Energy Management in Umanned System Swarm 
 description: Hydrogen-powered Umanned System
-img:assets/img/projects/Energy.png
+img: assets/img/projects/Energy.png
 importance: 4
 category: Swarm
 ---
 
-<img src="/assets/img/projects/Hydrogen-power.png " width="400"  /> 
+<img src="/assets/img/projects/Hydrogen-power.png" width="400"  /> 
 
 **State-of-the-art**
 
