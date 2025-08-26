@@ -6,8 +6,6 @@ img: assets/img/projects/HOI.png
 importance: 1
 category: Networks
 ---
-## Higher-Order Interaction Networks (Matrix-weighted Networks)
-
 
 <div align="center"><img src="/assets/img/images/research/MWN/HOI.png" style="zoom:100%;" /></div>
 

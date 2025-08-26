@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Neighbor Selection
-description: Neighbor Selection: Less Connected but Better Performance.
+description: Less Connected but Better Performance
 img: assets/img/projects/NS.gif
 importance: 2
 category: Networks
 ---
-
-## Neighbor Selection: Less Connected but Better Performance.
 
 <div align="center"><img src="/assets/img/images/research/neighbor-selection/NS.png" height="100"  /></div>
 
