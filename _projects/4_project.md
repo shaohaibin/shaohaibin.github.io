@@ -2,12 +2,12 @@
 layout: page
 title: LLM-enabled Swarm Robots
 description: Dynamic task assignment in USV Swarms
-img: assets/img/Swarm1.jpg
+img: assets/img/LLM-swarm.jpg
 importance: 4
 category: Swarm
 ---
 
-<img src="/assets/img/projects/LLM-swarm.png" height="250" />
+<img src="/assets/img/projects/LLM-swarm.png" height="350" />
 
 **State-of-the-art**
 
