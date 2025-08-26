@@ -64,6 +64,7 @@ I am interested in the **interplay** between the **structure** and **performance
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/5.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/6.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/images/videos/usv6-2.gif" class="img-fluid rounded z-depth-1" %}</swiper-slide>  
 </swiper-container>
 
 
