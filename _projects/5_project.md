@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Swarm Responsiveness Enhancement via Neighbor Selection 
+title: Fast Consensus via Neighbor Selection 
 description: UGV Swarm
 img: assets/img/images/testbed/UGV-M5.png
 importance: 3
 category: Swarm
 ---
+
+| <img src="/assets/img/images/videos/UGV-swarm-90.gif" width="400"  /> | <img src="/assets/img/images/videos/UGV-swarm-135.gif" width="400"  /> | 
+| <img src="/assets/img/images/videos/UGV-swarm-stop.gif" width="400"  /> | <img src="/assets/img/images/videos/UGV-swarm-square.gif" width="400"  /> |
 
 **State-of-the-art**
 
@@ -24,5 +27,4 @@ category: Swarm
 5.  **Ethical and Safety Frameworks:** Establishing guidelines for predictable, safe, and accountable operation of large-scale autonomous systems, especially in human-populated environments.
 
 
-| <img src="/assets/img/images/videos/UGV-swarm-90.gif" width="400"  /> | <img src="/assets/img/images/videos/UGV-swarm-135.gif" width="400"  /> | 
-| <img src="/assets/img/images/videos/UGV-swarm-stop.gif" width="400"  /> | <img src="/assets/img/images/videos/UGV-swarm-square.gif" width="400"  /> |
+

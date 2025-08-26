@@ -7,6 +7,7 @@ importance: 2
 category: Embodied-AI
 ---
 
+| <img src="/assets/img/images/videos/Go2-1.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 
 ### **State-of-the-art**
 
 1.  **Mature Dynamic Locomotion:** Quadruped platforms have achieved highly robust and dynamic mobility. They can reliably traverse complex terrains like rubble, stairs, forests, and ice using advanced control algorithms, primarily Model Predictive Control (MPC) and Reinforcement Learning (RL).
@@ -23,4 +24,4 @@ category: Embodied-AI
 4.  **Cost Reduction and Miniaturization:** Developing smaller, lighter, and significantly cheaper platforms will be key to unlocking large-scale adoption in consumer and commercial markets beyond heavy industry.
 5.  **Seamless Human-Robot Teaming:** Improving intuitive human-robot interaction (HRI) through natural language, gestures, and shared autonomy to make robots effective collaborators for first responders, soldiers, and factory workers.
 
-| <img src="/assets/img/images/videos/Go2-1.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 
+

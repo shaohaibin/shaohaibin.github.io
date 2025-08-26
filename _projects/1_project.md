@@ -7,8 +7,9 @@ importance: 1
 category: Embodied-AI
 ---
 
+| <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> | 
 
-### **Current Research Status in Humanoid Robotics**
+### **State-of-the-art**
 
 1.  **Bipedal Locomotion:** Significant progress has been made in dynamic walking and balancing over uneven terrain, largely driven by model-based control (e.g., Whole-Body Control) and reinforcement learning (RL). Examples include Boston Dynamics' Atlas and various Tesla Optimus demonstrations.
 2.  **Hardware Actuation:** Advanced hydraulic and electric actuator designs (e.g., series elastic actuators - SEAs) are improving power-to-weight ratios and force control, enabling more dynamic and compliant movements.
@@ -25,4 +26,4 @@ category: Embodied-AI
 5.  **Human-Robot Interaction (HRI):** Future research will focus on safe and intuitive social interaction, including natural language communication, understanding social cues, and predicting human intent for seamless collaboration in homes and workplaces.
 
 
-| <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> | 
+
