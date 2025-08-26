@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fast Consensus via Neighbor Selection 
-description: UGV Swarm
+title: Responsiveness of Swarm Robots
+description: Fast Consensus via Neighbor Selection
 img: assets/img/images/testbed/UGV-M5.png
 importance: 3
 category: Swarm
