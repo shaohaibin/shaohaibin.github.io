@@ -3,7 +3,7 @@ layout: page
 title: Distributed Privacy Preservation
 description: Distributed Privacy-Preserving Consensus via Matrix-weighted Coupling
 img: assets/img/projects/PPAC.png
-importance: 4
+importance: 10
 category: Networks
 ---
 

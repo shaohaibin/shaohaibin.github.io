@@ -3,7 +3,7 @@ layout: page
 title: Distributed Optimization, Learning and Game
 description:  
 img: assets/img/projects/optimization.png
-importance: 3
+importance: 9
 category: Networks
 ---
 

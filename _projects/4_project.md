@@ -7,6 +7,8 @@ importance: 4
 category: Swarm
 ---
 
+<img src="/assets/img/projects/LLM-swarm.png " height="250" />
+
 **State-of-the-art**
 
 1. **Centralized Task Planning**: LLMs (e.g., GPT-4) are used as high-level planners to decompose complex tasks into executable sub-tasks for homogeneous robot swarms, leveraging natural language commands for intuitive human-swarm interaction.  

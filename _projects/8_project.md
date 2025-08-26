@@ -3,7 +3,7 @@ layout: page
 title: Distributed Neighbor Selection
 description: Less Connected but Better Performance
 img: assets/img/projects/NS.gif
-importance: 2
+importance: 8
 category: Networks
 ---
 

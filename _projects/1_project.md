@@ -7,7 +7,7 @@ importance: 1
 category: Embodied-AI
 ---
 
-<span class="center"> | <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> | </span> 
+| <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> |  
 
 ### **State-of-the-art**
 

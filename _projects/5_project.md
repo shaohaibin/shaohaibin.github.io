@@ -3,7 +3,7 @@ layout: page
 title: Responsiveness of Swarm Robots
 description: Fast Consensus via Neighbor Selection
 img: assets/img/images/testbed/UGV-M5.png
-importance: 3
+importance: 5
 category: Swarm
 ---
 

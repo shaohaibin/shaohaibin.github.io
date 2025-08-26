@@ -3,7 +3,7 @@ layout: page
 title: Energy in Unmanned Systems
 description: Hydrogen-powered Unmanned System
 img: assets/img/projects/Energy.png
-importance: 4
+importance: 6
 category: Swarm
 ---
 

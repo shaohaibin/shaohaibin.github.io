@@ -3,7 +3,7 @@ layout: page
 title: Higher-Order Interaction Networks
 description: Matrix-weighted Networks
 img: assets/img/projects/HOI.png
-importance: 1
+importance: 7
 category: Networks
 ---
 
