@@ -7,7 +7,7 @@ importance: 4
 category: Swarm
 ---
 
-<img src="/assets/img/projects/Hydrogen-power.png " width="400"  /> 
+<img src="/assets/img/projects/Hydrogen-power.png" width="400"  /> 
 
 **State-of-the-art**
 
