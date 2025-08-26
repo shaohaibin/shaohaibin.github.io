@@ -464,9 +464,9 @@ ninja.data = [{
           description: "UGV Swarm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-energy-management-in-umanned-system-swarm",
-          title: 'Energy Management in Umanned System Swarm',
-          description: "Hydrogen-powered Umanned System",
+            },},{id: "projects-energy-in-unmanned-systems",
+          title: 'Energy in Unmanned Systems',
+          description: "Hydrogen-powered Unmanned System",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-higher-order-interaction-networks",
