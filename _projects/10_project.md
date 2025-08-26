@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Distributed Privacy-preserving Algorithm
-description: Distributed Privacy-preserving Consensus via Matrix-weighted Coupling
+title: Distributed Privacy Preservation
+description: Distributed Privacy-Preserving Consensus via Matrix-weighted Coupling
 img: assets/img/projects/PPAC.png
 importance: 4
 category: Networks
 ---
 
 
-<div align="center"><img src="/assets/img/images/research/privacy/PPAC.png" style="zoom:70%;" /></div>
+<div align="center"><img src="/assets/img/images/research/privacy/PPAC.png" style="zoom:120%;" /></div>
 
 An elegant feature of matrix-weighted networks can be employed for privacy-preserving consensus, optimization and game. 
 
