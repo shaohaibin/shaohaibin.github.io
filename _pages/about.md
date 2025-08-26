@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Shanghai Jiao Tong University, Swarm Artificial Intelligence 
+subtitle: Shanghai Jiao Tong University, Artificial Swarm Intelligence
 
 profile:
   align: right
