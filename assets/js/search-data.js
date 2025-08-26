@@ -454,14 +454,14 @@ ninja.data = [{
           description: "Embodied Swarm Intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-llm-enabled-swarm-robotics",
-          title: 'LLM-enabled Swarm Robotics',
-          description: "USV Swarm",
+            },},{id: "projects-llm-enabled-swarm-robots",
+          title: 'LLM-enabled Swarm Robots',
+          description: "Dynamic task assignment in USV Swarms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-fast-consensus-via-neighbor-selection",
-          title: 'Fast Consensus via Neighbor Selection',
-          description: "UGV Swarm",
+            },},{id: "projects-responsiveness-of-swarm-robots",
+          title: 'Responsiveness of Swarm Robots',
+          description: "Fast Consensus via Neighbor Selection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-energy-in-unmanned-systems",
