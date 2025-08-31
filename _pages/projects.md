@@ -9,7 +9,7 @@ display_categories: [Embodied-AI,Swarm,Networks]
 horizontal: false
 ---
 
-<div align="center"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:8%;"/></div>
+<div align="center"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:16%;"/></div>
 
 <!-- pages/projects.md -->
 <div class="projects">
