@@ -7,6 +7,8 @@ importance: 3
 category: Embodied-AI
 ---
 
+<img src="/assets/img/projects/boids.gif" width="400"  /> 
+
 **State-of-the-art**
 
 1.  **Bio-Inspired Algorithms:** Research heavily relies on decentralized control rules inspired by social insects (ants, bees) for tasks like flocking, foraging, and collective decision-making, using algorithms based on stigmergy and local interactions.
