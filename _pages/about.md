@@ -49,7 +49,7 @@ I am interested in the **interplay** between the **structure** and **performance
  <span style="color:black;font-size:20px;">How Does Group Intelligence Emerge?</span><br/>
     <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" >125 questions: Exploration and discovery. Booklet, Science, 2021.</a> <a href="/assets/img/125-science-questions/2021/sjtu-125.pdf" >[Pages 24,39 PDF]</a>
 <div>
-<br/>
+
 </div>
 <br/>
     <div> 
@@ -58,7 +58,7 @@ I am interested in the **interplay** between the **structure** and **performance
     <span style="color:black;font-size:20px;"> How Did Cooperative Behavior Evolve?</span><br/>  
        <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/assets/img/125-science-questions/2005/science_125.pdf" >[Page 93 PDF]</a>
 </div>
-
+<br/>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/swiper/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
