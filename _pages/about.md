@@ -49,6 +49,7 @@ I am interested in the **interplay** between the **structure** and **performance
  <span style="color:black;font-size:20px;">How Does Group Intelligence Emerge?</span><br/>
     <a href="https://www.science.org/content/resource/125-questions-exploration-and-discovery" >125 questions: Exploration and discovery. Booklet, Science, 2021.</a> <a href="/assets/img/125-science-questions/2021/sjtu-125.pdf" >[Pages 24,39 PDF]</a>
 <div>
+<br/>
 </div>
 <br/>
     <div> 
