@@ -7,7 +7,7 @@ importance: 3
 category: Embodied-AI
 ---
 
-| <img src="/assets/img/projects/boids.gif" width="400"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" width="400"  /> |
+| <img src="/assets/img/projects/boids.gif" height="400"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="400"  /> |
 
 **State-of-the-art**
 
