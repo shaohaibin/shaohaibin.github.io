@@ -30,7 +30,7 @@ nav_order: 3
 
 [UGV 无人车]()
 
-| <img src="/assets/img/images/testbed/testbed4.jpg" width="400"  /> | <img src="/assets/img/images/testbed/UGV.jpg" width="400"  />  |
+| <img src="/assets/img/images/testbed/testbed4.jpg" width="400"  /> | <img src="/assets/img/images/testbed/UGV-large-small-swarm.jpg" width="400"  />  | <img src="/assets/img/images/testbed/UGV.jpg" width="400"  />  |
 
 <br/>
 
