@@ -24,7 +24,7 @@ nav_order: 3
 
 [Unitree Quadruped Go2 宇树Go2四足机器人]()
 
-| <img src="/assets/img/images/videos/Go2-2.gif" width="300"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="300"  /> | 
+| <img src="/assets/img/images/videos/Go2-1.gif" width="250"  />  | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 
 
 <br/>
 
