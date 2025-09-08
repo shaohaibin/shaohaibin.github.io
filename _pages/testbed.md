@@ -18,7 +18,7 @@ nav_order: 3
 
 [UGV/UAV-UGV swarm 无人车和无人机集群]()
 
-| <img src="/assets/img/images/videos/hunt.gif" width="400"  /> | <img src="/assets/img/images/videos/UAV-UGV_LLM.gif" width="400"  /> | 
+| <img src="/assets/img/images/videos/UGV-swarm-135.gif" width="400"  /> | <img src="/assets/img/images/videos/hunt.gif" width="400"  /> | <img src="/assets/img/images/videos/UAV-UGV_LLM.gif" width="400"  /> | 
 
 <br/>
 
@@ -30,7 +30,7 @@ nav_order: 3
 
 [UGV 无人车]()
 
-| <img src="/assets/img/images/videos/UGV-swarm-135.gif" width="400"  /> | <img src="/assets/img/images/testbed/testbed4.jpg" width="400"  /> | <img src="/assets/img/images/testbed/UGV.jpg" width="400"  />  |
+| <img src="/assets/img/images/testbed/testbed4.jpg" width="400"  /> | <img src="/assets/img/images/testbed/UGV.jpg" width="400"  />  |
 
 <br/>
 
