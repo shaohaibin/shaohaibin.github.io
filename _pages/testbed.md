@@ -36,13 +36,13 @@ nav_order: 3
 
 [USV Crusing 无人艇巡航](/projects/4_project/)
 
-| <img src="/assets/img/images/testbed/usv-swarm1.jpg" height="400"  /> |  <img src="/assets/img/images/testbed/USV-12.jpg" height="400" /> |  <img src="/assets/img/images/testbed/USV-3.jpg" height="400" /> |
+| <img src="/assets/img/images/testbed/usv-swarm1.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/USV-12.jpg" width="400" /> |  <img src="/assets/img/images/testbed/USV-3.jpg" width="400" /> |
 
 <br/>
 
 [USV hunting 3v1/6v2 无人艇围捕](/projects/4_project/)
 
-| <img src="/assets/img/images/videos/usv3-1.gif" width="400"  /> |  <img src="/assets/img/images/videos/usv6-2.gif" width="400"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" width="400"  /> |
+| <img src="/assets/img/images/videos/usv3-1.gif" height="400"  /> |  <img src="/assets/img/images/videos/usv6-2.gif" height="400"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="400"  /> |
 
 
 <br/>
