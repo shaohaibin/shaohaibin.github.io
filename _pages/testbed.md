@@ -16,17 +16,18 @@ nav_order: 3
 
 <br/>
 
+[Unitree Quadruped Go2 宇树Go2四足机器人](/projects/2_project/)
+
+| <img src="/assets/img/images/videos/Go2-1.gif" width="250"  />  | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 
+
+<br/>
+
 [UGV/UAV-UGV swarm 无人车和无人机集群](/projects/5_project/)
 
 | <img src="/assets/img/images/videos/UGV-swarm-135.gif" width="400"  /> | <img src="/assets/img/images/videos/hunt.gif" width="400"  /> | <img src="/assets/img/images/videos/UAV-UGV_LLM.gif" width="400"  /> | 
 
 <br/>
 
-[Unitree Quadruped Go2 宇树Go2四足机器人](/projects/2_project/)
-
-| <img src="/assets/img/images/videos/Go2-1.gif" width="250"  />  | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 
-
-<br/>
 
 [UGV 无人车]()
 
