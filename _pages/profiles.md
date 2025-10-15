@@ -27,8 +27,6 @@ nav_order: 5
 
  [Ganbin Zhou（周淦彬）]() (Shanghai Jiao Tong University) 
 
- [Lei Sun（孙雷）]() (Shanghai Jiao Tong University) 
-
  [Zitong Zhao（赵梓彤）]() (Shanghai Jiao Tong University) 
 
  [Dongyu Liu（刘东隅）]() (Shanghai Jiao Tong University) 
