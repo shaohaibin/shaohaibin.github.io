@@ -7,7 +7,11 @@ importance: 4
 category: Swarm
 ---
 
+<div align="center">
+
 <img src="/assets/img/projects/LLM-swarm.png" height="350" />
+
+</div>
 
 **State-of-the-art**
 

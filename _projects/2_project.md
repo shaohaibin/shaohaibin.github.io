@@ -7,7 +7,12 @@ importance: 2
 category: Embodied-AI
 ---
 
+<div align="center">
+
 | <img src="/assets/img/images/videos/Go2-1.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-2.gif" width="250"  /> | <img src="/assets/img/images/videos/Go2-3.gif" width="250"  /> | 
+
+</div>
+
 ### **State-of-the-art**
 
 1.  **Mature Dynamic Locomotion:** Quadruped platforms have achieved highly robust and dynamic mobility. They can reliably traverse complex terrains like rubble, stairs, forests, and ice using advanced control algorithms, primarily Model Predictive Control (MPC) and Reinforcement Learning (RL).
