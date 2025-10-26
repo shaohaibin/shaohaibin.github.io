@@ -12,6 +12,8 @@ nav_order: 5
  [Haiyu Wei（魏浩宇）]() (Shanghai Jiao Tong University) 
 
  [Yuhao Chen（陈雨昊）]() (Shanghai Jiao Tong University) 
+ 
+ [Xiaohui Gong（龚晓辉）]() (Shanghai Jiao Tong University) 
 
  [Hang Lv（吕航）]() (Shanghai Jiao Tong University) 
 
@@ -42,4 +44,3 @@ nav_order: 5
  [Haobo Hu（胡皓博）]() (Shanghai Jiao Tong University) 
 
  [Mian Han（韩冕）]() (Shanghai Jiao Tong University) 
-
