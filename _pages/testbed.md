@@ -43,7 +43,11 @@ nav_order: 3
 
 [USV hunting 3v1/6v2 无人艇围捕](/projects/4_project/)
 
-| <img src="/assets/img/images/videos/usv3-1.gif" height="300"  /> |  <img src="/assets/img/images/videos/usv6-2.gif" height="300"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
+| <img src="/assets/img/images/videos/usv3-1.gif" height="300"  /> |  <img src="/assets/img/images/videos/usv6-2.gif" height="300"  /> |
+
+[USV Collision Avoidance](/projects/4_project/)
+
+| <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
 
 
 <br/>
