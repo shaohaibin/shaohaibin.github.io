@@ -47,6 +47,7 @@ nav_order: 3
 
 <br/>
 
+
 [USV Collision Avoidance](/projects/4_project/)
 
 | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
