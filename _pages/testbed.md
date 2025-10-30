@@ -45,10 +45,11 @@ nav_order: 3
 
 | <img src="/assets/img/images/videos/usv3-1.gif" height="300"  /> |  <img src="/assets/img/images/videos/usv6-2.gif" height="300"  /> |
 
+<br/>
+
 [USV Collision Avoidance](/projects/4_project/)
 
 | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
-
 
 <br/>
 
