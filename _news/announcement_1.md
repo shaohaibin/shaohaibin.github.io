@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Feiran Zhao（赵斐然）from ETH delivered a talk entitled "LQR Learning Pipelines: Between Reinforcement Learning and Adaptive Control"
+[汶川地震17年后，少年在交大圆了“报国梦”](https://mp.weixin.qq.com/s/XX0FBDfb2cPiwpSzDJuDNw)

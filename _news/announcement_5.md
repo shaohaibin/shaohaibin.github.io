@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-29 14:00:00-0400
+date: 2023-04-25 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Prof. Housheng Su（苏厚胜）from HUST delivered a talk entitled "跨域无人系统集群协同研究"
+Prof. Yang Lu（路洋）from Lancaster University delivered a talk entitled "Privacy-preserving decentralized federated learning over time-varying communication graph"
