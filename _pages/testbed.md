@@ -9,7 +9,6 @@ nav_order: 3
 
 <div align="center"><a href="/projects/"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:16%;"/></a></div>
 
-
 [Unitree Humanoid Robot G1 宇树G1人形机器人](/projects/1_project/)
 
 | <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> | 
