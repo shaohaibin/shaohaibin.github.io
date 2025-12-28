@@ -37,7 +37,7 @@ images:
 
 I am interested in the **interplay** between the **structure** and **performance** of **complex interconnected systems**, including multidisciplinary scientific and engineering topics such as [**swarm intelligence**](https://en.wikipedia.org/wiki/Swarm_intelligence), [**embodied artificial intelligence**](https://www.techtarget.com/searchenterpriseai/definition/embodied-AI), [**multi-agent systems**](https://en.wikipedia.org/wiki/Multi-agent_system), [**swarm robotics**](https://en.wikipedia.org/wiki/Swarm_robotics), and [**complex networks**](https://en.wikipedia.org/wiki/Complex_network). 
 
-[Check out the TESTBED in my lab](/testbed/) <a href="/projects/"><img src="/assets/img/details_icon.png" style="zoom:15%;"/></a>  <img src="/assets/img/images/logo/logo-SILab.png" style="zoom:15%;"/> 
+[Check out TESTBED](/testbed/) <a href="/projects/"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:10%;"/></a>
 
 <b> The emergence of collective behavior or even intelligence from individual interactions is a fundamental question across multiple scientific disciplines. </b>
 <br/>
@@ -53,7 +53,7 @@ I am interested in the **interplay** between the **structure** and **performance
 </div>
 <br/>
     <div> 
-        <a href="125-science-questions/2005/science_125.pdf" ><img src= "/assets/img/125-science-questions/2005/science_125.gif" alt="" width="60" align="left" hspace="10" vspace="0"></a>
+        <a href="/assets/img/125-science-questions/2005/science_125.pdf" ><img src= "/assets/img/125-science-questions/2005/science_125.gif" alt="" width="60" align="left" hspace="10" vspace="0"></a>
     </div> 
     <span style="color:black;font-size:20px;"> How Did Cooperative Behavior Evolve?</span><br/>  
        <a href="https://www.science.org/doi/10.1126/science.309.5731.93" >Scientists Researching What We Don't Know.  Vol 309, Science, 2005.</a>  <a href="/assets/img/125-science-questions/2005/science_125.pdf" >[Page 93 PDF]</a>
