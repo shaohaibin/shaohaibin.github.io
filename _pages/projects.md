@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Swarm Intelligence Lab
+title: Swarm Intelligence Laboratory
 permalink: /projects/
-description: Research projects in Swarm Intelligence Lab @ SJTU.
+description: 
 nav: true
 nav_order: 2
 display_categories: [Embodied-AI,Swarm,Networks]
