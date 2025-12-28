@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Shanghai Jiao Tong University
+subtitle: Shanghai Jiao Tong University (Swarm Intelligence Laboratory)
 
 profile:
   align: right
@@ -31,8 +31,6 @@ images:
   compare: true
   slider: true
 ---
-
-<div align="left"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:15%;"/></div>
 
 <span style="color:black;">欢迎<a href="/publications/">数理基础扎实</a>或<a href="/testbed/">工程能力突出</a>的你申请本科生科研项目、硕士/博士研究生以及<a href="https://postd.sjtu.edu.cn/info/1086/5905.htm">博士后研究员</a>。（如果有任何需要了解请给我发邮件） </span><a href="/opening/"><img src="/assets/img/details_icon.png" style="zoom:15%;"/></a>
 
