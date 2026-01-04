@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Embodied-AI,Swarm,Networks]
+display_categories: [具身智能,集群系统,多智能体系统]
 horizontal: false
 ---
 
