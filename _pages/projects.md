@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: ["Embodied AI","Swarm Systems",Networks]
+display_categories: [AI,Swarm,Network]
 horizontal: false
 ---
 
