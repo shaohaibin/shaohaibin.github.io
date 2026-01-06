@@ -4,7 +4,7 @@ title: Distributed Neighbor Selection
 description: Less Connected but Better Performance
 img: assets/img/projects/NS.gif
 importance: 8
-category: Networks
+category: Network
 ---
 
 <div align="center"><img src="/assets/img/images/research/neighbor-selection/NS.png" height="200"  /></div>

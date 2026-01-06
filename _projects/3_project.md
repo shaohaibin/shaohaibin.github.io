@@ -4,7 +4,7 @@ title: Embodiment of Swarm Robots
 description: Embodied Swarm Intelligence
 img: assets/img/Embodied-AI3.jpg
 importance: 3
-category: Embodied-AI
+category: AI
 ---
 
 <div align="center">

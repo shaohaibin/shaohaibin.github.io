@@ -4,7 +4,7 @@ title: Distributed Optimization, Learning and Game
 description:  
 img: assets/img/projects/optimization.png
 importance: 9
-category: Networks
+category: Network
 ---
 
 <div align="center"><img src="/assets/img/images/research/optimization/optimization.png" style="zoom:70%;" /></div>
