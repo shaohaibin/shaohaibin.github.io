@@ -7,15 +7,35 @@ nav: true
 nav_order: 5
 ---
 
+  [Yao Hu（胡耀）]() (Shanghai Jiao Tong University) 
+  
+  [Tingyu Wang（王廷煜）]() (Shanghai Jiao Tong University) 
+  
+  [Jiahao Song（宋佳豪）]() (Shanghai Jiao Tong University) 
+
+  [Xiaohui Gong（龚晓辉）]() (Shanghai Jiao Tong University) 
+
+  [Hang Lv（吕航）]() (Shanghai Jiao Tong University) 
+
+  [Yuhao Chen（陈雨昊）]() (Shanghai Jiao Tong University) 
+ 
  [Jingbo Yang（杨竞博）](https://mp.weixin.qq.com/s/XX0FBDfb2cPiwpSzDJuDNw) (Shanghai Jiao Tong University)
 
  [Haiyu Wei（魏浩宇）]() (Shanghai Jiao Tong University) 
-
- [Yuhao Chen（陈雨昊）]() (Shanghai Jiao Tong University) 
  
- [Xiaohui Gong（龚晓辉）]() (Shanghai Jiao Tong University) 
+  [Jiaqi Liu（刘佳祺）]() (Shanghai Jiao Tong University)  
+ 
+  [Jinpeng Han（韩锦鹏）]() (Shanghai Jiao Tong University)  
+ 
+ [Yikai Du（杜亦开）]() (Shanghai Jiao Tong University) 
 
- [Hang Lv（吕航）]() (Shanghai Jiao Tong University) 
+ [Haoda Meng（孟豪达）]() (Shanghai Jiao Tong University) 
+ 
+ [Yu Tang（唐宇）]() (Shanghai Jiao Tong University) 
+ 
+ [Jiazhen Yin（尹佳桢）]() (Shanghai Jiao Tong University) 
+
+ [Haodong Wang（王浩东）]() (Shanghai Jiao Tong University) 
 
  [Jihao Zhang（张济昊）]() (Shanghai Jiao Tong University) 
 
