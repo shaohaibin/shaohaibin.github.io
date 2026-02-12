@@ -449,9 +449,9 @@ ninja.data = [{
           description: "Distributed Privacy-Preserving Consensus via Matrix-weighted Coupling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-llm-enabled-swarm-robots",
-          title: 'LLM-enabled Swarm Robots',
-          description: "Dynamic task assignment in USV Swarms",
+            },},{id: "projects-usv-swarm-hunter",
+          title: 'USV Swarm Hunter',
+          description: "USV Hunter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-humanoid-robot",
