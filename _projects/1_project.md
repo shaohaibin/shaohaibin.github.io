@@ -7,11 +7,9 @@ importance: 1
 category: AI
 ---
 
-<div align="center">
 
 | <img src="/assets/img/images/videos/G1-3.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-2.gif" width="250"  /> | <img src="/assets/img/images/videos/G1-1.gif" width="250"  /> |  
 
-</div>
 
 ### **State-of-the-art**
 

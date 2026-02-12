@@ -7,11 +7,9 @@ importance: 3
 category: AI
 ---
 
-<div align="center">
 
-| <img src="/assets/img/projects/boids.gif" height="400"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="400"  /> |
+| <img src="/assets/img/projects/boids.gif" height="300"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
 
-</div>
 
 **State-of-the-art**
 

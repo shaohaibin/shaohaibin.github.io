@@ -7,12 +7,10 @@ importance: 5
 category: Swarm
 ---
 
-<div align="center">
 
-| <img src="/assets/img/images/videos/UGV-swarm-90.gif" width="400"  /> | <img src="/assets/img/images/videos/UGV-swarm-135.gif" width="400"  /> | 
-| <img src="/assets/img/images/videos/UGV-swarm-stop.gif" width="400"  /> | <img src="/assets/img/images/videos/UGV-swarm-square.gif" width="400"  /> |
+| <img src="/assets/img/images/videos/UGV-swarm-90.gif" width="300"  /> | <img src="/assets/img/images/videos/UGV-swarm-135.gif" width="300"  /> | 
+| <img src="/assets/img/images/videos/UGV-swarm-stop.gif" width="300"  /> | <img src="/assets/img/images/videos/UGV-swarm-square.gif" width="300"  /> |
 
-</div>
 
 **State-of-the-art**
 
