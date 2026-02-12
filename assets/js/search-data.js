@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/people/";
           },
         },{id: "nav-people",
           title: "People",
@@ -449,11 +449,11 @@ ninja.data = [{
           description: "Distributed Privacy-Preserving Consensus via Matrix-weighted Coupling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-humanoid-robot",
-          title: 'Humanoid Robot',
-          description: "Embodied Artificial Intelligence",
+            },},{id: "projects-llm-enabled-swarm-robots",
+          title: 'LLM-enabled Swarm Robots',
+          description: "Dynamic task assignment in USV Swarms",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_people/";
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-humanoid-robot",
           title: 'Humanoid Robot',
           description: "Embodied Artificial Intelligence",
