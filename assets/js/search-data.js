@@ -442,9 +442,9 @@ ninja.data = [{
           description: "Distributed Privacy-Preserving Consensus via Matrix-weighted Coupling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-usv-swarm-hunter",
-          title: 'USV Swarm Hunter',
-          description: "USV Hunter",
+            },},{id: "projects-uav-swarm-hunter",
+          title: 'UAV Swarm Hunter',
+          description: "UAV Hunter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-humanoid-robot",
