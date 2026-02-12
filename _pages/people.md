@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-permalink: /projects/
+permalink: /people/
 description: 
 nav: true
 nav_order: 5
