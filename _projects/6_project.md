@@ -9,7 +9,7 @@ category: Swarm
 
 <div align="center">
 
-<img src="/assets/img/projects/Hydrogen-power.png" width="400"  /> 
+| <img src="/assets/img/projects/Energy/Hydrogen-power.png" width="250" /> | <img src="/assets/img/projects/Energy/Hydrogen-powered-UAV.jpg" width="250" /> |
 
 </div>
 
