@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-swarm-intelligence-laboratory",
+  },{id: "nav-people",
+          title: "People",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-swarm-intelligence-laboratory",
           title: "Swarm Intelligence Laboratory",
           description: "",
           section: "Navigation",
@@ -32,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "members of the lab or group",
+          description: "members of the lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
