@@ -1,10 +1,10 @@
 ---
 layout: page
 title: People
-permalink: /people/
+permalink: /projects/
 description: 
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [graduate,undergraduate]
 horizontal: false
 ---
