@@ -1,15 +1,15 @@
 ---
 layout: page
-title: LLM-enabled Swarm Robots
-description: Dynamic task assignment in USV Swarms
-img: assets/img/LLM-swarm.jpg
+title:  USV Swarm Hunter
+description: USV Hunter
+img: assets/img/projects/UAV/netgun-UAV.png
 importance: 4
 category: Swarm
 ---
 
 <div align="center">
 
-<img src="/assets/img/projects/LLM-swarm.png" height="350" />
+<img src="/assets/img/projects/UAV/netgun-UAV.png" height="350" />
 
 </div>
 
