@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-people",
-          title: "People",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "nav-swarm-intelligence-laboratory",
+  },{id: "nav-swarm-intelligence-laboratory",
           title: "Swarm Intelligence Laboratory",
           description: "",
           section: "Navigation",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-people",
+          title: "People",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "nav-people",
           title: "People",
@@ -449,6 +449,11 @@ ninja.data = [{
           description: "Distributed Privacy-Preserving Consensus via Matrix-weighted Coupling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-humanoid-robot",
+          title: 'Humanoid Robot',
+          description: "Embodied Artificial Intelligence",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_people/";
             },},{id: "projects-humanoid-robot",
           title: 'Humanoid Robot',
           description: "Embodied Artificial Intelligence",
