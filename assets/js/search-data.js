@@ -452,6 +452,11 @@ ninja.data = [{
           description: "Embodied Artificial Intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-humanoid-robot",
+          title: 'Humanoid Robot',
+          description: "Embodied Artificial Intelligence",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project.md.bak/";
             },},{id: "projects-quadruped-robot",
           title: 'Quadruped Robot',
           description: "Embodied Artificial Intelligence",
