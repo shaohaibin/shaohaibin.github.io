@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
+- 2025 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE试点班).
+
+
 - 2024 Autumn, AU3318: Digital Signal Processing and Application, undergraduate (IEEE试点班).
 
 
