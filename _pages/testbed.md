@@ -11,7 +11,7 @@ nav_order: 3
 
 [Unitree Humanoid Robot G1 宇树G1人形机器人](/projects/1_project/)
 
-| <img src="/assets/img/images/videos/G1-4.gif" hight="300"  /> | <img src="/assets/img/images/videos/G1-2.gif" hight="300"  /> | <img src="/assets/img/images/videos/G1-1.gif" hight="300"  /> | 
+| <img src="/assets/img/images/videos/G1-4.gif" hight="300"  /> | <img src="/assets/img/images/videos/G1-2.gif" hight="300" /> | <img src="/assets/img/images/videos/G1-1.gif" hight="300" /> | 
 
 <br/>
 
