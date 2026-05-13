@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LLM-enabled Swarm Robots
-description: Dynamic task assignment in USV Swarms
+title: USV Swarm
+description:  Unmanned Surface Vehicle Swarm
 img: assets/img/projects/USV-swarm/USV-swarm.jpg
 importance: 5
 
