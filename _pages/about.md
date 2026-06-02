@@ -7,7 +7,7 @@ subtitle: Swarm Intelligence Laboratory
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>SEIEE Building 2-309</p>
     <p>800 Donghucan Road</p>
