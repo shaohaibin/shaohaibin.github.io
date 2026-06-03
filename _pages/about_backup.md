@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Swarm Intelligence Laboratory
+subtitle: Swarm Intelligence Laboratory @ Shanghai Jiao Tong University
 
 profile:
   align: right
