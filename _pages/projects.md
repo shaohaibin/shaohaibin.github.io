@@ -2,7 +2,7 @@
 layout: page
 title: 
 permalink: /projects/
-description: 
+description: Swarm Intelligence Laboratory
 nav: true
 nav_order: 2
 display_categories: [AI,Swarm,Network]
