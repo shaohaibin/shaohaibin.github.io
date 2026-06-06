@@ -8,7 +8,9 @@ category: AI
 ---
 
 
-| <img src="/assets/img/projects/flocking.gif" height="300"  /> | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
+| <img src="/assets/img/projects/flocking.gif" height="300"  /> | 
+
+| <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
 
 
 **State-of-the-art**
