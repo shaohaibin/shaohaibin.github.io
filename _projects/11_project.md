@@ -2,7 +2,7 @@
 layout: page
 title:  UAV Swarm Hunter
 description: UAV Hunter
-img: assets/img/projects/netgun-UAV/netgun-UAV.png
+img: assets/img/projects/netgun-UAV/netgun-UAV-thumb.jpg
 importance: 5
 category: Swarm
 ---
