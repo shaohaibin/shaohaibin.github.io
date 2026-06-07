@@ -6,7 +6,8 @@ description:
 nav: true
 nav_order: 7
 ---
-  
+
+<div align="center"><a href="/projects/"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:18%;"/></a></div>
 
 ### [博士后招聘]()
 在多智能体系统、人工智能、无人系统、多足机器人、复杂网络方向招收 3-5 名博士后。[\[上海交通大学博士后\]](https://postd.sjtu.edu.cn/info/1086/5905.htm)  

@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+<div align="center"><a href="/projects/"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:18%;"/></a></div>
+
+
   [Yao Hu（胡耀）]() (Shanghai Jiao Tong University) 
   
   [Tingyu Wang（王廷煜）]() (Shanghai Jiao Tong University) 
