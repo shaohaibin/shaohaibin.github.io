@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swarm Intelligence Laboratory
+title: Research
 permalink: /projects/
 description: 
 nav: true
