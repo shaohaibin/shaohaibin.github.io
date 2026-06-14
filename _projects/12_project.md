@@ -10,7 +10,7 @@ category: Swarm
 
 <img src="/assets/img/projects/USV-swarm/USV.png" height="450" />
 
-
+| <img src="/assets/img/images/videos/usv3-1.gif" height="300"  /> |  <img src="/assets/img/images/videos/usv6-2.gif" height="300"  /> |
 **State-of-the-art**
 
 1. **Distributed Architecture & LPI/LPD Communications**: Shifting from centralized to hybrid “perception-communication-control-decision” architectures. Recent naval exercises (e.g., Silent Swarm 2025) demonstrate smart beam-hopping radios achieving 3× LPI/LPD improvements and 60× instantaneous bandwidth, though 85.4% of studies remain simulation-only.
