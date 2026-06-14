@@ -8,7 +8,7 @@ category: Swarm
 ---
 
 
-| <img src="/assets/img/projects/netgun-UAV/netgun-uav-1.gif" height="250" /> | <img src="/assets/img/projects/netgun-UAV/netgun-uav-2.gif" height="250" /> |
+| <img src="/assets/img/projects/netgun-UAV/netgun-uav-3.gif" height="250" /> | <img src="/assets/img/projects/netgun-UAV/netgun-uav-4.gif" height="250" /> |
 
 | <img src="/assets/img/projects/netgun-UAV/netgun-UAV.png" height="250" /> |  <img src="/assets/img/projects/netgun-UAV/UAV-hunter-target.jpg" height="250" /> |
 
