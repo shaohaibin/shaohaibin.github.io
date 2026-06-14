@@ -10,6 +10,7 @@ category: Swarm
 
 <img src="/assets/img/projects/LLM-enabled-Swarm-Robots/LLM-swarm.png" height="300" />
 
+| <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
 
 **State-of-the-art**
 
