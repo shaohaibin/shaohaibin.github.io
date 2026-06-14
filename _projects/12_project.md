@@ -8,7 +8,7 @@ importance: 5
 category: Swarm
 ---
 
-<img src="/assets/img/projects/USV-swarm/USV.png" height="400" />
+<img src="/assets/img/projects/USV-swarm/USV.png" height="450" />
 
 
 **State-of-the-art**
