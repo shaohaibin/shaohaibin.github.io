@@ -61,6 +61,8 @@ nav_order: 3
 [Motion Capture Suit 动捕系统]()
 
 | <img src="/assets/img/images/testbed/955-1.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/955-2.jpg" width="400"  /> |
+<img src="/assets/img/images/testbed/955-5-small.jpg" width="400"  />  | 
+
 
 <br/>
 
