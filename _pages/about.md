@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>SEIEE Building 2-309</p>
+    <p>Shanghai Jiao Tong University</p>
     <p>800 Donghucan Road</p>
     <p>Shanghai 200240, China</p>
     <p>shore AT sjtu.edu.cn</p>
