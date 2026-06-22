@@ -9,6 +9,18 @@ nav_order: 3
 
 <div align="center"><a href="/projects/"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:18%;"/></a></div>
 
+[Motion Capture Suit 动捕系统]()
+
+| <img src="/assets/img/images/testbed/955-5-small.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/955-2.jpg" width="400"  /> |<img src="/assets/img/images/testbed/955-1.jpg" width="400"  />  | 
+
+<br/>
+
+[Indoor Experimental Area 室内试验环境]()
+
+| <img src="/assets/img/images/testbed/testbed3.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/testbed2.jpg" width="400"  /> |
+
+<br/>
+
 [Unitree Humanoid Robot G1 宇树G1人形机器人](/projects/1_project/)
 
 | <img src="/assets/img/images/videos/G1-4.gif" height="300"  /> | <img src="/assets/img/images/videos/G1-2.gif" height="300" /> | <img src="/assets/img/images/videos/G1-1.gif" height="300" /> | 
@@ -56,15 +68,5 @@ nav_order: 3
 
 | <img src="/assets/img/images/videos/usv-collision-avoidance.gif" height="300"  /> |
 
-<br/>
 
-[Motion Capture Suit 动捕系统]()
-
-| <img src="/assets/img/images/testbed/955-1.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/955-2.jpg" width="400"  /> |
-
-<br/>
-
-[Indoor Experimental Area 室内试验环境]()
-
-| <img src="/assets/img/images/testbed/testbed3.jpg" width="400"  /> |  <img src="/assets/img/images/testbed/testbed2.jpg" width="400"  /> |
 
