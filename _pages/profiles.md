@@ -10,6 +10,12 @@ nav_order: 5
 <div align="center"><a href="/projects/"><img src="/assets/img/images/logo/logo-SILab.png" style="zoom:18%;"/></a></div>
 
 
+  [Tianchen Lin（林天辰）]() (Shanghai Jiao Tong University) 
+
+  [Yanchao Jiang（姜琰超）]() (Shanghai Jiao Tong University) 
+  
+  [Xinhan Qiao（乔信涵）]() (Shanghai Jiao Tong University) 
+
   [Yao Hu（胡耀）]() (Shanghai Jiao Tong University) 
   
   [Tingyu Wang（王廷煜）]() (Shanghai Jiao Tong University) 
